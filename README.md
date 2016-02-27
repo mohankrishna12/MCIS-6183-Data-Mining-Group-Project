@@ -17,7 +17,7 @@
  --Can there be other ways to predict the success or failure of movies?
  --If some actors,actresses or directors failed movies data were collated when they started their careers but improved on the success of their
  # RESEARCH QUESTIONS
- -- Can this application correctly predict the success or failure of the movies based on actor,actress or director previous historical data
+ --Can this application correctly predict the success or failure of the movies based on actor,actress or director previous historical data
  -- What if the historical data collated about actor,actress and director on which the prediction of success or failure of movies were wrong
  -- Can there be other ways to predict the success or failure of movies?
  -- If some actors,actresses or directors failed movies data were collated when they started their careers but improved on the success of their
