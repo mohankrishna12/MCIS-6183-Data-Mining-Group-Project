@@ -29,6 +29,27 @@ collated?
 This application will be designed and implemented using Microsoft C# and Microsoft SQL Server(Database Engine). The integrated development
 environment will be Visual Studio 2010 Express Edition
 
+SQL Codes to filter the data Set.
+- First the Data was imported to SSMS database from an excel spreasheet using the Microsoft Import/Export Wizard
+- Second, 200 random data was selected for our projects data sample using the following SQL code:
+        SELECT TOP 200 * FROM [dbo].[movies$]
+- Third, the 200 dataset were imported to a new tabel in SSMS databse again using Import/Export Wizard and the source for the data was the SQL query
+- Fourth,movie entity/table had a one to many realtionship with the rating entity/table, so to find the average rating of each 200 movies the following SQL query was used.
+        SELECT 
+      	M.[movieId]
+	      ,M.[title]
+	      ,M.[genres]
+	      ,AVG(R.[rating]) AS RATINGS
+      FROM [dbo].[200_MOVIE_DATA] M
+      LEFT JOIN [dbo].[ratings$] R
+	      ON R.[movieId] = M.[movieId]
+
+      GROUP BY 
+	      M.[movieId]
+      	,M.[title]
+	      ,M.[genres]
+
+
 # PROJECT MANAGEMENT
 Team Members:
 - Uchendu Daniel Korieocha(999990236): I developed the proposal and i would be writing the C# codes for the application.
@@ -47,5 +68,5 @@ the project is completed.
 | Checkpoint Date | Expected Deliverable | Responsible Team Member(s) | Checkpoints Results |
 | --------------- | -------------------- | -------------------------- | ------------------- |
 | 02-15-2016 | Project Proposal | Uchendu Korieocha |                      |
-
+| 03-09-2016 | SQL codes for data set  | Tribikya Thapa | 888881533
 
