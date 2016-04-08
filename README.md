@@ -17,6 +17,7 @@ has four Microsoft Excel files in the typeof comma separated values which are li
 we paln to add more entities to the data like names of actors,actress, music directors.the data is laid out to be human readable not 
 machine-readable the data is generally consistent.
 
+The final data sets was randomly selected using an SQL code from data sets that were imported to SSMS data base from an excel spread sheet using microsoft import/export wizard. The average rating of each 200 movies was derived using an SQL query.
 # RESEARCH QUESTIONS
 - Can this application correctly predict the success or failure of the movies based on actor,actress or director previous historical data
 - What if the historical data collated about actor,actress and director on which the prediction of success or failure of movies were wrong
@@ -36,7 +37,7 @@ SQL Codes to filter the data Set.
  
  -        SELECT TOP 200 * FROM [dbo].[movies$]
  -        
- -- Third, the 200 dataset were imported to a new tabel in SSMS databse again using Import/Export Wizard and the source for the data was the SQL query
+ -- Third, the 200 dataset were imported to a new table in SSMS databse again using Import/Export Wizard and the source for the data was the SQL query
 
  -- Fourth,movie entity/table had a one to many realtionship with the rating entity/table, so to find the average rating of each 200 movies the following SQL query was used.
  
@@ -78,7 +79,7 @@ Team Members:
 - Uchendu Daniel Korieocha(999990236): I developed the proposal and i would be writing the C# codes for the application.
 - Tribikya Mardan Thapa(888881533):Tribikya will create the database,write the SQL queries to connect with the C# codes. Tribikya will work
 as the Admin in this project.
-- Chigozie Mozie(999990435): Chigozie will work on the dataset to add other features if necessary and he will also write the project report.
+- Chigozie Cliff Mozie(999990435): Chigozie will work on the dataset to add other features if necessary and he will also write the project report.
 - Dimosh Tradhan(999990248): Dimosh will work with Chigozie on the dataset and he will create the PowerPoint slides for presentation when 
 the project is completed.
 
@@ -87,7 +88,7 @@ the project is completed.
 | ----------- | ---------------- | ------------- |
 | Uchendu Korieocha | I developed the Project proposal and i would be writing the C# codes. i'm proficient in Microsoft C# programming language,i"ve strong analytical skills,i can work as a team in an organized way.all these i would bring to the successful completion of the project. | After successful meetings with my team members, we agreed to develop an application to predict success or failure of a movie using data mining. this stage of the project is a successful compiled proposal to explain what the project is all about. | 
 |Tribikya Thapa | I create the database to best suite the application for the project. I deveolop the SQL queries. The majority of my task is ETL (extract, transform, and load) data from a source to destination. In this project the source data were in xlsx file and the destination database is in SSMS(SQL Server MAnagement Studio) When I get the data extracted from the source I transfer it according to the project need and populate it to all the different tables that we have in our database.
-
+|Chigozie Mozie |   I created the final data sets that comprise of 200 movies with 7 attributes which are; movie i.d, movies, genre, average rating, actor, actress, director. I compiled the data sets before forwarding them to the SQL develpoer(Tribikya).The data sets was imported to SSMS data base from an excel spreadsheet using micosoft import/export wizard then 200 random data was selected from it. The average rating of each 200 movies was derived using an SQL Query.
 # DELIVERABLES AND CHECKPOINTS
 | Checkpoint Date | Expected Deliverable | Responsible Team Member(s) | Checkpoints Results |
 | --------------- | -------------------- | -------------------------- | ------------------- |
