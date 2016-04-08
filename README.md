@@ -48,12 +48,15 @@ SQL Codes to filter the data Set.
  -	      M.[movieId]
  -      	,M.[title]
  -	      ,M.[genres]
+ -	      
  -- NEXT STEP IS TO GET THE AVERAGE RATING OF ALL POSSIBLE COMBINATIONS
+
 SELECT
 	[ACTOR]
 	,[ACTRESS]
 	,[DIRECTOR]
 	,AVG([AVG_RATING])AS AVG_RATING_AAD
+
 
 FROM [dbo].[Final_Data_Set]
 
