@@ -31,24 +31,32 @@ environment will be Visual Studio 2010 Express Edition
 
 SQL Codes to filter the data Set.
  -- First the Data was imported to SSMS database from an excel spreasheet using the Microsoft Import/Export Wizard
+ 
  -- Second, 200 random data was selected for our projects data sample using the following SQL code:
+ 
  -        SELECT TOP 200 * FROM [dbo].[movies$]
+ -        
  -- Third, the 200 dataset were imported to a new tabel in SSMS databse again using Import/Export Wizard and the source for the data was the SQL query
+
  -- Fourth,movie entity/table had a one to many realtionship with the rating entity/table, so to find the average rating of each 200 movies the following SQL query was used.
- -        SELECT 
- -      	M.[movieId]
- -	      ,M.[title]
- -	      ,M.[genres]
- -	      ,AVG(R.[rating]) AS RATINGS
- -      FROM [dbo].[200_MOVIE_DATA] M
- -      LEFT JOIN [dbo].[ratings$] R
- -	      ON R.[movieId] = M.[movieId]
- -
- -      GROUP BY 
- -	      M.[movieId]
- -      	,M.[title]
- -	      ,M.[genres]
- -	      
+ 
+         SELECT 
+         
+       	M.[movieId]
+ 	      ,M.[title]
+ 	      ,M.[genres]
+ 	      ,AVG(R.[rating]) AS RATINGS
+ 	      
+       FROM [dbo].[200_MOVIE_DATA] M
+       
+       LEFT JOIN [dbo].[ratings$] R
+ 	      ON R.[movieId] = M.[movieId]
+ 
+       GROUP BY 
+       M.[movieId]
+       	,M.[title]
+       ,M.[genres]
+ 	      
  -- NEXT STEP IS TO GET THE AVERAGE RATING OF ALL POSSIBLE COMBINATIONS
 
 SELECT
@@ -78,7 +86,7 @@ the project is completed.
 | Team Member | Roles and skills | Contributions |
 | ----------- | ---------------- | ------------- |
 | Uchendu Korieocha | I developed the Project proposal and i would be writing the C# codes. i'm proficient in Microsoft C# programming language,i"ve strong analytical skills,i can work as a team in an organized way.all these i would bring to the successful completion of the project. | After successful meetings with my team members, we agreed to develop an application to predict success or failure of a movie using data mining. this stage of the project is a successful compiled proposal to explain what the project is all about. | 
-|Tribikya Thapa | I deveolop the SQL queries. The majority of my task is ETL (extract, transform, and load) data from a source to destination. In this project the source data were in xlsx file and the destination database is in SSMS(SQL Server MAnagement Studio) When I get the data extracted from the source I transfer it according to the project need and populate it to all the different tables that we have in our database.
+|Tribikya Thapa | I create the database to best suite the application for the project. I deveolop the SQL queries. The majority of my task is ETL (extract, transform, and load) data from a source to destination. In this project the source data were in xlsx file and the destination database is in SSMS(SQL Server MAnagement Studio) When I get the data extracted from the source I transfer it according to the project need and populate it to all the different tables that we have in our database.
 
 # DELIVERABLES AND CHECKPOINTS
 | Checkpoint Date | Expected Deliverable | Responsible Team Member(s) | Checkpoints Results |
