@@ -5,7 +5,7 @@ This application would provide a model for predicting the success class such as 
 on developed methodology in which the historical data of each component such as actor,actress and director that influences 
 the success or failure of a movie is given. There will be an Admin section in the application to control the backend where more movies 
 data of a particular film crew will be added(if necessary). the selected movie would compare with a particular actor,actress,director 
-to know if the movie would be a success of failure and this is based on historical data stored in the database. The factors such as actor,actrss and director etc can predict the success or failure of the movie. the application helps to predict a new movie and a customer 
+to know if the movie would be a success of failure and this is based on historical data stored in the database. The factors such as actor,actress and director etc can predict the success or failure of the movie. the application helps to predict a new movie and a customer 
 can decide whether to book ticket in advance or not.
 
 # DATA
@@ -77,8 +77,8 @@ SQL Codes to filter the data Set.
      ```
      
 I've developed the web application for the project using ASP.net. the application has a Home page and Prediction page
--Home page:The home page serves as the application start up page, it has static images of movies and horizontal navigation to the prediction page.
--Prediction page: On the prediction page, the user enters the name of a new movie and based on the selection of director,actor and actress, the application can predict if the movie would be a flop, hit or super hit.
+- Home page:The home page serves as the application start up page, it has static images of movies and horizontal navigation to the prediction page.
+- Prediction page: On the prediction page, the user enters the name of a new movie and based on the selection of director,actor and actress, the application can predict if the movie would be a flop, hit or super hit.
 The application would work with an algorithm that queries the database to check for stored ratings on each combination of a given director, actor and actress.
 My group members have been able to store past records of directors,actors and actresses with their possible combinations and average rating.
 
@@ -102,6 +102,6 @@ the project is completed.
 # DELIVERABLES AND CHECKPOINTS
 | Checkpoint Date | Expected Deliverable | Responsible Team Member(s) | Checkpoints Results |
 | --------------- | -------------------- | -------------------------- | ------------------- |
-| 02-15-2016 | Project Proposal | Uchendu Korieocha | We've agreed to work on a dataset that has different Excel sheets, our aim is to combine these Excel sheets, add names of actors, actresses and directors. we intend to create an Excel file that has all the possible combinations of actors, actresses and directors, each possible combination will be given a rating.                      |
-| 03-09-2016 | SQL codes for data set  | Tribikya Thapa |       |
+| 02-15-2016 | Project Proposal | Uchendu Korieocha | We've agreed to work on a dataset that has different Excel sheets, our aim is to combine these Excel sheets, add names of actors, actresses and directors. we intend to create an Excel file that has all the possible combinations of actors, actresses and directors, each possible combination will be given a rating.   |
+| 03-09-2016 | SQL codes for data set  | Tribikya Thapa |          |
 
