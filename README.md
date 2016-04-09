@@ -40,6 +40,7 @@ SQL Codes to filter the data Set.
  -- Third, the 200 dataset were imported to a new tabel in SSMS databse again using Import/Export Wizard and the source for the data was the SQL query
 
  -- Fourth,movie entity/table had a one to many realtionship with the rating entity/table, so to find the average rating of each 200 movies the following SQL query was used.
+       
        ```
         SELECT 
        
@@ -57,7 +58,9 @@ SQL Codes to filter the data Set.
        M.[movieId]
        	,M.[title]
        ,M.[genres]
-       ```    
+       
+       ```  
+       
  -- NEXT STEP IS TO GET THE AVERAGE RATING OF ALL POSSIBLE COMBINATIONS
      
       ```
@@ -74,7 +77,9 @@ SQL Codes to filter the data Set.
 	[ACTOR]
 	,[ACTRESS]
 	,[DIRECTOR]
+     
       ```
+      
 # PROJECT MANAGEMENT
 Team Members:
 - Uchendu Daniel Korieocha(999990236): I developed the proposal and i would be writing the C# codes for the application.
