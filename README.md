@@ -89,12 +89,12 @@ the project is completed.
 # TEAM
 | Team Member | Roles and skills | Contributions |
 | ----------- | ---------------- | ------------- |
-| Uchendu Korieocha | I developed the Project proposal and i would be writing the C# codes. i'm proficient in Microsoft C# programming language,i"ve strong analytical skills,i can work as a team in an organized way.all these i would bring to the successful completion of the project. | After successful meetings with my team members, we agreed to develop an application to predict success or failure of a movie using data mining. this stage of the project is a successful compiled proposal to explain what the project is all about. | 
+| Uchendu Korieocha | I developed the Project proposal and i would be developing the application using Microsoft C# and ASP.net. i'm proficient in Microsoft C# programming language,i've strong analytical skills,i can work as a team in an organized way.all these i would bring to the successful completion of the project. | After successful meetings with my team members, we agreed to develop an application to predict success or failure of a movie using data mining. this stage of the project is a successful compiled proposal to explain what the project is all about. | 
 |Tribikya Thapa | I create the database to best suite the application for the project. I deveolop the SQL queries. The majority of my task is ETL (extract, transform, and load) data from a source to destination. In this project the source data were in xlsx file and the destination database is in SSMS(SQL Server MAnagement Studio) When I get the data extracted from the source I transfer it according to the project need and populate it to all the different tables that we have in our database. |
 | Dimosh Pradhan | As we all decided to create an application to predict the success or failure of the upcomming movies, I worked on the collection of dataset for execution of our project working with Chigozie. We have our dataset on the xlsx file format which we have imported in MSsql database. We are looking ahead to add some feature on the project. Also I collected the combination data set of different combination of actor , actress and director which is used in our project to get the ratings. I also will be creating the powerpoint slides for our project which explains the full details of the project and has some screenshots of our application.  |
 # DELIVERABLES AND CHECKPOINTS
 | Checkpoint Date | Expected Deliverable | Responsible Team Member(s) | Checkpoints Results |
 | --------------- | -------------------- | -------------------------- | ------------------- |
 | 02-15-2016 | Project Proposal | Uchendu Korieocha |  We have a dataset in Excel format that is clean and a group member has imported the dataset in Microsoft SQL Server database                     |
-| 03-09-2016 | SQL codes for data set  | Tribikya Thapa | 888881533 |
+| 03-09-2016 | SQL codes for data set  | Tribikya Thapa |       |
 
