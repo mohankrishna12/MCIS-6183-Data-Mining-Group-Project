@@ -5,8 +5,10 @@ This application would provide a model for predicting the success class such as 
 on developed methodology in which the historical data of each component such as actor,actress,director, music director that influences 
 the success or failure of a movie is given. There will be an Admin section in the application to control the backend where more movies 
 data of a particular film crew will be added(if necessary). the selected movie would compare with a particular actor,actress,director 
-to know if the movie would be a success or failure and this is based on historical data stored in the database. The factors such as actor,actrss,
-director can predict the success or failure of the movie. the application helps to find out review of new movies and a customer 
+to know if the movie would be a success of failure and this is based on historical data stored in the database. also what particular 
+day of the week the movie is released contributes to the success or failure of the movie. if the movie releases on a weekend, there 
+would be a higher weighting but if movie releases on a week day there would be a lower weighting. The factors such as actor,actrss,
+director etc can predict the success or failure of the movie. the application helps to find out review of new movies and a customer 
 can decide whether to book ticket in advance or not.
 
 # DATA
@@ -14,6 +16,7 @@ We got the dataset from [MovieLens] (http://grouplens.org/datasets/movielens/) b
 has four Microsoft Excel files in the typeof comma separated values which are links.csv, movies.csv, ratings.csv and tags.csv. 
 we paln to add more entities to the data like names of actors,actress, music directors.the data is laid out to be human readable not 
 machine-readable the data is generally consistent.
+We derived the average rating of each 200 movies using an SQL query.
 
 # RESEARCH QUESTIONS
 - Can this application correctly predict the success or failure of the movies based on actor,actress or director previous historical data
@@ -24,7 +27,8 @@ movies as they gained experience in the industry. is it right to predict the suc
 collated?
 
 # CODE AND APPLICATION
-This application will be designed and implemented using Microsoft C#, ASP.net and Microsoft SQL Server(Database Engine). The integrated development is Microsoft Visual Studio 
+This application will be designed and implemented using Microsoft C# and Microsoft SQL Server(Database Engine). The integrated development
+environment will be Microsoft Visual Studio 
 
 SQL Codes to filter the data Set.
  -- First the Data was imported to SSMS database from an excel spreasheet using the Microsoft Import/Export Wizard
@@ -69,13 +73,6 @@ GROUPBY
 	[ACTOR]
 	,[ACTRESS]
 	,[DIRECTOR]
-	
-I've developed the web application for the project using ASP.net. the application has a Home page and Prediction page
-- Home page:The home page serves as the application start up page, it has static images of movies and horizontal navigation to the prediction page.
-- Prediction page: On the prediction page, the user enters the name of a new movie and based on the selection of director,actor and actress, the application can predict if the movie would be a flop, hit or super hit.
-The application would work with an algorithm that queries the database to check for stored ratings on each combination of a given director, actor and actress.
-My group members have been able to store past records of directors,actors and actresses with their possible combinations and average rating.
-Since we have a functional database as our look up database that predicts the success of a movie based on past records of directors, actors and actresses. the next phase on our project is to connect the application to the database, write C# codes to query the database based on the user selection.
 
 # PROJECT MANAGEMENT
 Team Members:
@@ -89,12 +86,13 @@ the project is completed.
 # TEAM
 | Team Member | Roles and skills | Contributions |
 | ----------- | ---------------- | ------------- |
-| Uchendu Korieocha | I developed the Project proposal and i would be developing the application using Microsoft C# and ASP.net. i'm proficient in Microsoft C# programming language,i've strong analytical skills,i can work as a team in an organized way.all these i would bring to the successful completion of the project. | After successful meetings with my team members, we agreed to develop an application to predict success or failure of a movie using data mining. this stage of the project is a successful compiled proposal to explain what the project is all about. | 
+| Uchendu Korieocha | I developed the Project proposal and i would be writing the C# codes. i'm proficient in Microsoft C# programming language,i"ve strong analytical skills,i can work as a team in an organized way.all these i would bring to the successful completion of the project. | After successful meetings with my team members, we agreed to develop an application to predict success or failure of a movie using data mining. this stage of the project is a successful compiled proposal to explain what the project is all about. | 
 |Tribikya Thapa | I create the database to best suite the application for the project. I deveolop the SQL queries. The majority of my task is ETL (extract, transform, and load) data from a source to destination. In this project the source data were in xlsx file and the destination database is in SSMS(SQL Server MAnagement Studio) When I get the data extracted from the source I transfer it according to the project need and populate it to all the different tables that we have in our database. |
+| Chigozie Mozie | I created the final data sets which comprises of 200 movies with 7 attributes which are; movie i.d, movies, genre, average, actor, actress, director. I executed the data sets before fowarding them the SQL developer(Tribikya). The 200 random data was selected by the SQL developer using an SQL code from the data sets imported to SSMS data base from an excel spreadsheet using microsoft import/export wizard. The average rating of each 200 movies was derived using an SQL query.
 | Dimosh Pradhan | As we all decided to create an application to predict the success or failure of the upcomming movies, I worked on the collection of dataset for execution of our project working with Chigozie. We have our dataset on the xlsx file format which we have imported in MSsql database. We are looking ahead to add some feature on the project. Also I collected the combination data set of different combination of actor , actress and director which is used in our project to get the ratings. I also will be creating the powerpoint slides for our project which explains the full details of the project and has some screenshots of our application.  |
 # DELIVERABLES AND CHECKPOINTS
 | Checkpoint Date | Expected Deliverable | Responsible Team Member(s) | Checkpoints Results |
 | --------------- | -------------------- | -------------------------- | ------------------- |
-| 02-15-2016 | Project Proposal | Uchendu Korieocha |  We have a dataset in Excel format that is clean and a group member has imported the dataset in Microsoft SQL Server database                     |
-| 03-09-2016 | SQL codes for data set  | Tribikya Thapa |       |
+| 02-15-2016 | Project Proposal | Uchendu Korieocha |                      |
+| 03-09-2016 | SQL codes for data set  | Tribikya Thapa | 888881533 |
 
