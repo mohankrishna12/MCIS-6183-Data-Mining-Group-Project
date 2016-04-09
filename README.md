@@ -63,22 +63,22 @@ SQL Codes to filter the data Set.
        
  -- NEXT STEP IS TO GET THE AVERAGE RATING OF ALL POSSIBLE COMBINATIONS
      
-      ```
-        SELECT
-	[ACTOR]
-	,[ACTRESS]
-	,[DIRECTOR]
-	,AVG([AVG_RATING])AS AVG_RATING_AAD
+     ```
+     SELECT 
+     [ACTOR] 
+     ,[ACTRESS] 
+     ,[DIRECTOR] 
+     ,AVG([AVG_RATING])AS AVG_RATING_AAD
         
-        FROM [dbo].[Final_Data_Set]
-        
-        GROUPBY
-	[ACTOR]
-	,[ACTRESS]
-	,[DIRECTOR]
+	FROM [dbo].[Final_Data_Set]
+	
+     GROUPBY 
+      [ACTOR]
+     ,[ACTRESS]
+     ,[DIRECTOR]
+	
+     ```
      
-      ```
-      
 # PROJECT MANAGEMENT
 Team Members:
 - Uchendu Daniel Korieocha(999990236): I developed the proposal and i would be writing the C# codes for the application.
