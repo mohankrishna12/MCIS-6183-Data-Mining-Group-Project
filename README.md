@@ -71,8 +71,8 @@ GROUPBY
 	,[DIRECTOR]
 	
 I've developed the web application for the project using ASP.net. the application has a Home page and Prediction page
--Home page:The home page serves as the application start up page, it has static images of movies and horizontal navigation to the prediction page.
--Prediction page: On the prediction page, the user enters the name of a new movie and based on the selection of director,actor and actress, the application can predict if the movie would be a flop, hit or super hit.
+- Home page:The home page serves as the application start up page, it has static images of movies and horizontal navigation to the prediction page.
+- Prediction page: On the prediction page, the user enters the name of a new movie and based on the selection of director,actor and actress, the application can predict if the movie would be a flop, hit or super hit.
 The application would work with an algorithm that queries the database to check for stored ratings on each combination of a given director, actor and actress.
 My group members have been able to store past records of directors,actors and actresses with their possible combinations and average rating.
 Since we have a functional database as our look up database that predicts the success of a movie based on past records of directors, actors and actresses. the next phase on our project is to connect the application to the database, write C# codes to query the database based on the user selection.
