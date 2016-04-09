@@ -64,15 +64,14 @@ SQL Codes to filter the data Set.
  -- NEXT STEP IS TO GET THE AVERAGE RATING OF ALL POSSIBLE COMBINATIONS
      
       ```
-         SELECT
+        SELECT
 	[ACTOR]
 	,[ACTRESS]
 	,[DIRECTOR]
 	,AVG([AVG_RATING])AS AVG_RATING_AAD
-
-
+        
         FROM [dbo].[Final_Data_Set]
-
+        
         GROUPBY
 	[ACTOR]
 	,[ACTRESS]
