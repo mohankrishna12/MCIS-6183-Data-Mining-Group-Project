@@ -5,10 +5,8 @@ This application would provide a model for predicting the success class such as 
 on developed methodology in which the historical data of each component such as actor,actress,director, music director that influences 
 the success or failure of a movie is given. There will be an Admin section in the application to control the backend where more movies 
 data of a particular film crew will be added(if necessary). the selected movie would compare with a particular actor,actress,director 
-to know if the movie would be a success of failure and this is based on historical data stored in the database. also what particular 
-day of the week the movie is released contributes to the success or failure of the movie. if the movie releases on a weekend, there 
-would be a higher weighting but if movie releases on a week day there would be a lower weighting. The factors such as actor,actrss,
-director etc can predict the success or failure of the movie. the application helps to find out review of new movies and a customer 
+to know if the movie would be a success or failure and this is based on historical data stored in the database. The factors such as actor,actrss,
+director can predict the success or failure of the movie. the application helps to find out review of new movies and a customer 
 can decide whether to book ticket in advance or not.
 
 # DATA
@@ -26,8 +24,7 @@ movies as they gained experience in the industry. is it right to predict the suc
 collated?
 
 # CODE AND APPLICATION
-This application will be designed and implemented using Microsoft C# and Microsoft SQL Server(Database Engine). The integrated development
-environment will be Microsoft Visual Studio 
+This application will be designed and implemented using Microsoft C#, ASP.net and Microsoft SQL Server(Database Engine). The integrated development is Microsoft Visual Studio 
 
 SQL Codes to filter the data Set.
  -- First the Data was imported to SSMS database from an excel spreasheet using the Microsoft Import/Export Wizard
@@ -72,6 +69,13 @@ GROUPBY
 	[ACTOR]
 	,[ACTRESS]
 	,[DIRECTOR]
+	
+I've developed the web application for the project using ASP.net. the application has a Home page and Prediction page
+-Home page:The home page serves as the application start up page, it has static images of movies and horizontal navigation to the prediction page.
+-Prediction page: On the prediction page, the user enters the name of a new movie and based on the selection of director,actor and actress, the application can predict if the movie would be a flop, hit or super hit.
+The application would work with an algorithm that queries the database to check for stored ratings on each combination of a given director, actor and actress.
+My group members have been able to store past records of directors,actors and actresses with their possible combinations and average rating.
+Since we have a functional database as our look up database that predicts the success of a movie based on past records of directors, actors and actresses. the next phase on our project is to connect the application to the database, write C# codes to query the database based on the user selection.
 
 # PROJECT MANAGEMENT
 Team Members:
@@ -91,6 +95,6 @@ the project is completed.
 # DELIVERABLES AND CHECKPOINTS
 | Checkpoint Date | Expected Deliverable | Responsible Team Member(s) | Checkpoints Results |
 | --------------- | -------------------- | -------------------------- | ------------------- |
-| 02-15-2016 | Project Proposal | Uchendu Korieocha |                      |
+| 02-15-2016 | Project Proposal | Uchendu Korieocha |  We have a dataset in Excel format that is clean and a group member has imported the dataset in Microsoft SQL Server database                     |
 | 03-09-2016 | SQL codes for data set  | Tribikya Thapa | 888881533 |
 
