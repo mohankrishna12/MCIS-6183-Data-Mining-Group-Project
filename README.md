@@ -41,8 +41,8 @@ SQL Codes to filter the data Set.
 
  -- Fourth,movie entity/table had a one to many realtionship with the rating entity/table, so to find the average rating of each 200 movies the following SQL query was used.
        ```
-         SELECT 
-         
+        SELECT 
+       
        	M.[movieId]
  	      ,M.[title]
  	      ,M.[genres]
@@ -57,8 +57,9 @@ SQL Codes to filter the data Set.
        M.[movieId]
        	,M.[title]
        ,M.[genres]
-    ```    
+       ```    
  -- NEXT STEP IS TO GET THE AVERAGE RATING OF ALL POSSIBLE COMBINATIONS
+     
       ```
          SELECT
 	[ACTOR]
@@ -73,7 +74,7 @@ SQL Codes to filter the data Set.
 	[ACTOR]
 	,[ACTRESS]
 	,[DIRECTOR]
-    ```
+      ```
 # PROJECT MANAGEMENT
 Team Members:
 - Uchendu Daniel Korieocha(999990236): I developed the proposal and i would be writing the C# codes for the application.
