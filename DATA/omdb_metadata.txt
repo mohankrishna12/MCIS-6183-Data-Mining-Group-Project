@@ -1,4 +1,3 @@
-C:\Users\Keith\Anaconda2\python.exe C:/Users/Keith/PycharmProjects/MCIS-6183-Data-Mining-Group-Project/DATA/preprocess.py
 title=Trust
 year=2010
 director=David Schwimmer
