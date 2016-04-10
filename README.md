@@ -24,7 +24,7 @@ movies as they gained experience in the industry. is it right to predict the suc
 collated?
 
 # CODE AND APPLICATION
-This application will be designed and implemented using Microsoft C# and Microsoft SQL Server(Database Engine). The integrated development
+This application will be designed and implemented using Microsoft C#, ASP.net and Microsoft SQL Server(Database Engine). The integrated development
 environment will be Microsoft Visual Studio 
 
 SQL Codes to filter the data Set.
