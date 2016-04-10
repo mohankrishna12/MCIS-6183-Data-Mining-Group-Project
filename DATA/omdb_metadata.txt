@@ -1,0 +1,1225 @@
+C:\Users\Keith\Anaconda2\python.exe C:/Users/Keith/PycharmProjects/MCIS-6183-Data-Mining-Group-Project/DATA/preprocess.py
+title=Trust
+year=2010
+director=David Schwimmer
+actors=Clive Owen, Catherine Keener, Liana Liberato, Jason Clarke
+genre=Crime, Drama, Thriller
+imdbRating=7.0
+###
+title=Group Sex
+year=2010
+director=Lawrence Trilling
+actors=Josh Cooke, Greg Grunberg, Odette Annable, Rob Benedict
+genre=Comedy
+imdbRating=5.1
+###
+title=The Speed of Thought
+year=2011
+director=Evan Oppenheimer
+actors=Nick Stahl, Mía Maestro, Taryn Manning, Blair Brown
+genre=Sci-Fi, Thriller
+imdbRating=4.8
+###
+title=Stolen
+year=2012
+director=Simon West
+actors=Nicolas Cage, Josh Lucas, Danny Huston, Malin Akerman
+genre=Action, Crime, Drama
+imdbRating=5.5
+###
+title=The Sisters
+year=1938
+director=Anatole Litvak
+actors=Errol Flynn, Bette Davis, Anita Louise, Ian Hunter
+genre=Drama
+imdbRating=7.2
+###
+title=The Double Hour
+year=2009
+director=Giuseppe Capotondi
+actors=Kseniya Rappoport, Filippo Timi, Antonia Truppo, Gaetano Bruno
+genre=Crime, Drama, Mystery
+imdbRating=6.7
+###
+title=Attack the Block
+year=2011
+director=Joe Cornish
+actors=Jodie Whittaker, John Boyega, Alex Esmail, Leeon Jones
+genre=Action, Comedy, Sci-Fi
+imdbRating=6.6
+###
+title=Let the Bullets Fly
+year=2010
+director=Wen Jiang
+actors=Yun-Fat Chow, You Ge, Wen Jiang, Carina Lau
+genre=Action, Comedy, Western
+imdbRating=7.3
+###
+title=Wake
+year=2009
+director=Ellie Kanner
+actors=Bijou Phillips, Ian Somerhalder, Jane Seymour, Danny Masterson
+genre=Comedy, Drama, Romance
+imdbRating=5.7
+###
+title=Kung Fu Panda 2
+year=2011
+director=Jennifer Yuh Nelson
+actors=Jack Black, Angelina Jolie, Dustin Hoffman, Gary Oldman
+genre=Animation, Action, Adventure
+imdbRating=7.3
+###
+title=X-Men: First Class
+year=2011
+director=Matthew Vaughn
+actors=James McAvoy, Laurence Belcher, Michael Fassbender, Bill Milner
+genre=Action, Adventure, Sci-Fi
+imdbRating=7.8
+###
+title=Submarine
+year=2010
+director=Richard Ayoade
+actors=Noah Taylor, Paddy Considine, Craig Roberts, Yasmin Paige
+genre=Comedy, Drama, Romance
+imdbRating=7.3
+###
+title=Raffles
+year=1930
+director=George Fitzmaurice, Harry d'Abbadie d'Arrast
+actors=Ronald Colman, Kay Francis, David Torrence, Frederick Kerr
+genre=Adventure, Crime, Drama
+imdbRating=7.0
+###
+title=The Other Woman
+year=2009
+director=Don Roos
+actors=Natalie Portman, Scott Cohen, Lisa Kudrow, Charlie Tahan
+genre=Drama
+imdbRating=6.4
+###
+title=Everything Must Go
+year=2010
+director=Dan Rush
+actors=Will Ferrell, Christopher Jordan Wallace, Rebecca Hall, Michael Peña
+genre=Comedy, Drama
+imdbRating=6.4
+###
+title=Red White & Blue
+year=2010
+director=Simon Rumley
+actors=Amanda Fuller, Marc Senter, Jon Michael Davis, Nick Holden
+genre=Drama, Horror, Thriller
+imdbRating=6.4
+###
+title=Beginners
+year=2010
+director=Mike Mills
+actors=Ewan McGregor, Christopher Plummer, Mélanie Laurent, Goran Visnjic
+genre=Comedy, Drama, Romance
+imdbRating=7.2
+###
+title=Super 8
+year=2011
+director=J.J. Abrams
+actors=Joel Courtney, Jessica Tuck, Joel McKinnon Miller, Ryan Lee
+genre=Action, Mystery, Sci-Fi
+imdbRating=7.1
+###
+title=Lottery Ticket
+year=2010
+director=Erik White
+actors=Shad Moss, Brandon T. Jackson, Naturi Naughton, Loretta Devine
+genre=Comedy
+imdbRating=4.8
+###
+title=Daydream Nation
+year=2010
+director=Michael Goldbach
+actors=Kat Dennings, Reece Thompson, Andie MacDowell, Josh Lucas
+genre=Drama, Romance
+imdbRating=6.4
+###
+title=Green Lantern
+year=2011
+director=Martin Campbell
+actors=Ryan Reynolds, Blake Lively, Peter Sarsgaard, Mark Strong
+genre=Action, Adventure, Sci-Fi
+imdbRating=5.6
+###
+title=Cinema Verite
+year=2011
+director=Shari Springer Berman, Robert Pulcini
+actors=Diane Lane, Kaitlyn Dever, Tim Robbins, James Gandolfini
+genre=Drama
+imdbRating=6.6
+###
+title=Yoo-Hoo, Mrs. Goldberg
+year=2009
+director=Aviva Kempner
+actors=Gertrude Berg, Lewis Berg, Sara Chase, Ruth Bader Ginsburg
+genre=Documentary, Biography
+imdbRating=7.3
+###
+title=Mr. Popper's Penguins
+year=2011
+director=Mark Waters
+actors=Jim Carrey, Carla Gugino, Angela Lansbury, Ophelia Lovibond
+genre=Comedy, Family, Fantasy
+imdbRating=6.0
+###
+title=Bad Teacher
+year=2011
+director=Jake Kasdan
+actors=Cameron Diaz, Lucy Punch, Jason Segel, Justin Timberlake
+genre=Comedy
+imdbRating=5.7
+###
+title=Transformers: Dark of the Moon
+year=2011
+director=Michael Bay
+actors=Shia LaBeouf, Rosie Huntington-Whiteley, Josh Duhamel, John Turturro
+genre=Action, Adventure, Sci-Fi
+imdbRating=6.3
+###
+title=Larry Crowne
+year=2011
+director=Tom Hanks
+actors=Tom Hanks, Sarah Mahoney, Roxana Ortega, Randall Park
+genre=Comedy, Drama, Romance
+imdbRating=6.0
+###
+title=Your Highness
+year=2011
+director=David Gordon Green
+actors=Danny McBride, James Franco, Rasmus Hardiker, Natalie Portman
+genre=Adventure, Comedy, Fantasy
+imdbRating=5.6
+###
+title=Hand Gun
+year=1994
+director=Whitney Ransick
+actors=Treat Williams, Seymour Cassel, Paul Schulze, Anna Levine
+genre=Action, Crime, Thriller
+imdbRating=5.6
+###
+title=When Ladies Meet
+year=1933
+director=Harry Beaumont, Robert Z. Leonard
+actors=Ann Harding, Robert Montgomery, Myrna Loy, Alice Brady
+genre=Comedy, Romance
+imdbRating=6.9
+###
+title=Too Big to Fail
+year=2011
+director=Curtis Hanson
+actors=James Woods, John Heard, William Hurt, Erin Dilly
+genre=Drama, History, News
+imdbRating=7.4
+###
+title=Takers
+year=2010
+director=John Luessenhop
+actors=Chris Brown, Hayden Christensen, Matt Dillon, Michael Ealy
+genre=Action, Crime, Thriller
+imdbRating=6.2
+###
+title=Zookeeper
+year=2011
+director=Frank Coraci
+actors=Kevin James, Rosario Dawson, Leslie Bibb, Ken Jeong
+genre=Comedy, Family, Romance
+imdbRating=5.2
+###
+title=Horrible Bosses
+year=2011
+director=Seth Gordon
+actors=Jason Bateman, Steve Wiebe, Kevin Spacey, Charlie Day
+genre=Comedy, Crime
+imdbRating=6.9
+###
+title=Cars 2
+year=2011
+director=John Lasseter, Brad Lewis
+actors=Larry the Cable Guy, Owen Wilson, Michael Caine, Emily Mortimer
+genre=Animation, Adventure, Comedy
+imdbRating=6.3
+###
+title=I Am You
+year=2012
+director=Petar Popzlatev
+actors=Jeanette Spassova, Irmena Chichikova, Miliana Lenak, Deyan Donkov
+genre=Drama
+imdbRating=6.4
+###
+title=The Ward
+year=2010
+director=John Carpenter
+actors=Amber Heard, Mamie Gummer, Danielle Panabaker, Laura-Leigh
+genre=Horror
+imdbRating=5.6
+###
+title=Page One: Inside the New York Times
+year=2011
+director=Andrew Rossi
+actors=Sarah Ellison, Larry Ingrassia, David Carr, Dennis Crowley
+genre=Documentary
+imdbRating=6.9
+###
+title=Anton Chekhov's The Duel
+year=2010
+director=Dover Koshashvili
+actors=Andrew Scott, Fiona Glascott, Tobias Menzies, Niall Buggy
+genre=Drama
+imdbRating=6.4
+###
+title=Formosa Betrayed
+year=2009
+director=Adam Kane
+actors=James Van Der Beek, Wendy Crewson, John Heard, Will Tiao
+genre=Thriller
+imdbRating=6.3
+###
+title=Burn Notice: The Fall of Sam Axe
+year=2011
+director=Jeffrey Donovan
+actors=Bruce Campbell, Kiele Sanchez, RonReaco Lee, Pedro Pascal
+genre=Comedy, Crime, Drama
+imdbRating=7.2
+###
+title=Laws of Gravity
+year=1992
+director=Nick Gomez
+actors=Peter Greene, Edie Falco, Adam Trese, Arabella Field
+genre=Crime, Drama
+imdbRating=7.0
+###
+title=Cornered
+year=1945
+director=Edward Dmytryk
+actors=Dick Powell, Walter Slezak, Micheline Cheirel, Nina Vale
+genre=Drama, Film-Noir, Thriller
+imdbRating=6.7
+###
+title=Upside Down: The Creation Records Story
+year=2010
+director=Danny O'Connor
+actors=Alan McGee, Bobby Gillespie, Noel Gallagher, Chris Abbot
+genre=Documentary, Music
+imdbRating=7.2
+###
+title=The Perfect Host
+year=2010
+director=Nick Tomnay
+actors=David Hyde Pierce, Clayne Crawford, Tyrees Allen, Cooper Barnes
+genre=Comedy, Crime, Thriller
+imdbRating=6.8
+###
+title=Harry Potter and the Deathly Hallows: Part 2
+year=2011
+director=David Yates
+actors=Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe
+genre=Adventure, Drama, Fantasy
+imdbRating=8.1
+###
+title=Conan O'Brien Can't Stop
+year=2011
+director=Rodman Flender
+actors=Conan O'Brien, Andy Richter, Jimmy Vivino, Scott Healy
+genre=Documentary, Comedy, Music
+imdbRating=7.0
+###
+title=Drive
+year=2011
+director=Nicolas Winding Refn
+actors=Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks
+genre=Crime, Drama
+imdbRating=7.8
+###
+title=Love Crime
+year=2010
+director=Alain Corneau
+actors=Ludivine Sagnier, Kristin Scott Thomas, Patrick Mille, Guillaume Marquet
+genre=Crime, Mystery, Thriller
+imdbRating=6.5
+###
+title=Captain America: The First Avenger
+year=2011
+director=Joe Johnston
+actors=Chris Evans, Hayley Atwell, Sebastian Stan, Tommy Lee Jones
+genre=Action, Adventure, Sci-Fi
+imdbRating=6.8
+###
+title=Crazy
+year=2011
+director=John Klyza
+actors=Dave Barbato, John Klyza
+genre=Short
+imdbRating=N/A
+###
+title=One Day
+year=2011
+director=Lone Scherfig
+actors=Anne Hathaway, Jim Sturgess, Tom Mison, Jodie Whittaker
+genre=Drama, Romance
+imdbRating=7.0
+###
+title=The Guard
+year=2011
+director=John Michael McDonagh
+actors=Ronan Collins, Paraic Nialand, John Patrick Beirne, Liam O'Conghaile
+genre=Comedy, Crime, Thriller
+imdbRating=7.3
+###
+No data returned for {'movie': 'Griff the Invisible', 'year': '2011'}
+###
+title=Quarantine 2: Terminal
+year=2011
+director=John Pogue
+actors=Mercedes Mason, Josh Cooke, Mattie Liptak, Ignacio Serricchio
+genre=Horror, Mystery, Sci-Fi
+imdbRating=5.3
+###
+title=Phantom
+year=1922
+director=F.W. Murnau
+actors=Alfred Abel, Frida Richard, Aud Egede-Nissen, Hans Heinrich von Twardowski
+genre=Drama, Fantasy, Romance
+imdbRating=7.0
+###
+title=The Smurfs
+year=2011
+director=Raja Gosnell
+actors=Hank Azaria, Neil Patrick Harris, Jayma Mays, Sofía Vergara
+genre=Animation, Adventure, Comedy
+imdbRating=5.5
+###
+title=Friends with Benefits
+year=2011
+director=Will Gluck
+actors=Justin Timberlake, Mila Kunis, Patricia Clarkson, Jenna Elfman
+genre=Comedy, Romance
+imdbRating=6.6
+###
+title=Blitz
+year=2011
+director=Elliott Lester
+actors=Jason Statham, Paddy Considine, Aidan Gillen, Zawe Ashton
+genre=Action, Crime, Thriller
+imdbRating=6.2
+###
+title=Mysteries of Lisbon
+year=2010
+director=Raoul Ruiz
+actors=Adriano Luz, Maria João Bastos, Ricardo Pereira, Clotilde Hesme
+genre=Drama, Mystery
+imdbRating=7.5
+###
+title=The Yellow Sea
+year=2010
+director=Hong-jin Na
+actors=Jung-woo Ha, Yun-seok Kim, Sung-ha Jo, Man-sik Jeong
+genre=Crime, Drama, Thriller
+imdbRating=7.4
+###
+title=The Temptress
+year=1926
+director=Fred Niblo, Mauritz Stiller
+actors=Greta Garbo, Antonio Moreno, Marc McDermott, Lionel Barrymore
+genre=Drama, Romance
+imdbRating=7.1
+###
+title=Come Undone
+year=2000
+director=Sébastien Lifshitz
+actors=Jérémie Elkaïm, Stéphane Rideau, Marie Matheron, Dominique Reymond
+genre=Drama, Romance
+imdbRating=6.8
+###
+title=Rapt
+year=2009
+director=Lucas Belvaux
+actors=Yvan Attal, Anne Consigny, André Marcon, Françoise Fabian
+genre=Drama
+imdbRating=6.7
+###
+title=Cairo Station
+year=1958
+director=Youssef Chahine
+actors=Farid Shawqi, Hend Rostom, Youssef Chahine, Hassan el Baroudi
+genre=Crime, Drama
+imdbRating=7.8
+###
+title=Our Idiot Brother
+year=2011
+director=Jesse Peretz
+actors=Paul Rudd, Nick Sullivan, Francesca Papalia, Bob Stephenson
+genre=Comedy, Drama
+imdbRating=6.4
+###
+title=Rise of the Planet of the Apes
+year=2011
+director=Rupert Wyatt
+actors=Andy Serkis, Karin Konoval, Terry Notary, Richard Ridings
+genre=Action, Drama, Sci-Fi
+imdbRating=7.6
+###
+title=Terri
+year=2011
+director=Azazel Jacobs
+actors=Jacob Wysocki, John C. Reilly, Bridger Zadina, Creed Bratton
+genre=Comedy, Drama
+imdbRating=6.5
+###
+title=The Change-Up
+year=2011
+director=David Dobkin
+actors=Ryan Reynolds, Jason Bateman, Leslie Mann, Olivia Wilde
+genre=Comedy, Fantasy
+imdbRating=6.4
+###
+title=Help
+year=2011
+director=Hedia Anvar, B. Novic
+actors=Hedia Anvar, Steve Parlavecchio, Lidia Sabljic
+genre=Short, Drama
+imdbRating=N/A
+###
+title=30 Minutes or Less
+year=2011
+director=Ruben Fleischer
+actors=Jesse Eisenberg, Danny McBride, Aziz Ansari, Nick Swardson
+genre=Action, Comedy, Crime
+imdbRating=6.1
+###
+title=Bulldog Drummond
+year=1929
+director=F. Richard Jones
+actors=Ronald Colman, Claud Allister, Lawrence Grant, Montagu Love
+genre=Drama, Mystery, Thriller
+imdbRating=6.7
+###
+title=The Trotsky
+year=2009
+director=Jacob Tierney
+actors=Liane Balaban, Jay Baruchel, Taylor Baruchel, Dan Beirne
+genre=Comedy
+imdbRating=6.9
+###
+title=Anthony Zimmer
+year=2005
+director=Jérôme Salle
+actors=Sophie Marceau, Yvan Attal, Sami Frey, Gilles Lellouche
+genre=Crime, Drama, Romance
+imdbRating=6.5
+###
+title=Blues Harp
+year=1998
+director=Takashi Miike
+actors=Hiroyuki Ikeuchi, Seiichi Tanabe, Saori Sekino, Mickey Curtis
+genre=Crime, Drama, Music
+imdbRating=7.2
+###
+No data returned for {'movie': 'Bulli: Cooking in Progress', 'year': '2011'}
+###
+title=Final Destination 5
+year=2011
+director=Steven Quale
+actors=Nicholas D'Agosto, Emma Bell, Miles Fisher, Ellen Wroe
+genre=Fantasy, Horror, Thriller
+imdbRating=5.9
+###
+title=Lovely, Still
+year=2008
+director=Nicholas Fackler
+actors=Martin Landau, Ellen Burstyn, Elizabeth Banks, Adam Scott
+genre=Drama, Romance
+imdbRating=7.3
+###
+title=The Conspirator
+year=2010
+director=Robert Redford
+actors=James McAvoy, Robin Wright, Kevin Kline, Evan Rachel Wood
+genre=Crime, Drama, History
+imdbRating=7.0
+###
+title=A Very Harold & Kumar 3D Christmas
+year=2011
+director=Todd Strauss-Schulson
+actors=Patton Oswalt, Isabella Gielniak, Kal Penn, Austin Bickel
+genre=Adventure, Comedy
+imdbRating=6.3
+###
+title=Queen to Play
+year=2009
+director=Caroline Bottaro
+actors=Sandrine Bonnaire, Kevin Kline, Francis Renaud, Jennifer Beals
+genre=Drama
+imdbRating=6.8
+###
+title=Carancho
+year=2010
+director=Pablo Trapero
+actors=Ricardo Darín, Martina Gusman, Carlos Weber, José Luis Arias
+genre=Crime, Drama, Romance
+imdbRating=6.9
+###
+title=Don't Be Afraid of the Dark
+year=2010
+director=Troy Nixey
+actors=Katie Holmes, Guy Pearce, Bailee Madison, Jack Thompson
+genre=Fantasy, Horror, Thriller
+imdbRating=5.6
+###
+title=Fright Night
+year=2011
+director=Craig Gillespie
+actors=Anton Yelchin, Colin Farrell, Toni Collette, David Tennant
+genre=Comedy, Horror
+imdbRating=6.4
+###
+title=Another Earth
+year=2011
+director=Mike Cahill
+actors=William Mapother, Brit Marling, Matthew-Lee Erlbach, DJ Flava
+genre=Drama, Romance, Sci-Fi
+imdbRating=7.0
+###
+title=Rocky VI
+year=1986
+director=Aki Kaurismäki
+actors=Silu Seppälä, Sakari Kuosmanen, Heinäsirkka, Mato Valtonen
+genre=Short, Comedy, Sport
+imdbRating=5.7
+###
+title=Hesher
+year=2010
+director=Spencer Susser
+actors=Joseph Gordon-Levitt, Devin Brochu, Rainn Wilson, Piper Laurie
+genre=Drama
+imdbRating=7.1
+###
+title=Cold Prey
+year=2006
+director=Roar Uthaug
+actors=Ingrid Bolsø Berdal, Rolf Kristian Larsen, Tomas Alf Larsen, Endre Martin Midtstigen
+genre=Drama, Horror, Mystery
+imdbRating=6.4
+###
+title=Stake Land
+year=2010
+director=Jim Mickle
+actors=Connor Paolo, Gregory Jones, Traci Hovel, Nick Damici
+genre=Drama, Horror, Sci-Fi
+imdbRating=6.5
+###
+title=The Greatest Movie Ever Sold
+year=2011
+director=Morgan Spurlock
+actors=J.J. Abrams, Peter Berg, Paul Brennan, Noam Chomsky
+genre=Documentary, Comedy
+imdbRating=6.6
+###
+title=Dett Brothers Debt Ceiling Construction
+year=2011
+director=Lauren Palmigiano
+actors=Damian Cecere
+genre=Short, Comedy
+imdbRating=3.9
+###
+title=Colombiana
+year=2011
+director=Olivier Megaton
+actors=Zoe Saldana, Jordi Mollà, Lennie James, Amandla Stenberg
+genre=Action, Crime, Drama
+imdbRating=6.4
+###
+No data returned for {'movie': 'Bill Cunningham New York', 'year': '2011'}
+###
+title=Freakonomics
+year=2010
+director=Heidi Ewing, Alex Gibney, Seth Gordon, Rachel Grady, Eugene Jarecki, Morgan Spurlock
+actors=James Ransone, Tempestt Bledsoe, Morgan Spurlock, Bill Gates
+genre=Documentary
+imdbRating=6.4
+###
+title=The Skin I Live In
+year=2011
+director=Pedro Almodóvar
+actors=Antonio Banderas, Elena Anaya, Marisa Paredes, Jan Cornet
+genre=Thriller
+imdbRating=7.6
+###
+title=The Lodger
+year=2009
+director=David Ondaatje
+actors=Alfred Molina, Hope Davis, Shane West, Donal Logue
+genre=Crime, Drama, Horror
+imdbRating=5.8
+###
+title=Phil Ochs: There But for Fortune
+year=2010
+director=Kenneth Bowser
+actors=Salvador Allende, Erik Andersen, Joan Baez, Jello Biafra
+genre=Documentary, Biography, History
+imdbRating=7.7
+###
+title=Good Neighbours
+year=2007
+director=Graeme McCormick
+actors=Urszula Jochim, Chico Pereira
+genre=Short, Drama
+imdbRating=N/A
+###
+title=The Winning Season
+year=2009
+director=James C. Strouse
+actors=Sam Rockwell, Emma Roberts, Rob Corddry, Emily Rios
+genre=Comedy, Sport
+imdbRating=6.6
+###
+title=Conan the Barbarian
+year=2011
+director=Marcus Nispel
+actors=Jason Momoa, Stephen Lang, Rachel Nichols, Ron Perlman
+genre=Action, Adventure, Fantasy
+imdbRating=5.2
+###
+title=Magic Trip: Ken Kesey's Search for a Kool Place
+year=2011
+director=Alison Ellwood, Alex Gibney
+actors=Stanley Tucci, Jim Meskimen, Veronica Taylor, Jack Kerouac
+genre=Documentary
+imdbRating=6.8
+###
+title=Project Nim
+year=2011
+director=James Marsh
+actors=Nim Chimpsky, Stephanie LaFarge, Herbert Terrace, Wer LaFarge
+genre=Documentary
+imdbRating=7.4
+###
+title=Page Eight
+year=2011
+director=David Hare
+actors=Bill Nighy, Rachel Weisz, Tom Hughes, Michael Gambon
+genre=Drama, Mystery, Thriller
+imdbRating=6.9
+###
+title=The Inbetweeners Movie
+year=2011
+director=Ben Palmer
+actors=Simon Bird, James Buckley, Blake Harrison, Joe Thomas
+genre=Comedy
+imdbRating=6.8
+###
+title=Red State
+year=2011
+director=Kevin Smith
+actors=Michael Angarano, Deborah Aquila, Nicholas Braun, Ronnie Connell
+genre=Action, Crime, Horror
+imdbRating=6.2
+###
+title=A Better Life
+year=2011
+director=Chris Weitz
+actors=Demián Bichir, Eddie 'Piolin' Sotelo, Joaquín Cosio, José Julián
+genre=Drama
+imdbRating=7.2
+###
+title=I Don't Know How She Does It
+year=2011
+director=Douglas McGrath
+actors=Sarah Jessica Parker, Pierce Brosnan, Greg Kinnear, Christina Hendricks
+genre=Comedy
+imdbRating=4.8
+###
+title=Contagion
+year=2011
+director=Steven Soderbergh
+actors=Gwyneth Paltrow, Tien You Chui, Josie Ho, Daria Strokous
+genre=Drama, Thriller
+imdbRating=6.6
+###
+title=We Have a Pope
+year=2011
+director=Nanni Moretti
+actors=Michel Piccoli, Jerzy Stuhr, Renato Scarpa, Franco Graziosi
+genre=Comedy, Drama
+imdbRating=6.7
+###
+title=Sleeping Beauty
+year=2011
+director=Julia Leigh
+actors=Bridgette Barrett, Rachael Blake, Hannah Bella Bowden, Emily Browning
+genre=Drama, Romance
+imdbRating=5.3
+###
+title=Straw Dogs
+year=2011
+director=Rod Lurie
+actors=James Marsden, Kate Bosworth, Alexander Skarsgård, James Woods
+genre=Drama, Thriller
+imdbRating=5.8
+###
+title=Moneyball
+year=2011
+director=Bennett Miller
+actors=Brad Pitt, Jonah Hill, Philip Seymour Hoffman, Robin Wright
+genre=Biography, Drama, Sport
+imdbRating=7.6
+###
+title=The Appeared
+year=2007
+director=Paco Cabezas
+actors=Ruth Díaz, Javier Pereira, Pablo Cedrón, Leonora Balcarce
+genre=Horror
+imdbRating=6.1
+###
+title=Le Havre
+year=2011
+director=Aki Kaurismäki
+actors=André Wilms, Kati Outinen, Jean-Pierre Darroussin, Blondin Miguel
+genre=Comedy, Drama
+imdbRating=7.2
+###
+title=Cold Fish
+year=2010
+director=Sion Sono
+actors=Mitsuru Fukikoshi, Denden, Asuka Kurosawa, Megumi Kagurazaka
+genre=Crime, Drama, Horror
+imdbRating=7.1
+###
+title=Point Blank
+year=1967
+director=John Boorman
+actors=Lee Marvin, Angie Dickinson, Keenan Wynn, Carroll O'Connor
+genre=Crime, Thriller
+imdbRating=7.4
+###
+title=Nothing Personal
+year=2009
+director=Urszula Antoniak
+actors=Lotte Verbeek, Stephen Rea, Tom Charlfa, Ann Marie Horan
+genre=Drama
+imdbRating=7.1
+###
+title=A Horrible Way to Die
+year=2010
+director=Adam Wingard
+actors=AJ Bowen, Amy Seimetz, Joe Swanberg, Brandon Carroll
+genre=Drama, Horror, Thriller
+imdbRating=5.2
+###
+title=The Avengers
+year=2012
+director=Joss Whedon
+actors=Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+genre=Action, Adventure, Sci-Fi
+imdbRating=8.1
+###
+title=Taxi!
+year=1932
+director=Roy Del Ruth
+actors=James Cagney, Loretta Young, George E. Stone, Guy Kibbee
+genre=Crime, Drama, Romance
+imdbRating=6.7
+###
+title=Tinker Tailor Soldier Spy
+year=2011
+director=Tomas Alfredson
+actors=Mark Strong, John Hurt, Zoltán Mucsi, Péter Kálloy Molnár
+genre=Drama, Mystery, Thriller
+imdbRating=7.1
+###
+title=Separation
+year=2013
+director=Greg White
+actors=Sarah Manninen, Peter Stebbings, Dmitry Chepovetsky, Al Sapienza
+genre=Thriller
+imdbRating=5.1
+###
+title=A Dangerous Method
+year=2011
+director=David Cronenberg
+actors=Keira Knightley, Viggo Mortensen, Michael Fassbender, Vincent Cassel
+genre=Biography, Drama, Thriller
+imdbRating=6.5
+###
+title=My Name Is Julia Ross
+year=1945
+director=Joseph H. Lewis
+actors=Nina Foch, Dame May Whitty, George Macready, Roland Varno
+genre=Crime, Drama, Film-Noir
+imdbRating=7.2
+###
+title=Warrior
+year=2011
+director=Gavin O'Connor
+actors=Joel Edgerton, Tom Hardy, Nick Nolte, Jennifer Morrison
+genre=Drama, Sport
+imdbRating=8.2
+###
+title=Sherlock Holmes
+year=2010
+director=Rachel Goldenberg
+actors=Ben Syder, Gareth David-Lloyd, Dominic Keating, William Huw
+genre=Mystery, Sci-Fi
+imdbRating=3.7
+###
+title=The Ides of March
+year=2011
+director=George Clooney
+actors=Ryan Gosling, George Clooney, Philip Seymour Hoffman, Paul Giamatti
+genre=Drama
+imdbRating=7.1
+###
+title=Kill List
+year=2011
+director=Ben Wheatley
+actors=Neil Maskell, MyAnna Buring, Harry Simpson, Michael Smiley
+genre=Crime, Horror, Thriller
+imdbRating=6.3
+###
+title=Killer Elite
+year=2011
+director=Gary McKendry
+actors=Jason Statham, Clive Owen, Robert De Niro, Dominic Purcell
+genre=Action, Crime, Thriller
+imdbRating=6.5
+###
+title=The Dukes of Hazzard: The Beginning
+year=2007
+director=Robert Berlinger
+actors=Randy Wayne, Jonathan Bennett, April Scott, Joel David Moore
+genre=Action, Adventure, Comedy
+imdbRating=4.5
+###
+title=Bellflower
+year=2011
+director=Evan Glodell
+actors=Evan Glodell, Jessie Wiseman, Tyler Dawson, Rebekah Brandes
+genre=Action, Drama, Romance
+imdbRating=6.4
+###
+title=50/50
+year=2011
+director=Jonathan Levine
+actors=Joseph Gordon-Levitt, Seth Rogen, Anna Kendrick, Bryce Dallas Howard
+genre=Comedy, Drama, Romance
+imdbRating=7.7
+###
+title=Main Street
+year=2010
+director=John Doyle
+actors=Colin Firth, Ellen Burstyn, Patricia Clarkson, Orlando Bloom
+genre=Drama
+imdbRating=4.7
+###
+title=Once Upon a Time in Anatolia
+year=2011
+director=Nuri Bilge Ceylan
+actors=Muhammet Uzuner, Yilmaz Erdogan, Taner Birsel, Ahmet Mümtaz Taylan
+genre=Crime, Drama
+imdbRating=7.8
+###
+title=The Artist
+year=2011
+director=Michel Hazanavicius
+actors=Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell
+genre=Comedy, Drama, Romance
+imdbRating=8.0
+###
+title=BlinkyTM
+year=2011
+director=Ruairi Robinson
+actors=Max Records, Jenni Fontana, James Nardini, Joe Childs
+genre=Short, Horror, Sci-Fi
+imdbRating=7.1
+###
+title=Song of the Exile
+year=1990
+director=Ann Hui
+actors=Maggie Cheung, Siu-Kwong Chung, Tan Lang Jachi Tian, Waise Lee
+genre=Drama
+imdbRating=7.4
+###
+title=Take Shelter
+year=2011
+director=Jeff Nichols
+actors=Michael Shannon, Jessica Chastain, Tova Stewart, Shea Whigham
+genre=Drama, Thriller
+imdbRating=7.4
+###
+title=Game of Death
+year=1978
+director=Robert Clouse, Bruce Lee
+actors=Bruce Lee, Colleen Camp, Dean Jagger, Gig Young
+genre=Action, Crime, Drama
+imdbRating=6.0
+###
+title=Real Steel
+year=2011
+director=Shawn Levy
+actors=Hugh Jackman, Dakota Goyo, Evangeline Lilly, Anthony Mackie
+genre=Action, Drama, Sci-Fi
+imdbRating=7.1
+###
+title=Buck
+year=2011
+director=Cindy Meehl
+actors=Buck Brannaman, Gary Myers, Bibb Frazier, Betty Staley
+genre=Documentary
+imdbRating=7.6
+###
+title=Catching Hell
+year=2011
+director=Alex Gibney
+actors=Moises Alou, Steve Bartman, Rod Blagojevich, Ron Borges
+genre=Documentary, Sport
+imdbRating=7.8
+###
+title=Footloose
+year=2011
+director=Craig Brewer
+actors=Kenny Wormald, Julianne Hough, Dennis Quaid, Andie MacDowell
+genre=Comedy, Drama, Music
+imdbRating=5.8
+###
+title=The Thing
+year=2011
+director=Matthijs van Heijningen Jr.
+actors=Mary Elizabeth Winstead, Joel Edgerton, Ulrich Thomsen, Eric Christian Olsen
+genre=Horror, Mystery, Sci-Fi
+imdbRating=6.2
+###
+title=Beautiful Boy
+year=2010
+director=Shawn Ku
+actors=Logan South, Maria Bello, Michael Sheen, Kyle Gallner
+genre=Drama
+imdbRating=6.6
+###
+title=Tyrannosaur
+year=2011
+director=Paddy Considine
+actors=Peter Mullan, Archie Lal, Jag Sanghera, Mike Fearnley
+genre=Drama
+imdbRating=7.6
+###
+title=The Killer Is Loose
+year=1956
+director=Budd Boetticher
+actors=Joseph Cotten, Rhonda Fleming, Wendell Corey, Alan Hale Jr.
+genre=Crime, Drama, Film-Noir
+imdbRating=6.7
+###
+title=Martha Marcy May Marlene
+year=2011
+director=Sean Durkin
+actors=Elizabeth Olsen, Christopher Abbott, Brady Corbet, Hugh Dancy
+genre=Drama, Thriller
+imdbRating=6.9
+###
+title=We Need to Talk About Kevin
+year=2011
+director=Lynne Ramsay
+actors=Tilda Swinton, John C. Reilly, Ezra Miller, Jasper Newell
+genre=Drama, Thriller
+imdbRating=7.5
+###
+title=Tabloid
+year=2010
+director=Errol Morris
+actors=Joyce McKinney, Peter Tory, Troy Williams, Jackson Shaw
+genre=Documentary, Crime
+imdbRating=7.1
+###
+title=Behind Enemy Lines II: Axis of Evil
+year=2006
+director=James Dodson
+actors=Nicholas Gonzalez, Matt Bushell, Keith David, Denis Arndt
+genre=Action, Thriller
+imdbRating=4.5
+###
+title=The Three Musketeers
+year=2011
+director=Paul W.S. Anderson
+actors=Matthew Macfadyen, Milla Jovovich, Helen George, Christian Oliver
+genre=Action, Adventure, Romance
+imdbRating=5.8
+###
+title=In Time
+year=2011
+director=Andrew Niccol
+actors=Justin Timberlake, Olivia Wilde, Shyloh Oostwald, Johnny Galecki
+genre=Action, Sci-Fi, Thriller
+imdbRating=6.7
+###
+title=Oranges and Sunshine
+year=2010
+director=Jim Loach
+actors=Emily Watson, Aisling Loftus, Stuart Wolfenden, Lorraine Ashbourne
+genre=Drama, History
+imdbRating=7.1
+###
+title=Brighton Rock
+year=2010
+director=Rowan Joffe
+actors=Sam Riley, Andrea Riseborough, Helen Mirren, John Hurt
+genre=Crime, Drama, Thriller
+imdbRating=5.8
+###
+title=Margaret
+year=2011
+director=Kenneth Lonergan
+actors=Anna Paquin, J. Smith-Cameron, Mark Ruffalo, Jeannie Berlin
+genre=Drama
+imdbRating=6.5
+###
+title=Carnage
+year=2011
+director=Roman Polanski
+actors=Jodie Foster, Kate Winslet, Christoph Waltz, John C. Reilly
+genre=Comedy, Drama
+imdbRating=7.2
+###
+title=Assassination Games
+year=2011
+director=Ernie Barbarash
+actors=Jean-Claude Van Damme, Scott Adkins, Ivan Kaye, Valentin Teodosiu
+genre=Action, Thriller
+imdbRating=6.2
+###
+title=Margin Call
+year=2011
+director=J.C. Chandor
+actors=Kevin Spacey, Paul Bettany, Jeremy Irons, Zachary Quinto
+genre=Drama, Thriller
+imdbRating=7.1
+###
+title=Polisse
+year=2011
+director=Maïwenn
+actors=Karin Viard, Joey Starr, Marina Foïs, Nicolas Duvauchelle
+genre=Crime, Drama
+imdbRating=7.3
+###
+title=Johnny English Reborn
+year=2011
+director=Oliver Parker
+actors=Roger Barclay, Eric Carte, Rowan Atkinson, Togo Igawa
+genre=Action, Adventure, Comedy
+imdbRating=6.3
+###
+title=Abduction
+year=2011
+director=John Singleton
+actors=Jake Andolina, Oriah Acima Andrews, Ken Arnold, Maria Bello
+genre=Action, Mystery, Thriller
+imdbRating=5.0
+###
+title=This Must Be the Place
+year=2011
+director=Paolo Sorrentino
+actors=Sean Penn, Olwen Fouere, Judd Hirsch, Eve Hewson
+genre=Comedy, Drama
+imdbRating=6.7
+###
+title=Shame
+year=2011
+director=Steve McQueen
+actors=Michael Fassbender, Lucy Walters, Mari-Ange Ramirez, James Badge Dale
+genre=Drama
+imdbRating=7.3
+###
+title=Nora's Will
+year=2008
+director=Mariana Chenillo
+actors=Fernando Luján, Enrique Arreola, Ari Brickman, Juan Carlos Colombo
+genre=Comedy, Drama
+imdbRating=7.2
+###
+title=What's Your Number?
+year=2011
+director=Mark Mylod
+actors=Anna Faris, Chris Evans, Ari Graynor, Blythe Danner
+genre=Comedy, Romance
+imdbRating=6.0
+###
+title=Dream House
+year=2011
+director=Jim Sheridan
+actors=Daniel Craig, Naomi Watts, Rachel Weisz, Elias Koteas
+genre=Drama, Mystery, Thriller
+imdbRating=5.9
+###
+title=How to Die in Oregon
+year=2011
+director=Peter Richardson
+actors=Harry Bruton, Ray Carnay, Cody Curtis, Paul Darley
+genre=Documentary, Drama, Family
+imdbRating=8.3
+###
+title=Headhunters
+year=2011
+director=Morten Tyldum
+actors=Aksel Hennie, Synnøve Macody Lund, Nikolaj Coster-Waldau, Eivind Sander
+genre=Crime, Thriller
+imdbRating=7.6
+###
+title=Batman: Year One
+year=2011
+director=Sam Liu, Lauren Montgomery
+actors=Bryan Cranston, Ben McKenzie, Eliza Dushku, Jon Polito
+genre=Animation, Action, Crime
+imdbRating=7.4
+###
+title=Mulan: Rise of a Warrior
+year=2009
+director=Jingle Ma, Wei Dong
+actors=Wei Zhao, Kun Chen, Jiao Xu, Rongguang Yu
+genre=Adventure, Drama, Romance
+imdbRating=6.8
+###
+title=Machine Gun Preacher
+year=2011
+director=Marc Forster
+actors=Gerard Butler, Michelle Monaghan, Kathy Baker, Michael Shannon
+genre=Action, Biography, Crime
+imdbRating=6.8
+###
+title=Anonymous
+year=2011
+director=Roland Emmerich
+actors=Rhys Ifans, Vanessa Redgrave, Sebastian Armesto, Rafe Spall
+genre=Drama, History, Thriller
+imdbRating=6.9
+###
+title=Puss in Boots
+year=2011
+director=Chris Miller
+actors=Antonio Banderas, Salma Hayek, Zach Galifianakis, Billy Bob Thornton
+genre=Animation, Action, Adventure
+imdbRating=6.7
+###
+title=Tower Heist
+year=2011
+director=Brett Ratner
+actors=Ben Stiller, Eddie Murphy, Casey Affleck, Alan Alda
+genre=Action, Comedy, Crime
+imdbRating=6.2
+###
+title=J. Edgar
+year=2011
+director=Clint Eastwood
+actors=Leonardo DiCaprio, Josh Hamilton, Geoff Pierson, Cheryl Lawson
+genre=Biography, Crime, Drama
+imdbRating=6.6
+###
+title=The Devil's Double
+year=2011
+director=Lee Tamahori
+actors=Dominic Cooper, Ludivine Sagnier, Raad Rawi, Philip Quast
+genre=Biography, Drama, Thriller
+imdbRating=7.1
+###
