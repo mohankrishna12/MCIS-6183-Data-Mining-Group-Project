@@ -1223,3 +1223,154 @@ actors=Dominic Cooper, Ludivine Sagnier, Raad Rawi, Philip Quast
 genre=Biography, Drama, Thriller
 imdbRating=7.1
 ###
+title=The Adventures of Tintin
+year=2011
+director=Steven Spielberg
+actors=Jamie Bell, Andy Serkis, Daniel Craig, Nick Frost
+genre=Animation, Action, Adventure
+imdbRating=7.4
+###
+title=The Son of No One
+year=2011
+director=Dito Montiel
+actors=Al Pacino, Channing Tatum, James Ransone, Ray Liotta
+genre=Crime, Drama, Thriller
+imdbRating=5.1
+###
+title=Undertow
+year=2004
+director=David Gordon Green
+actors=Jamie Bell, Kristen Stewart, Robert Longstreet, Terry Loughlin
+genre=Drama, Thriller
+imdbRating=6.7
+###
+title=Tomboy
+year=2011
+director=Céline Sciamma
+actors=Zoé Héran, Malonn Lévana, Jeanne Disson, Sophie Cattani
+genre=Drama
+imdbRating=7.4
+###
+title=Cobra Woman
+year=1944
+director=Robert Siodmak
+actors=Maria Montez, Jon Hall, Sabu, Lon Chaney Jr.
+genre=Adventure, Drama
+imdbRating=5.9
+###
+title=George Harrison: Living in the Material World
+year=2011
+director=Martin Scorsese
+actors=George Harrison, Paul McCartney, John Lennon, Ringo Starr
+genre=Documentary, Biography, Music
+imdbRating=8.2
+###
+title=Hugo
+year=2011
+director=Martin Scorsese
+actors=Ben Kingsley, Sacha Baron Cohen, Asa Butterfield, Chloë Grace Moretz
+genre=Adventure, Drama, Family
+imdbRating=7.6
+###
+title=Higher Ground
+year=2011
+director=Vera Farmiga
+actors=Joshua Leonard, Norbert Leo Butz, Michael Chernus, Vera Farmiga
+genre=Drama
+imdbRating=6.3
+###
+title=Trespass
+year=2011
+director=Joel Schumacher
+actors=Nicolas Cage, Nicole Kidman, Ben Mendelsohn, Liana Liberato
+genre=Crime, Drama, Thriller
+imdbRating=5.3
+###
+title=Immortals
+year=2011
+director=Tarsem Singh
+actors=Henry Cavill, Mickey Rourke, Stephen Dorff, Freida Pinto
+genre=Action, Drama, Fantasy
+imdbRating=6.1
+###
+title=Jack and Jill
+year=2011
+director=Dennis Dugan
+actors=Adam Sandler, Al Pacino, Katie Holmes, Elodie Tougne
+genre=Comedy
+imdbRating=3.4
+###
+title=The People vs. George Lucas
+year=2010
+director=Alexandre O. Philippe
+actors=Joe Nussbaum, Daryl Frazetti, Doug Jones, Damian Hess
+genre=Documentary, Comedy
+imdbRating=6.7
+###
+title=Setup
+year=2011
+director=Mike Gunther
+actors=50 Cent, Ryan Phillippe, Bruce Willis, Rory Markham
+genre=Action, Crime, Drama
+imdbRating=4.4
+###
+title=House of Tolerance
+year=2011
+director=Bertrand Bonello
+actors=Noémie Lvovsky, Hafsia Herzi, Céline Sallette, Jasmine Trinca
+genre=Drama
+imdbRating=6.8
+###
+title=The Deep Blue Sea
+year=2011
+director=Terence Davies
+actors=Ann Mitchell, Jolyon Coy, Karl Johnson, Rachel Weisz
+genre=Drama, Romance
+imdbRating=6.3
+###
+title=11-11-11
+year=2011
+director=Darren Lynn Bousman
+actors=Timothy Gibbs, Michael Landes, Wendy Glenn, Benjamin Cook
+genre=Horror, Mystery, Thriller
+imdbRating=4.0
+###
+title=Into the Abyss
+year=2011
+director=Werner Herzog
+actors=Werner Herzog, Richard Lopez, Michael Perry, Damon Hall
+genre=Documentary, Crime, Drama
+imdbRating=7.3
+###
+title=Oslo
+year=2012
+director=Luis Ernesto Doñas
+actors=Nilda Collado, Carlos Pérez Peña
+genre=Short, Drama
+imdbRating=N/A
+###
+No data returned for {'movie': 'I Want to Be a Soldier', 'year': '2011'}
+###
+title=Another Happy Day
+year=2011
+director=Sam Levinson
+actors=Ellen Barkin, Ezra Miller, Ellen Burstyn, Demi Moore
+genre=Comedy, Drama
+imdbRating=6.0
+###
+No data returned for {'movie': 'Fright', 'year': '1972'}
+###
+title=Wichita
+year=1955
+director=Jacques Tourneur
+actors=Joel McCrea, Vera Miles, Lloyd Bridges, Wallace Ford
+genre=Romance, Western
+imdbRating=6.9
+###
+title=Wuthering Heights
+year=2011
+director=Andrea Arnold
+actors=James Howson, Solomon Glave, Paul Hilton, Shannon Beer
+genre=Drama, Romance
+imdbRating=6.1
+###
