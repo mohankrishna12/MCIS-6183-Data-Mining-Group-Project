@@ -105,3 +105,7 @@ the project is completed.
 | 02-15-2016 | Project Proposal | Uchendu Korieocha | We've agreed to work on a dataset that has different Excel sheets, our aim is to combine these Excel sheets, add names of actors, actresses and directors. we intend to create an Excel file that has all the possible combinations of actors, actresses and directors, each possible combination will be given a rating.   |
 | 03-09-2016 | SQL codes for data set  | Tribikya Thapa |          |
 
+#CONCLUSION
+
+#ANSWER
+
