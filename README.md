@@ -1,4 +1,4 @@
-# TO PREDICT THE SUCCESS OR FAILURE OF A MOVIE USING DATA MINING
+# A SYSTEM TO PREDICT MOVIE RATINGS WITH IMDB DATA AND R.
 
 # OVERVIEW
 This application would provide a model for predicting the success class such as flop, hit, super hit of movies. this class will be based 
