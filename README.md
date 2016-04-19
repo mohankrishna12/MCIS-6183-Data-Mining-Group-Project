@@ -51,6 +51,6 @@ Team Members:
 
 #REFERENCES
 - Dataset: Retrieved from [IMDB Website] (http://www.imdb.com/user/ur49179813/ratings)
-- Dimiter Toshkov (2014, March 2). Predicting movie ratings with IMDB data and R. (Web blog post). Retrieved from [Web blog post] (http://www.r-boggers.com/predicting-movie-ratings-with-imdb-data-and-r/) 
+- Dimiter Toshkov (2014, March 2). Predicting movie ratings with IMDB data and R. (Web blog post). Retrieved from [Web blog post] (http://www.r-boggers.com/predicting-movie-ratings-with-imdb-data-and-r) 
 
 
