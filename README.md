@@ -30,24 +30,27 @@ syntax-highlighting editor that supports direct code execution.
 # PROJECT MANAGEMENT
 Team Members:
 - Uchendu Daniel Korieocha(999990236): I developed the proposal and i would be editing the R programming codes i got from IMDB website to suit our project.
-- Tribikya Mardan Thapa(888881533):Tribikya will create the database,write the SQL queries to connect with the C# codes. Tribikya will work
-as the Admin in this project.
-- Chigozie Mozie(999990435): Chigozie will work on the dataset to add other features if necessary and he will also write the project report.
-- Dimosh Tradhan(999990248): Dimosh will work with Chigozie on the dataset and he will create the PowerPoint slides for presentation when 
-the project is completed.
+- Tribikya Mardan Thapa(888881533):
+- Chigozie Mozie(999990435): 
+- Dimosh Tradhan(999990248): 
 
 # TEAM
 | Team Member | Roles and skills | Contributions |
 | ----------- | ---------------- | ------------- |
-| Uchendu Korieocha | I developed the Project proposal and i would be editing the R programming codes i got from IMDB website. i'm proficient in Microsoft C# programming language but i've a ,i"ve strong analytical skills,i can work as a team in an organized way.all these i would bring to the successful completion of the project. | After successful meetings with my team members, we agreed to develop an application to predict success or failure of a movie using data mining. this stage of the project is a successful compiled proposal to explain what the project is all about. | 
-|Tribikya Thapa | I create the database to best suite the application for the project. I deveolop the SQL queries. The majority of my task is ETL (extract, transform, and load) data from a source to destination. In this project the source data were in xlsx file and the destination database is in SSMS(SQL Server MAnagement Studio) When I get the data extracted from the source I transfer it according to the project need and populate it to all the different tables that we have in our database. |
-| Chigozie Mozie | I created the final data sets which comprises of 200 movies with 7 attributes which are; movie i.d, movies, genre, average, actor, actress, director. I compiled the data sets before fowarding them the SQL developer(Tribikya). The 200 random data was selected by the SQL developer using an SQL code from the data sets imported to SSMS data base from an excel spreadsheet using microsoft import/export wizard. The average rating of each 200 movies was derived using an SQL query.
-| Dimosh Pradhan | As we all decided to create an application to predict the success or failure of the upcomming movies, I worked on the collection of dataset for execution of our project working with Chigozie. We have our dataset on the xlsx file format which we have imported in MSsql database. We are looking ahead to add some feature on the project. Also I collected the combination data set of different combination of actor , actress and director which is used in our project to get the ratings. I also will be creating the powerpoint slides for our project which explains the full details of the project and has some screenshots of our application.  |
+| Uchendu Korieocha | I developed the Project proposal and i would be editing the R programming codes i got from IMDB website. i'm proficient in Microsoft C# programming language but i've a good understanding on how codes work. though i'm new to R programming language, i'm using youtube video tutorials uploaded by our instructor to have basic understanding on how R works.i"ve strong analytical skills,i can work as a team in an organized way.all these i would bring to the successful completion of the project. | After successful meetings with my team members, we agreed to develop an application to predict personal users movie ratings using different predictors on the dataset. this stage of the project is a successful compiled proposal to explain what the project is all about. | 
+|Tribikya Thapa |              |    |
+| Chigozie Mozie |             |    |
+| Dimosh Pradhan |                   |I also will be creating the powerpoint slides for our project which explains the full details of the project and has some screenshots of our application.  |
 # DELIVERABLES AND CHECKPOINTS
 | Checkpoint Date | Expected Deliverable | Responsible Team Member(s) | Checkpoints Results |
 | --------------- | -------------------- | -------------------------- | ------------------- |
-| 02-15-2016 | Project Proposal | Uchendu Korieocha | We've agreed to work on a dataset that has different Excel sheets, our aim is to combine these Excel sheets, add names of actors, actresses and directors. we intend to create an Excel file that has all the possible combinations of actors, actresses and directors, each possible combination will be given a rating.   |
-| 03-09-2016 | SQL codes for data set  | Tribikya Thapa |          |
+| 02-15-2016 | Project Proposal | Uchendu Korieocha | We agreed to work together on how to predict personal users ratings as clearly stated on the proposal. At this point we searched for dataset to suit our project.   |
+| 03-13-2016 | Compiled dataset | Tribikya Thapa | We got a Dataset on MovieLens that lacked some variables like names of directors,actors and actresses. we created random names of directors,actors and actresses, which made the dataset rigid, incorrect and difficult to give the required outcome. with this, we did more research to get a better dataset|
+| 04-14-2016 | Compiled dataset from IMDB website | Chigozie Mozie | After our previous failed attempts to compile a good dataset, my team members and i stumbled on a rich dataset on IMDB website, my role was to downloaded it on an Excel sheet, cleaned it up to get a subset of the overall dataset. we've 400 movies to work with now.|
+| 04-18-2016 | Codes Analysis | Uchendu Korieocha | i got a source code on IMDB to work with our 400 movies, at this point i'm analyzing the codes to get the best way it can work with our dataset. in a couple of days, the codes would use the data to predict personal users ratings.|  
 
+#REFERENCES
+- Dataset: Retrieved from [IMDB Website] (http://www.imdb.com/user/ur49179813/ratings)
+- Dimiter Toshkov (2014, March 2). Predicting movie ratings with IMDB data and R. (Web blog post). Retrieved from [Web blog post] (http://www.r-boggers.com/predicting-movie-ratings-with-imdb-data-and-r/) 
 
 
