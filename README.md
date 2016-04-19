@@ -46,7 +46,7 @@ Team Members:
 | --------------- | -------------------- | -------------------------- | ------------------- |
 | 02-15-2016 | Project Proposal | Uchendu Korieocha | We agreed to work together on how to predict personal users ratings as clearly stated on the proposal. At this point we searched for dataset to suit our project.   |
 | 03-13-2016 | Compiled dataset | Tribikya Thapa | We got a Dataset on MovieLens that lacked some variables like names of directors,actors and actresses. we created random names of directors,actors and actresses, which made the dataset rigid, incorrect and difficult to give the required outcome. with this, we did more research to get a better dataset|
-| 04-14-2016 | Compiled dataset from IMDB website | Chigozie Mozie | After our previous failed attempts to compile a good dataset, my team members and i stumbled on a rich dataset on IMDB website, my role was to downloaded it on an Excel sheet, cleaned it up to get a subset of the overall dataset. we've 400 movies to work with now.|
+| 04-14-2016 | Compiled dataset from IMDB website | Chigozie Mozie | After our previous failed attempts to compile a good dataset, my team members and i stumbled on a rich dataset on IMDB website, my role was to download it on an Excel sheet, cleaned it up to get a subset of the overall dataset. we've 400 movies to work with now.|
 | 04-18-2016 | Codes Analysis | Uchendu Korieocha | i got a source code on IMDB to work with our 400 movies, at this point i'm analyzing the codes to get the best way it can work with our dataset. in a couple of days, the codes would use the data to predict personal users ratings.|  
 
 #REFERENCES
