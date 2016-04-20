@@ -1,24 +1,23 @@
-# A SYSTEM TO PREDICT MOVIE RATINGS WITH IMDB DATA AND R PROGRAMMING LANGUAGE.
+# A SYSTEM TO PREDICT MOVIE RATINGS WITH IMDb DATA AND R PROGRAMMING LANGUAGE.
 
 # OVERVIEW
 This project would provide a model to predict personal user movie ratings. The personal user ratings would compare with IMDB ratings for a set of 400 movies on different data mining models using the attributes in the dataset as predictors.
-users predictions would be based on different predictors like IMDB ratings, year of release, Genre and directors.the application helps to predict a new movie and a customer 
-can decide whether to book ticket ahead.
+users predictions would be based on different predictors like IMDb ratings, year of release, Genre and directors.the application compares personal user rating with IMDb rating.
 
 # DATA
 We got the dataset from [IMDB Website] (http://www.imdb.com/user/ur49179813/ratings) but we plan to use subset of the dataset. we got 400 movies downloaded in an Excel sheet in CSV format. The dataset has these attributes (columns): position, const, date and time created,
-title, title type, directors, our average rating, IMBD rating, runtime (mins), year, genre, number votes, released date(month\day\year) and URL.the data is laid out to be human readable not 
+title, title type, directors, our rating, IMBD rating, runtime (mins), year, genre, number votes, released date(month\day\year) and URL.the data is laid out to be human readable not 
 machine-readable the data is generally consistent.
-As part of working with the Dataset, each of us did a random prediction of all the movies individually and we computed the average score for each movie from the four predictions the group members did.
-but since
+As part of working with the Dataset, a member in the group did a random rating of all the 400 movies as if he saw all the movies,the ratings were recorded and added to the dataset as "our rating". 
+IMDb let one score movies from one to ten, half points and fractions are not allowed. our rating is in integer value  
+
 
 # RESEARCH QUESTIONS
-- Can this application correctly predict the success or failure of the movies based on actor,actress or director previous historical data
-- What if the historical data collated about actor,actress and director on which the prediction of success or failure of movies were wrong
-- Can there be other ways to predict the success or failure of movies?
-- If some actors,actresses or directors failed movies data were collated when they started their careers but improved on the success of their
-movies as they gained experience in the industry. is it right to predict the success or failure of their recent movies based on past data 
-collated?
+- How many predictors would the models need to correctly predict my rating?
+- Are 400 movies enough to work with so as to correctly predict my rating? do i need more movies?
+- 
+- Can there be other ways to predict the ratings of a movie?
+
 
 # CODE AND APPLICATION
 The models in this application would be built and tested using R programming language. R is a freely available language and environment for statistical computing
