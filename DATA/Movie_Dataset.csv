@@ -1,0 +1,401 @@
+position,const,created,Title,Title type,Directors,Our Average Rating,IMDb Rating,Runtime (mins),Year,Genres,Num. Votes,Release Date (month/day/year),URL
+1,tt0063759,Wed Apr 13 00:00:00 2016,Hour of the Wolf,Feature Film,Ingmar Bergman,6,7.7,90,1968,"drama, horror",12015,1/1/1968,http://www.imdb.com/title/tt0063759/
+2,tt0057091,Wed Apr 13 00:00:00 2016,The Leopard,Feature Film,Luchino Visconti,5,8.1,187,1963,"drama, history",15840,3/28/1963,http://www.imdb.com/title/tt0057091/
+3,tt0064975,Mon Apr 11 00:00:00 2016,Double Suicide,Feature Film,Masahiro Shinoda,5,7.9,142,1969,drama,1401,5/24/1969,http://www.imdb.com/title/tt0064975/
+4,tt2375605,Fri Apr  8 00:00:00 2016,The Act of Killing,Documentary,"Joshua Oppenheimer, Anonymous",5,8.2,115,2012,"documentary, history",22559,8/31/2012,http://www.imdb.com/title/tt2375605/
+5,tt0044789,Sun Apr  3 00:00:00 2016,Kansas City Confidential,Feature Film,Phil Karlson,5,7.4,99,1952,"crime, drama, film_noir, thriller",3728,11/11/1952,http://www.imdb.com/title/tt0044789/
+6,tt0064040,Wed Mar 30 00:00:00 2016,The Army of Shadows,Feature Film,Jean-Pierre Melville,6,8.2,145,1969,"drama, war",14425,9/12/1969,http://www.imdb.com/title/tt0064040/
+7,tt3175888,Fri Mar 25 00:00:00 2016,Dukhtar,Feature Film,Afia Nathaniel,7,7.3,93,2014,"drama, thriller",847,9/5/2014,http://www.imdb.com/title/tt3175888/
+8,tt0083658,Fri Mar 25 00:00:00 2016,Blade Runner,Feature Film,Ridley Scott,8,8.2,117,1982,"sci_fi, thriller",450138,6/25/1982,http://www.imdb.com/title/tt0083658/
+9,tt0057565,Wed Mar 16 00:00:00 2016,High and Low,Feature Film,Akira Kurosawa,8,8.4,143,1963,"crime, drama, mystery, thriller",17669,3/1/1963,http://www.imdb.com/title/tt0057565/
+10,tt3460252,Wed Mar 16 00:00:00 2016,The Hateful Eight,Feature Film,Quentin Tarantino,9,7.9,187,2015,"crime, drama, mystery, thriller, western",219755,12/7/2015,http://www.imdb.com/title/tt3460252/
+11,tt0062229,Sat Mar 12 00:00:00 2016,Le Samouraï,Feature Film,Jean-Pierre Melville,7,8.1,105,1967,"crime, drama, mystery, thriller",30935,1/13/1967,http://www.imdb.com/title/tt0062229/
+12,tt0041113,Tue Mar  8 00:00:00 2016,All the King's Men,Feature Film,Robert Rossen,7,7.6,110,1949,drama,9587,11/8/1949,http://www.imdb.com/title/tt0041113/
+13,tt0810819,Tue Mar  8 00:00:00 2016,The Danish Girl,Feature Film,Tom Hooper,7,7,119,2015,"biography, drama, romance",66189,9/5/2015,http://www.imdb.com/title/tt0810819/
+14,tt2802154,Mon Feb 29 00:00:00 2016,Leviathan,Feature Film,Andrey Zvyagintsev,7,7.6,140,2014,drama,29443,5/23/2014,http://www.imdb.com/title/tt2802154/
+15,tt0097216,Tue Feb 23 00:00:00 2016,Do the Right Thing,Feature Film,Spike Lee,7,7.9,120,1989,drama,58014,7/25/1989,http://www.imdb.com/title/tt0097216/
+16,tt0046345,Mon Feb 22 00:00:00 2016,Summer with Monika,Feature Film,Ingmar Bergman,7,7.6,96,1953,"drama, romance",7388,2/9/1953,http://www.imdb.com/title/tt0046345/
+17,tt0997246,Mon Feb 22 00:00:00 2016,The Song of Sparrows,Feature Film,Majid Majidi,6,8,96,2008,drama,6301,2/10/2008,http://www.imdb.com/title/tt0997246/
+18,tt0036342,Sun Feb 21 00:00:00 2016,Shadow of a Doubt,Feature Film,Alfred Hitchcock,10,8,108,1943,thriller,44355,1/12/1943,http://www.imdb.com/title/tt0036342/
+19,tt3170832,Sun Feb 21 00:00:00 2016,Room,Feature Film,Lenny Abrahamson,8,8.3,118,2015,drama,121249,9/4/2015,http://www.imdb.com/title/tt3170832/
+20,tt1895587,Sat Feb 20 00:00:00 2016,Spotlight,Feature Film,Tom McCarthy,9,8.1,128,2015,"biography, drama, history",147965,9/3/2015,http://www.imdb.com/title/tt1895587/
+21,tt0036775,Fri Feb 19 00:00:00 2016,Double Indemnity,Feature Film,Billy Wilder,9,8.4,107,1944,"crime, drama, film_noir, mystery, thriller",94745,4/24/1944,http://www.imdb.com/title/tt0036775/
+22,tt3966404,Wed Feb 17 00:00:00 2016,Mustang,Feature Film,Deniz Gamze Ergüven,9,7.6,97,2015,drama,11566,5/19/2015,http://www.imdb.com/title/tt3966404/
+23,tt0032976,Tue Feb 16 00:00:00 2016,Rebecca,Feature Film,Alfred Hitchcock,9,8.2,130,1940,"drama, film_noir, mystery, thriller",84975,3/27/1940,http://www.imdb.com/title/tt0032976/
+24,tt0056058,Mon Feb 15 00:00:00 2016,Harakiri,Feature Film,Masaki Kobayashi,9,8.7,133,1962,"action, drama, history",18214,9/16/1962,http://www.imdb.com/title/tt0056058/
+25,tt0070040,Sat Feb 13 00:00:00 2016,The Spirit of the Beehive,Feature Film,Víctor Erice,8,8,97,1973,"drama, fantasy",11711,10/8/1973,http://www.imdb.com/title/tt0070040/
+26,tt0050613,Thu Feb 11 00:00:00 2016,Throne of Blood,Feature Film,Akira Kurosawa,8,8.1,110,1957,drama,30299,1/15/1957,http://www.imdb.com/title/tt0050613/
+27,tt0097239,Wed Feb 10 00:00:00 2016,Driving Miss Daisy,Feature Film,Bruce Beresford,8,7.4,99,1989,"comedy, drama, family",70607,12/13/1989,http://www.imdb.com/title/tt0097239/
+28,tt1596363,Tue Feb  9 00:00:00 2016,The Big Short,Feature Film,Adam McKay,8,7.8,130,2015,"biography, comedy, drama",139427,11/12/2015,http://www.imdb.com/title/tt1596363/
+29,tt0088763,Mon Feb  8 00:00:00 2016,Back to the Future,Feature Film,Robert Zemeckis,8,8.5,116,1985,"adventure, comedy, sci_fi",707418,7/3/1985,http://www.imdb.com/title/tt0088763/
+30,tt0079501,Mon Feb  8 00:00:00 2016,Mad Max,Feature Film,George Miller,8,7,88,1979,"action, adventure, sci_fi, thriller",148412,4/12/1979,http://www.imdb.com/title/tt0079501/
+31,tt0082694,Mon Feb  8 00:00:00 2016,Mad Max 2: The Road Warrior,Feature Film,George Miller,8,7.6,95,1981,"action, adventure, sci_fi, thriller",130720,12/24/1981,http://www.imdb.com/title/tt0082694/
+32,tt0096874,Mon Feb  8 00:00:00 2016,Back to the Future Part II,Feature Film,Robert Zemeckis,8,7.8,108,1989,"adventure, comedy, sci_fi",328324,11/22/1989,http://www.imdb.com/title/tt0096874/
+33,tt0114746,Sat Feb  6 00:00:00 2016,Twelve Monkeys,Feature Film,Terry Gilliam,8,8.1,129,1995,"mystery, sci_fi, thriller",450793,12/27/1995,http://www.imdb.com/title/tt0114746/
+34,tt0055499,Wed Feb  3 00:00:00 2016,Through a Glass Darkly,Feature Film,Ingmar Bergman,8,8.1,89,1961,drama,14704,10/16/1961,http://www.imdb.com/title/tt0055499/
+35,tt0059749,Tue Feb  2 00:00:00 2016,The Spy Who Came in from the Cold,Feature Film,Martin Ritt,8,7.7,112,1965,"drama, thriller",10183,12/16/1965,http://www.imdb.com/title/tt0059749/
+36,tt0083190,Mon Feb  1 00:00:00 2016,Thief,Feature Film,Michael Mann,8,7.4,122,1981,"action, crime, drama, thriller",15248,3/27/1981,http://www.imdb.com/title/tt0083190/
+37,tt0101765,Sat Jan 30 00:00:00 2016,The Double Life of Veronique,Feature Film,Krzysztof Kieslowski,8,7.9,98,1991,"drama, fantasy, music, mystery, romance",27280,5/15/1991,http://www.imdb.com/title/tt0101765/
+38,tt0102494,Thu Jan 28 00:00:00 2016,My Own Private Idaho,Feature Film,Gus Van Sant,8,7.1,104,1991,drama,36117,7/20/1991,http://www.imdb.com/title/tt0102494/
+39,tt2361700,Wed Jan 27 00:00:00 2016,Antarctica: A Year on Ice,Documentary,Anthony Powell,8,7.6,91,2013,"documentary, adventure, biography, drama",2370,7/21/2013,http://www.imdb.com/title/tt2361700/
+40,tt3682448,Mon Jan 18 00:00:00 2016,Bridge of Spies,Feature Film,Steven Spielberg,8,7.6,142,2015,"drama, history, thriller",150629,10/4/2015,http://www.imdb.com/title/tt3682448/
+41,tt0059043,Sat Jan 16 00:00:00 2016,The Collector,Feature Film,William Wyler,8,7.6,119,1965,"drama, romance, thriller",6874,6/17/1965,http://www.imdb.com/title/tt0059043/
+42,tt3065132,Sat Jan 16 00:00:00 2016,He Named Me Malala,Documentary,Davis Guggenheim,7,6.7,88,2015,documentary,2357,9/4/2015,http://www.imdb.com/title/tt3065132/
+43,tt1663202,Sat Jan 16 00:00:00 2016,The Revenant,Feature Film,Alejandro G. Iñárritu,7,8.1,156,2015,"adventure, drama, thriller, western",325372,12/16/2015,http://www.imdb.com/title/tt1663202/
+44,tt3659388,Sat Jan 16 00:00:00 2016,The Martian,Feature Film,Ridley Scott,7,8.1,144,2015,"adventure, drama, sci_fi",410413,9/11/2015,http://www.imdb.com/title/tt3659388/
+45,tt3397884,Sat Jan 16 00:00:00 2016,Sicario,Feature Film,Denis Villeneuve,7,7.7,121,2015,"action, crime, drama, mystery, thriller",171476,5/19/2015,http://www.imdb.com/title/tt3397884/
+46,tt2361509,Sat Jan 16 00:00:00 2016,The Intern,Feature Film,Nancy Meyers,7,7.2,121,2015,comedy,109486,9/15/2015,http://www.imdb.com/title/tt2361509/
+47,tt3165612,Sat Jan 16 00:00:00 2016,Sleeping with Other People,Feature Film,Leslye Headland,7,6.5,101,2015,"comedy, drama, romance",16991,1/24/2015,http://www.imdb.com/title/tt3165612/
+48,tt2415458,Sat Jan 16 00:00:00 2016,The Wolfpack,Documentary,Crystal Moselle,7,7.1,90,2015,"documentary, biography",6474,1/25/2015,http://www.imdb.com/title/tt2415458/
+49,tt2870648,Sat Jan 16 00:00:00 2016,Amy,Documentary,Asif Kapadia,7,7.8,128,2015,"documentary, biography, music",26865,5/16/2015,http://www.imdb.com/title/tt2870648/
+50,tt0060827,Mon Jan  4 00:00:00 2016,Persona,Feature Film,Ingmar Bergman,7,8.2,85,1966,"drama, thriller",59116,10/18/1966,http://www.imdb.com/title/tt0060827/
+51,tt1821480,Sat Jan  2 00:00:00 2016,Kahaani,Feature Film,Sujoy Ghosh,7,8.3,122,2012,"drama, mystery, thriller",36736,3/8/2012,http://www.imdb.com/title/tt1821480/
+52,tt0103969,Wed Dec 30 00:00:00 2015,The Oak,Feature Film,Lucian Pintilie,7,8.3,105,1992,"comedy, drama",1847,9/16/1992,http://www.imdb.com/title/tt0103969/
+53,tt1263670,Wed Dec 30 00:00:00 2015,Crazy Heart,Feature Film,Scott Cooper,7,7.3,112,2009,"drama, music, romance",66184,12/6/2009,http://www.imdb.com/title/tt1263670/
+54,tt0379725,Wed Dec 30 00:00:00 2015,Capote,Feature Film,Bennett Miller,7,7.4,114,2005,"biography, crime, drama",98438,9/2/2005,http://www.imdb.com/title/tt0379725/
+55,tt2488496,Tue Dec 29 00:00:00 2015,Star Wars: Episode VII - The Force Awakens,Feature Film,J.J. Abrams,7,8.3,136,2015,"action, adventure, fantasy, sci_fi",502306,12/14/2015,http://www.imdb.com/title/tt2488496/
+56,tt0416449,Mon Dec 28 00:00:00 2015,300,Feature Film,Zack Snyder,7,7.7,117,2006,"action, drama, fantasy, war",595142,12/9/2006,http://www.imdb.com/title/tt0416449/
+57,tt1791528,Mon Dec 28 00:00:00 2015,Inherent Vice,Feature Film,Paul Thomas Anderson,7,6.7,148,2014,"comedy, crime, drama, mystery, romance",58044,10/4/2014,http://www.imdb.com/title/tt1791528/
+58,tt1313092,Mon Dec 28 00:00:00 2015,Animal Kingdom,Feature Film,David Michôd,7,7.3,113,2010,"crime, drama, thriller",44488,1/22/2010,http://www.imdb.com/title/tt1313092/
+59,tt0813547,Sun Dec 27 00:00:00 2015,The Counterfeiters,Feature Film,Stefan Ruzowitzky,8,7.6,98,2007,"crime, drama, war",36104,2/10/2007,http://www.imdb.com/title/tt0813547/
+60,tt0783233,Fri Dec 25 00:00:00 2015,Atonement,Feature Film,Joe Wright,6,7.8,123,2007,"drama, mystery, romance, war",188849,8/28/2007,http://www.imdb.com/title/tt0783233/
+61,tt0455590,Fri Dec 25 00:00:00 2015,The Last King of Scotland,Feature Film,Kevin Macdonald,6,7.7,121,2006,"biography, drama, history, thriller",142761,9/1/2006,http://www.imdb.com/title/tt0455590/
+62,tt0840361,Wed Dec 23 00:00:00 2015,The Town,Feature Film,Ben Affleck,6,7.6,125,2010,"crime, drama, thriller",274526,9/8/2010,http://www.imdb.com/title/tt0840361/
+63,tt2235108,Tue Dec 22 00:00:00 2015,Dear White People,Feature Film,Justin Simien,6,6.3,108,2014,"comedy, drama",17840,1/18/2014,http://www.imdb.com/title/tt2235108/
+64,tt0253474,Tue Dec 22 00:00:00 2015,The Pianist,Feature Film,Roman Polanski,6,8.5,150,2002,"biography, drama, war",481956,5/24/2002,http://www.imdb.com/title/tt0253474/
+65,tt0935075,Tue Dec 22 00:00:00 2015,Rabbit Hole,Feature Film,John Cameron Mitchell,6,7,91,2010,drama,40079,9/13/2010,http://www.imdb.com/title/tt0935075/
+66,tt0805564,Mon Dec 21 00:00:00 2015,Lars and the Real Girl,Feature Film,Craig Gillespie,6,7.4,106,2007,"comedy, drama",112810,9/16/2007,http://www.imdb.com/title/tt0805564/
+67,tt0964517,Sat Dec 19 00:00:00 2015,The Fighter,Feature Film,David O. Russell,6,7.9,116,2010,"biography, drama, sport",270257,12/10/2010,http://www.imdb.com/title/tt0964517/
+68,tt3009070,Thu Dec 17 00:00:00 2015,The Goob,Feature Film,Guy Myhill,6,5.7,84,2014,"drama, romance",596,8/28/2014,http://www.imdb.com/title/tt3009070/
+69,tt1226774,Thu Dec 17 00:00:00 2015,In the Loop,Feature Film,Armando Iannucci,6,7.5,106,2009,comedy,43284,1/22/2009,http://www.imdb.com/title/tt1226774/
+70,tt0060665,Thu Dec 17 00:00:00 2015,A Man for All Seasons,Feature Film,Fred Zinnemann,6,7.9,120,1966,"biography, drama, history",23213,12/12/1966,http://www.imdb.com/title/tt0060665/
+71,tt2911666,Thu Dec 17 00:00:00 2015,John Wick,Feature Film,Chad Stahelski,6,7.2,101,2014,"action, crime, thriller",234936,9/19/2014,http://www.imdb.com/title/tt2911666/
+72,tt1182345,Sat Dec  5 00:00:00 2015,Moon,Feature Film,Duncan Jones,6,7.9,97,2009,"drama, mystery, sci_fi",252674,1/23/2009,http://www.imdb.com/title/tt1182345/
+73,tt0068638,Fri Dec  4 00:00:00 2015,The Getaway,Feature Film,Sam Peckinpah,6,7.5,122,1972,"action, crime, thriller",20505,12/13/1972,http://www.imdb.com/title/tt0068638/
+74,tt0067800,Wed Dec  2 00:00:00 2015,Straw Dogs,Feature Film,Sam Peckinpah,6,7.5,113,1971,"crime, drama, thriller",44542,11/3/1971,http://www.imdb.com/title/tt0067800/
+75,tt0074860,Wed Dec  2 00:00:00 2015,Marathon Man,Feature Film,John Schlesinger,6,7.5,125,1976,"crime, thriller",43623,10/6/1976,http://www.imdb.com/title/tt0074860/
+76,tt0472562,Wed Dec  2 00:00:00 2015,Shake Hands with the Devil,Feature Film,Roger Spottiswoode,6,7.8,112,2007,"drama, history, war",2694,9/9/2007,http://www.imdb.com/title/tt0472562/
+77,tt0081283,Sun Nov 29 00:00:00 2015,Ordinary People,Feature Film,Robert Redford,6,7.8,124,1980,drama,34433,9/19/1980,http://www.imdb.com/title/tt0081283/
+78,tt1068646,Sat Nov 28 00:00:00 2015,The Class,Feature Film,Laurent Cantet,6,7.5,128,2008,drama,28822,5/24/2008,http://www.imdb.com/title/tt1068646/
+79,tt2011971,Sat Nov 28 00:00:00 2015,Monsieur Lazhar,Feature Film,Philippe Falardeau,6,7.5,94,2011,"comedy, drama",15570,8/8/2011,http://www.imdb.com/title/tt2011971/
+80,tt0043265,Wed Nov 25 00:00:00 2015,The African Queen,Feature Film,John Huston,6,7.9,105,1951,"adventure, drama, romance, war",57508,12/23/1951,http://www.imdb.com/title/tt0043265/
+81,tt0071115,Mon Nov 23 00:00:00 2015,Alice Doesn't Live Here Anymore,Feature Film,Martin Scorsese,6,7.4,112,1974,"drama, romance",15220,12/9/1974,http://www.imdb.com/title/tt0071115/
+82,tt0048028,Sun Nov 22 00:00:00 2015,East of Eden,Feature Film,Elia Kazan,6,8,115,1955,"drama, romance",29841,3/9/1955,http://www.imdb.com/title/tt0048028/
+83,tt0765429,Fri Nov 20 00:00:00 2015,American Gangster,Feature Film,Ridley Scott,6,7.8,157,2007,"biography, crime, drama",319706,10/19/2007,http://www.imdb.com/title/tt0765429/
+84,tt0765443,Fri Nov 20 00:00:00 2015,Eastern Promises,Feature Film,David Cronenberg,6,7.7,100,2007,"crime, thriller",186270,9/8/2007,http://www.imdb.com/title/tt0765443/
+85,tt0112817,Wed Nov 18 00:00:00 2015,Dead Man,Feature Film,Jim Jarmusch,6,7.7,121,1995,"drama, fantasy, western",70634,5/26/1995,http://www.imdb.com/title/tt0112817/
+86,tt2582496,Fri Nov 13 00:00:00 2015,Me and Earl and the Dying Girl,Feature Film,Alfonso Gomez-Rejon,6,7.8,105,2015,"comedy, drama",66956,1/25/2015,http://www.imdb.com/title/tt2582496/
+87,tt0243133,Thu Nov 12 00:00:00 2015,The Man Who Wasn't There,Feature Film,Joel Coen,6,7.6,116,2001,"crime, drama",84571,5/13/2001,http://www.imdb.com/title/tt0243133/
+88,tt1235166,Tue Nov 10 00:00:00 2015,A Prophet,Feature Film,Jacques Audiard,6,7.9,155,2009,"crime, drama",76957,5/16/2009,http://www.imdb.com/title/tt1235166/
+89,tt0408236,Sun Nov  8 00:00:00 2015,Sweeney Todd: The Demon Barber of Fleet Street,Feature Film,Tim Burton,6,7.4,116,2007,"drama, horror, musical, thriller",276430,12/3/2007,http://www.imdb.com/title/tt0408236/
+90,tt3416744,Fri Nov  6 00:00:00 2015,The End of the Tour,Feature Film,James Ponsoldt,6,7.4,106,2015,"biography, drama",14741,1/23/2015,http://www.imdb.com/title/tt3416744/
+91,tt1355683,Thu Nov  5 00:00:00 2015,Black Mass,Feature Film,Scott Cooper,6,7,123,2015,"biography, crime, drama",99435,9/4/2015,http://www.imdb.com/title/tt1355683/
+92,tt0068762,Wed Nov  4 00:00:00 2015,Jeremiah Johnson,Feature Film,Sydney Pollack,6,7.6,108,1972,"adventure, drama, western",20944,9/10/1972,http://www.imdb.com/title/tt0068762/
+93,tt0887883,Tue Nov  3 00:00:00 2015,Burn After Reading,Feature Film,"Ethan Coen, Joel Coen",6,7,96,2008,comedy,243879,8/27/2008,http://www.imdb.com/title/tt0887883/
+94,tt0824747,Mon Nov  2 00:00:00 2015,Changeling,Feature Film,Clint Eastwood,6,7.8,141,2008,"crime, drama, mystery, thriller",196023,5/20/2008,http://www.imdb.com/title/tt0824747/
+95,tt3062880,Fri Oct 30 00:00:00 2015,Gett: The Trial of Viviane Amsalem,Feature Film,"Ronit Elkabetz, Shlomi Elkabetz",6,7.7,115,2014,drama,3352,5/16/2014,http://www.imdb.com/title/tt3062880/
+96,tt2402101,Wed Oct 28 00:00:00 2015,Dark Places,Feature Film,Gilles Paquet-Brenner,6,6.2,113,2015,"drama, mystery, thriller",24646,3/31/2015,http://www.imdb.com/title/tt2402101/
+97,tt2273657,Tue Oct 27 00:00:00 2015,True Story,Feature Film,Rupert Goold,6,6.3,99,2015,"crime, drama, mystery, thriller",32849,1/23/2015,http://www.imdb.com/title/tt2273657/
+98,tt2719848,Sun Oct 25 00:00:00 2015,Everest,Feature Film,Baltasar Kormákur,6,7.1,121,2015,"adventure, biography, drama, history, thriller",119222,9/2/2015,http://www.imdb.com/title/tt2719848/
+99,tt0074958,Sun Oct 25 00:00:00 2015,Network,Feature Film,Sidney Lumet,6,8.1,121,1976,drama,100062,11/14/1976,http://www.imdb.com/title/tt0074958/
+100,tt0053976,Sat Oct 24 00:00:00 2015,The Virgin Spring,Feature Film,Ingmar Bergman,5,8.1,89,1960,"crime, drama, thriller",18482,2/8/1960,http://www.imdb.com/title/tt0053976/
+101,tt1291584,Thu Oct 22 00:00:00 2015,Warrior,Feature Film,Gavin O'Connor,5,8.2,140,2011,"drama, sport",322354,9/9/2011,http://www.imdb.com/title/tt1291584/
+102,tt1305806,Wed Oct 21 00:00:00 2015,The Secret in Their Eyes,Feature Film,Juan José Campanella,5,8.2,129,2009,"drama, mystery, thriller",126354,8/13/2009,http://www.imdb.com/title/tt1305806/
+103,tt0041959,Tue Oct 20 00:00:00 2015,The Third Man,Feature Film,Carol Reed,5,8.3,104,1949,"film_noir, mystery, thriller",110657,8/31/1949,http://www.imdb.com/title/tt0041959/
+104,tt0052311,Tue Oct 20 00:00:00 2015,Touch of Evil,Feature Film,Orson Welles,5,8.1,95,1958,"crime, film_noir, thriller",70924,4/23/1958,http://www.imdb.com/title/tt0052311/
+105,tt0052618,Tue Oct 20 00:00:00 2015,Ben-Hur,Feature Film,William Wyler,5,8.1,212,1959,"adventure, drama, war",155466,11/18/1959,http://www.imdb.com/title/tt0052618/
+106,tt0053604,Tue Oct 20 00:00:00 2015,The Apartment,Feature Film,Billy Wilder,5,8.3,125,1960,"comedy, drama, romance",105951,6/15/1960,http://www.imdb.com/title/tt0053604/
+107,tt0044079,Sun Oct 11 00:00:00 2015,Strangers on a Train,Feature Film,Alfred Hitchcock,5,8.1,101,1951,"crime, film_noir, thriller",93248,6/30/1951,http://www.imdb.com/title/tt0044079/
+108,tt0120689,Sun Oct 11 00:00:00 2015,The Green Mile,Feature Film,Frank Darabont,5,8.5,189,1999,"crime, drama, fantasy, mystery",756082,12/6/1999,http://www.imdb.com/title/tt0120689/
+109,tt2381249,Tue Oct  6 00:00:00 2015,Mission: Impossible - Rogue Nation,Feature Film,Christopher McQuarrie,5,7.5,131,2015,"action, adventure, thriller",214766,7/23/2015,http://www.imdb.com/title/tt2381249/
+110,tt1398426,Fri Oct  2 00:00:00 2015,Straight Outta Compton,Feature Film,F. Gary Gray,5,8,147,2015,"biography, crime, drama, history, music",103825,8/11/2015,http://www.imdb.com/title/tt1398426/
+111,tt3455224,Thu Oct  1 00:00:00 2015,Virunga,Documentary,Orlando von Einsiedel,5,8.3,100,2014,"documentary, war",5904,4/17/2014,http://www.imdb.com/title/tt3455224/
+112,tt2076220,Thu Oct  1 00:00:00 2015,Holy Motors,Feature Film,Leos Carax,59,7.1,115,2012,"drama, fantasy",28694,5/23/2012,http://www.imdb.com/title/tt2076220/
+113,tt2187115,Tue Sep 29 00:00:00 2015,Child's Pose,Feature Film,Calin Peter Netzer,9,7.5,112,2013,drama,5801,2/11/2013,http://www.imdb.com/title/tt2187115/
+114,tt0117500,Tue Sep 29 00:00:00 2015,The Rock,Feature Film,Michael Bay,8,7.4,136,1996,"action, adventure, thriller",255279,6/7/1996,http://www.imdb.com/title/tt0117500/
+115,tt0903657,Mon Sep 28 00:00:00 2015,Love & Mercy,Feature Film,Bill Pohlad,7,7.4,121,2014,"biography, drama, music",20206,9/7/2014,http://www.imdb.com/title/tt0903657/
+116,tt1820488,Fri Sep 25 00:00:00 2015,War Witch,Feature Film,Kim Nguyen,6,7.1,90,2012,"drama, war",5779,2/17/2012,http://www.imdb.com/title/tt1820488/
+117,tt0122690,Wed Sep 23 00:00:00 2015,Ronin,Feature Film,John Frankenheimer,7,7.3,122,1998,"action, adventure, crime, thriller",143081,9/12/1998,http://www.imdb.com/title/tt0122690/
+118,tt0071360,Sat Sep 19 00:00:00 2015,The Conversation,Feature Film,Francis Ford Coppola,8,7.9,113,1974,"drama, mystery, thriller",73013,4/7/1974,http://www.imdb.com/title/tt0071360/
+119,tt0042369,Thu Sep 17 00:00:00 2015,D.O.A.,Feature Film,Rudolph Maté,9,7.4,83,1950,"drama, film_noir, mystery, thriller",7808,4/30/1950,http://www.imdb.com/title/tt0042369/
+120,tt1126590,Thu Sep 17 00:00:00 2015,Big Eyes,Feature Film,Tim Burton,8,7,106,2014,"biography, crime, drama, romance",52094,11/13/2014,http://www.imdb.com/title/tt1126590/
+121,tt0079116,Thu Sep 17 00:00:00 2015,Escape from Alcatraz,Feature Film,Donald Siegel,7,7.6,112,1979,"biography, crime, drama",84974,6/22/1979,http://www.imdb.com/title/tt0079116/
+122,tt0066999,Mon Aug 31 00:00:00 2015,Dirty Harry,Feature Film,Don Siegel,6,7.8,102,1971,"action, crime, thriller",111685,12/22/1971,http://www.imdb.com/title/tt0066999/
+123,tt0033870,Sun Aug 30 00:00:00 2015,The Maltese Falcon,Feature Film,John Huston,7,8.1,100,1941,"crime, drama, film_noir, mystery",110103,10/3/1941,http://www.imdb.com/title/tt0033870/
+124,tt2802144,Sat Aug 29 00:00:00 2015,Kingsman: The Secret Service,Feature Film,Matthew Vaughn,8,7.8,129,2014,"action, adventure, comedy, crime, thriller",376471,12/13/2014,http://www.imdb.com/title/tt2802144/
+125,tt0062765,Sat Aug 29 00:00:00 2015,Bullitt,Feature Film,Peter Yates,9,7.5,114,1968,"action, crime, mystery, thriller",45298,10/17/1968,http://www.imdb.com/title/tt0062765/
+126,tt1392190,Fri Aug 28 00:00:00 2015,Mad Max: Fury Road,Feature Film,George Miller,7,8.1,120,2015,"action, adventure, sci_fi, thriller",504443,5/7/2015,http://www.imdb.com/title/tt1392190/
+127,tt0470752,Fri Aug 28 00:00:00 2015,Ex Machina,Feature Film,Alex Garland,6,7.7,108,2015,"drama, mystery, sci_fi, thriller",264181,1/21/2015,http://www.imdb.com/title/tt0470752/
+128,tt0369610,Thu Aug 27 00:00:00 2015,Jurassic World,Feature Film,Colin Trevorrow,5,7.1,124,2015,"action, adventure, sci_fi, thriller",389478,5/29/2015,http://www.imdb.com/title/tt0369610/
+129,tt0046511,Wed Aug 26 00:00:00 2015,Journey to Italy,Feature Film,Roberto Rossellini,7,7.4,85,1954,"drama, romance",5175,9/7/1954,http://www.imdb.com/title/tt0046511/
+130,tt0118749,Wed Aug 26 00:00:00 2015,Boogie Nights,Feature Film,Paul Thomas Anderson,8,7.9,155,1997,drama,184911,9/11/1997,http://www.imdb.com/title/tt0118749/
+131,tt2229499,Wed Aug 26 00:00:00 2015,Don Jon,Feature Film,Joseph Gordon-Levitt,9,6.6,90,2013,"comedy, drama, romance",185996,1/18/2013,http://www.imdb.com/title/tt2229499/
+132,tt0093713,Mon Jun 15 00:00:00 2015,Pelle the Conqueror,Feature Film,Bille August,8,7.9,157,1987,drama,7573,12/25/1987,http://www.imdb.com/title/tt0093713/
+133,tt0424227,Sat Jun 13 00:00:00 2015,Turtles Can Fly,Feature Film,Bahman Ghobadi,7,8.1,98,2004,"drama, war",13063,9/10/2004,http://www.imdb.com/title/tt0424227/
+134,tt0050371,Sat Jun 13 00:00:00 2015,A Face in the Crowd,Feature Film,Elia Kazan,7,8.2,126,1957,drama,9566,5/28/1957,http://www.imdb.com/title/tt0050371/
+135,tt0054476,Thu Jun 11 00:00:00 2015,Wild River,Feature Film,Elia Kazan,7,7.8,110,1960,"drama, history, romance",3169,5/26/1960,http://www.imdb.com/title/tt0054476/
+136,tt0046816,Thu Jun 11 00:00:00 2015,The Caine Mutiny,Feature Film,Edward Dmytryk,7,7.9,124,1954,"drama, war",19728,6/24/1954,http://www.imdb.com/title/tt0046816/
+137,tt0043362,Tue Jun  9 00:00:00 2015,The Browning Version,Feature Film,Anthony Asquith,7,8.2,90,1951,drama,3219,3/13/1951,http://www.imdb.com/title/tt0043362/
+138,tt0043338,Mon Jun  8 00:00:00 2015,Ace in the Hole,Feature Film,Billy Wilder,8,8.2,111,1951,"drama, film_noir",18593,6/14/1951,http://www.imdb.com/title/tt0043338/
+139,tt0051201,Mon Jun  8 00:00:00 2015,Witness for the Prosecution,Feature Film,Billy Wilder,9,8.4,116,1957,"crime, drama, mystery, thriller",60467,12/17/1957,http://www.imdb.com/title/tt0051201/
+140,tt0047296,Fri Jun  5 00:00:00 2015,On the Waterfront,Feature Film,Elia Kazan,9,8.3,108,1954,"crime, drama, romance",97663,6/22/1954,http://www.imdb.com/title/tt0047296/
+141,tt3824412,Thu Jun  4 00:00:00 2015,Results,Feature Film,Andrew Bujalski,9,5.5,105,2015,"comedy, romance",4107,1/27/2015,http://www.imdb.com/title/tt3824412/
+142,tt3011894,Wed Jun  3 00:00:00 2015,Wild Tales,Feature Film,Damián Szifron,5,8.1,122,2014,"comedy, drama, thriller",80423,5/17/2014,http://www.imdb.com/title/tt3011894/
+143,tt0045555,Tue Jun  2 00:00:00 2015,The Big Heat,Feature Film,Fritz Lang,10,8,90,1953,"crime, film_noir, thriller",16294,10/14/1953,http://www.imdb.com/title/tt0045555/
+144,tt3409392,Tue Jun  2 00:00:00 2015,Timbuktu,Feature Film,Abderrahmane Sissako,9,7.2,97,2014,drama,9876,5/15/2014,http://www.imdb.com/title/tt3409392/
+145,tt0076446,Mon May 25 00:00:00 2015,Unfinished Piece for the Player Piano,Feature Film,Nikita Mikhalkov,8,8,103,1977,drama,2044,9/5/1977,http://www.imdb.com/title/tt0076446/
+146,tt1675192,Sun May 17 00:00:00 2015,Take Shelter,Feature Film,Jeff Nichols,7,7.4,121,2011,"drama, thriller",65016,1/24/2011,http://www.imdb.com/title/tt1675192/
+147,tt2937898,Fri May 15 00:00:00 2015,A Most Violent Year,Feature Film,J.C. Chandor,7,7,125,2014,"action, crime, drama, thriller",43329,11/6/2014,http://www.imdb.com/title/tt2937898/
+148,tt0048473,Thu May 14 00:00:00 2015,Pather Panchali,Feature Film,Satyajit Ray,10,8.4,125,1955,drama,13076,8/26/1955,http://www.imdb.com/title/tt0048473/
+149,tt0102015,Sat May  9 00:00:00 2015,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,"Fax Bahr, George Hickenlooper",8,8.2,96,1991,documentary,13360,12/6/1991,http://www.imdb.com/title/tt0102015/
+150,tt1441395,Sat May  9 00:00:00 2015,Under the Skin,Feature Film,Jonathan Glazer,8,6.3,108,2013,"drama, sci_fi, thriller",80935,8/29/2013,http://www.imdb.com/title/tt1441395/
+151,tt0373981,Thu May  7 00:00:00 2015,Kontroll,Feature Film,Nimród Antal,8,7.7,105,2003,"comedy, crime, drama, romance, thriller",19467,11/20/2003,http://www.imdb.com/title/tt0373981/
+152,tt2920540,Sun May  3 00:00:00 2015,"20,000 Days on Earth",Documentary,"Iain Forsyth, Jane Pollard",7,7.5,97,2014,"documentary, drama, music",7610,1/20/2014,http://www.imdb.com/title/tt2920540/
+153,tt2382298,Sun May  3 00:00:00 2015,Life Itself,Documentary,Steve James,7,7.9,120,2014,"documentary, biography",10398,1/19/2014,http://www.imdb.com/title/tt2382298/
+154,tt0762111,Mon Apr 13 00:00:00 2015,Jonestown: The Life and Death of Peoples Temple,Documentary,Stanley Nelson,8,7.9,86,2006,"documentary, history",3682,4/25/2006,http://www.imdb.com/title/tt0762111/
+155,tt0063611,Mon Apr 13 00:00:00 2015,Shame,Feature Film,Ingmar Bergman,8,8.1,103,1968,"drama, war",7772,9/29/1968,http://www.imdb.com/title/tt0063611/
+156,tt1183919,Fri Apr 10 00:00:00 2015,Marley,Documentary,Kevin Macdonald,9,8,144,2012,"documentary, biography, music",10657,2/12/2012,http://www.imdb.com/title/tt1183919/
+157,tt0095515,Wed Apr  8 00:00:00 2015,Let's Get Lost,Documentary,Bruce Weber,10,7.9,120,1988,"documentary, music",1210,9/15/1988,http://www.imdb.com/title/tt0095515/
+158,tt1020773,Sun Apr  5 00:00:00 2015,Certified Copy,Feature Film,Abbas Kiarostami,6,7.2,106,2010,drama,13845,5/18/2010,http://www.imdb.com/title/tt1020773/
+159,tt0086979,Sun Apr  5 00:00:00 2015,Blood Simple.,Feature Film,Joel Coen,5,7.7,99,1984,"crime, thriller",65862,9/7/1984,http://www.imdb.com/title/tt0086979/
+160,tt1157605,Fri Apr  3 00:00:00 2015,Anvil: The Story of Anvil,Documentary,Sacha Gervasi,6,8,80,2008,"documentary, biography, drama, music",12891,1/18/2008,http://www.imdb.com/title/tt1157605/
+161,tt2125608,Sun Mar 22 00:00:00 2015,Searching for Sugar Man,Documentary,Malik Bendjelloul,6,8.2,86,2012,"documentary, biography, music",47378,1/19/2012,http://www.imdb.com/title/tt2125608/
+162,tt1600196,Fri Mar 20 00:00:00 2015,The Drop,Feature Film,Michaël R. Roskam,5,7.1,106,2014,"crime, drama",101480,9/5/2014,http://www.imdb.com/title/tt1600196/
+163,tt1809398,Thu Mar 19 00:00:00 2015,Unbroken,Feature Film,Angelina Jolie,6,7.2,137,2014,"biography, drama, sport, war",98691,11/17/2014,http://www.imdb.com/title/tt1809398/
+164,tt0074119,Sun Mar 15 00:00:00 2015,All the President's Men,Feature Film,Alan J. Pakula,7,8,138,1976,"biography, drama, history, thriller",71444,4/4/1976,http://www.imdb.com/title/tt0074119/
+165,tt1714915,Tue Mar 10 00:00:00 2015,Only Lovers Left Alive,Feature Film,Jim Jarmusch,8,7.3,123,2013,"drama, horror, romance",57658,5/25/2013,http://www.imdb.com/title/tt1714915/
+166,tt3316960,Mon Mar  9 00:00:00 2015,Still Alice,Feature Film,"Richard Glatzer, Wash Westmoreland",9,7.5,101,2014,drama,80539,9/8/2014,http://www.imdb.com/title/tt3316960/
+167,tt0057358,Sun Mar  8 00:00:00 2015,Winter Light,Feature Film,Ingmar Bergman,6,8.1,81,1963,drama,13622,2/11/1963,http://www.imdb.com/title/tt0057358/
+168,tt2980592,Sat Mar  7 00:00:00 2015,The Guest,Feature Film,Adam Wingard,5,6.7,100,2014,"mystery, thriller",59553,1/17/2014,http://www.imdb.com/title/tt2980592/
+169,tt0071970,Wed Mar  4 00:00:00 2015,The Parallax View,Feature Film,Alan J. Pakula,7,7.2,102,1974,thriller,10737,6/14/1974,http://www.imdb.com/title/tt0071970/
+170,tt0816692,Wed Mar  4 00:00:00 2015,Interstellar,Feature Film,Christopher Nolan,8,8.6,169,2014,"adventure, drama, sci_fi",880112,10/26/2014,http://www.imdb.com/title/tt0816692/
+171,tt4044364,Mon Feb 23 00:00:00 2015,Citizenfour,Documentary,Laura Poitras,8,8.1,114,2014,"documentary, biography, history, news",32323,10/10/2014,http://www.imdb.com/title/tt4044364/
+172,tt1020072,Mon Feb 23 00:00:00 2015,Selma,Feature Film,Ava DuVernay,9,7.5,128,2014,"biography, drama, history",58250,11/11/2014,http://www.imdb.com/title/tt1020072/
+173,tt2179136,Thu Feb 19 00:00:00 2015,American Sniper,Feature Film,Clint Eastwood,9,7.3,133,2014,"action, biography, drama, history, thriller, war",311197,11/11/2014,http://www.imdb.com/title/tt2179136/
+174,tt1700845,Mon Feb 16 00:00:00 2015,The Invisible Woman,Feature Film,Ralph Fiennes,6,6.1,111,2013,"biography, drama, history, romance",6643,8/31/2013,http://www.imdb.com/title/tt1700845/
+175,tt2364975,Fri Feb 13 00:00:00 2015,We Are the Best!,Feature Film,Lukas Moodysson,5,7.2,102,2013,"drama, music",7258,8/31/2013,http://www.imdb.com/title/tt2364975/
+176,tt1100089,Fri Feb 13 00:00:00 2015,Foxcatcher,Feature Film,Bennett Miller,6,7,134,2014,"biography, drama, sport",102518,5/19/2014,http://www.imdb.com/title/tt1100089/
+177,tt0069281,Thu Feb 12 00:00:00 2015,Sleuth,Feature Film,Joseph L. Mankiewicz,8,8.1,138,1972,"mystery, thriller",36502,12/10/1972,http://www.imdb.com/title/tt0069281/
+178,tt2305051,Wed Feb 11 00:00:00 2015,Wild,Feature Film,Jean-Marc Vallée,6,7.2,115,2014,"adventure, biography, drama",82039,8/29/2014,http://www.imdb.com/title/tt2305051/
+179,tt2562232,Mon Feb  9 00:00:00 2015,Birdman or (The Unexpected Virtue of Ignorance),Feature Film,Alejandro G. Iñárritu,5,7.8,119,2014,"comedy, drama",376064,8/27/2014,http://www.imdb.com/title/tt2562232/
+180,tt2096672,Sat Feb  7 00:00:00 2015,Dumb and Dumber To,Feature Film,"Bobby Farrelly, Peter Farrelly",10,5.7,109,2014,comedy,93671,11/7/2014,http://www.imdb.com/title/tt2096672/
+181,tt0096018,Fri Feb  6 00:00:00 2015,Running on Empty,Feature Film,Sidney Lumet,9,7.7,116,1988,"crime, drama, music, romance",9991,9/7/1988,http://www.imdb.com/title/tt0096018/
+182,tt0087553,Wed Feb  4 00:00:00 2015,The Killing Fields,Feature Film,Roland Joffé,9,7.9,141,1984,"drama, history, war",41418,11/2/1984,http://www.imdb.com/title/tt0087553/
+183,tt0062790,Sat Jan 31 00:00:00 2015,The Charge of the Light Brigade,Feature Film,Tony Richardson,9,6.8,139,1968,"drama, history, war",2153,4/11/1968,http://www.imdb.com/title/tt0062790/
+184,tt0079417,Sat Jan 31 00:00:00 2015,Kramer vs. Kramer,Feature Film,Robert Benton,9,7.8,105,1979,"drama, romance",95366,12/19/1979,http://www.imdb.com/title/tt0079417/
+185,tt3317326,Mon Jan 26 00:00:00 2015,The Trip to Bountiful,TV Movie,Michael Wilson,8,7.1,,2014,drama,399,3/8/2014,http://www.imdb.com/title/tt3317326/
+186,tt2756032,Fri Jan 23 00:00:00 2015,The One I Love,Feature Film,Charlie McDowell,7,7.1,91,2014,"drama, romance",21526,1/21/2014,http://www.imdb.com/title/tt2756032/
+187,tt2582802,Thu Jan 22 00:00:00 2015,Whiplash,Feature Film,Damien Chazelle,6,8.5,107,2014,"drama, music",371062,1/16/2014,http://www.imdb.com/title/tt2582802/
+188,tt1872194,Tue Jan 20 00:00:00 2015,The Judge,Feature Film,David Dobkin,6,7.4,141,2014,"crime, drama",132023,9/4/2014,http://www.imdb.com/title/tt1872194/
+189,tt2015381,Sun Jan 18 00:00:00 2015,Guardians of the Galaxy,Feature Film,James Gunn,6,8.1,121,2014,"action, adventure, sci_fi",642424,7/21/2014,http://www.imdb.com/title/tt2015381/
+190,tt2084970,Sun Jan 18 00:00:00 2015,The Imitation Game,Feature Film,Morten Tyldum,6,8.1,114,2014,"biography, drama, thriller, war",436844,8/29/2014,http://www.imdb.com/title/tt2084970/
+191,tt2980516,Sun Jan 18 00:00:00 2015,The Theory of Everything,Feature Film,James Marsh,6,7.7,123,2014,"biography, drama, romance",251123,9/7/2014,http://www.imdb.com/title/tt2980516/
+192,tt0067277,Sat Jan 17 00:00:00 2015,Johnny Got His Gun,Feature Film,Dalton Trumbo,8,7.9,111,1971,"drama, war",11555,5/14/1971,http://www.imdb.com/title/tt0067277/
+193,tt0061418,Thu Jan 15 00:00:00 2015,Bonnie and Clyde,Feature Film,Arthur Penn,9,7.9,111,1967,"biography, crime, drama",78016,7/18/1967,http://www.imdb.com/title/tt0061418/
+194,tt0085794,Wed Jan 14 00:00:00 2015,The King of Comedy,Feature Film,Martin Scorsese,9,7.8,109,1982,"comedy, drama",50403,12/18/1982,http://www.imdb.com/title/tt0085794/
+195,tt0088184,Mon Jan 12 00:00:00 2015,Stranger Than Paradise,Feature Film,Jim Jarmusch,9,7.6,89,1984,"comedy, drama",24467,11/9/1984,http://www.imdb.com/title/tt0088184/
+196,tt1065073,Fri Jan  9 00:00:00 2015,Boyhood,Feature Film,Richard Linklater,8,8,165,2014,drama,257096,1/19/2014,http://www.imdb.com/title/tt1065073/
+197,tt2788710,Sun Jan  4 00:00:00 2015,The Interview,Feature Film,"Evan Goldberg, Seth Rogen",8,6.6,112,2014,comedy,240357,12/11/2014,http://www.imdb.com/title/tt2788710/
+198,tt0119217,Sat Jan  3 00:00:00 2015,Good Will Hunting,Feature Film,Gus Van Sant,8,8.3,126,1997,drama,585448,12/2/1997,http://www.imdb.com/title/tt0119217/
+199,tt2310332,Sat Jan  3 00:00:00 2015,The Hobbit: The Battle of the Five Armies,Feature Film,Peter Jackson,8,7.5,144,2014,"adventure, fantasy",339251,12/1/2014,http://www.imdb.com/title/tt2310332/
+200,tt0455944,Sat Jan  3 00:00:00 2015,The Equalizer,Feature Film,Antoine Fuqua,8,7.2,132,2014,"action, crime, thriller",220808,9/7/2014,http://www.imdb.com/title/tt0455944/
+201,tt2872718,Thu Jan  1 00:00:00 2015,Nightcrawler,Feature Film,Dan Gilroy,8,7.9,117,2014,"crime, thriller",278239,9/5/2014,http://www.imdb.com/title/tt2872718/
+202,tt2852400,Tue Dec 30 00:00:00 2014,A Touch of Sin,Feature Film,Zhangke Jia,8,7.2,133,2013,drama,6531,5/17/2013,http://www.imdb.com/title/tt2852400/
+203,tt2267998,Mon Dec 29 00:00:00 2014,Gone Girl,Feature Film,David Fincher,8,8.1,149,2014,"crime, drama, mystery, thriller",543234,9/26/2014,http://www.imdb.com/title/tt2267998/
+204,tt2321549,Mon Dec 22 00:00:00 2014,The Babadook,Feature Film,Jennifer Kent,8,6.8,93,2014,"drama, horror, thriller",103895,1/17/2014,http://www.imdb.com/title/tt2321549/
+205,tt1706620,Sun Dec 21 00:00:00 2014,Snowpiercer,Feature Film,Bong Joon Ho,8,7,126,2013,"action, drama, sci_fi, thriller",173118,7/29/2013,http://www.imdb.com/title/tt1706620/
+206,tt1587707,Sat Dec 20 00:00:00 2014,Exit Through the Gift Shop,Documentary,Banksy,8,8,87,2010,"documentary, comedy",49629,1/24/2010,http://www.imdb.com/title/tt1587707/
+207,tt2713180,Sat Dec 20 00:00:00 2014,Fury,Feature Film,David Ayer,8,7.6,134,2014,"action, drama, war",290639,10/15/2014,http://www.imdb.com/title/tt2713180/
+208,tt2359024,Fri Dec 19 00:00:00 2014,Blue Ruin,Feature Film,Jeremy Saulnier,8,7.1,90,2013,"crime, drama, thriller",38995,5/17/2013,http://www.imdb.com/title/tt2359024/
+209,tt0102536,Wed Dec 17 00:00:00 2014,Night on Earth,Feature Film,Jim Jarmusch,8,7.8,129,1991,"comedy, drama",39229,10/4/1991,http://www.imdb.com/title/tt0102536/
+210,tt0071249,Sat Dec 13 00:00:00 2014,Bring Me the Head of Alfredo Garcia,Feature Film,Sam Peckinpah,8,7.5,112,1974,"action, crime, drama, thriller, western",13265,8/14/1974,http://www.imdb.com/title/tt0071249/
+211,tt1631867,Wed Dec 10 00:00:00 2014,Edge of Tomorrow,Feature Film,Doug Liman,8,7.9,113,2014,"action, adventure, sci_fi",413655,5/28/2014,http://www.imdb.com/title/tt1631867/
+212,tt0099871,Sun Dec  7 00:00:00 2014,Jacob's Ladder,Feature Film,Adrian Lyne,8,7.5,113,1990,"drama, horror, mystery",74121,11/2/1990,http://www.imdb.com/title/tt0099871/
+213,tt0116905,Fri Dec  5 00:00:00 2014,Lone Star,Feature Film,John Sayles,8,7.6,135,1996,"drama, mystery",22846,6/21/1996,http://www.imdb.com/title/tt0116905/
+214,tt1959490,Fri Dec  5 00:00:00 2014,Noah,Feature Film,Darren Aronofsky,8,5.8,138,2014,"action, adventure, drama",195787,3/10/2014,http://www.imdb.com/title/tt1959490/
+215,tt0090967,Wed Dec  3 00:00:00 2014,Down by Law,Feature Film,Jim Jarmusch,8,7.8,107,1986,"comedy, crime, drama",35444,10/30/1986,http://www.imdb.com/title/tt0090967/
+216,tt2718492,Wed Dec  3 00:00:00 2014,Ida,Feature Film,Pawel Pawlikowski,8,7.4,82,2013,drama,33051,8/30/2013,http://www.imdb.com/title/tt2718492/
+217,tt2577150,Fri Nov 28 00:00:00 2014,Traffic Department,Feature Film,Wojtek Smarzowski,8,7.5,118,2013,"crime, drama",1950,2/1/2013,http://www.imdb.com/title/tt2577150/
+218,tt2178256,Wed Nov 26 00:00:00 2014,The Rocket,Feature Film,Kim Mordaunt,8,7.4,96,2013,drama,2378,2/10/2013,http://www.imdb.com/title/tt2178256/
+219,tt2406252,Tue Nov 25 00:00:00 2014,Venus in Fur,Feature Film,Roman Polanski,8,7.2,96,2013,drama,10997,5/25/2013,http://www.imdb.com/title/tt2406252/
+220,tt1972571,Mon Nov 24 00:00:00 2014,A Most Wanted Man,Feature Film,Anton Corbijn,8,6.8,122,2014,"crime, drama, thriller",55436,1/19/2014,http://www.imdb.com/title/tt1972571/
+221,tt2103281,Fri Nov 14 00:00:00 2014,Dawn of the Planet of the Apes,Feature Film,Matt Reeves,8,7.6,130,2014,"action, adventure, drama, sci_fi",307607,6/26/2014,http://www.imdb.com/title/tt2103281/
+222,tt0109686,Sat Nov  8 00:00:00 2014,Dumb & Dumber,Feature Film,Peter Farrelly,8,7.3,107,1994,comedy,283047,12/6/1994,http://www.imdb.com/title/tt0109686/
+223,tt2883512,Fri Nov  7 00:00:00 2014,Chef,Feature Film,Jon Favreau,8,7.3,114,2014,"comedy, drama",132711,3/7/2014,http://www.imdb.com/title/tt2883512/
+224,tt2013293,Fri Nov  7 00:00:00 2014,The Wind Rises,Feature Film,Hayao Miyazaki,8,7.8,126,2013,"animation, biography, drama, history, romance, war",40932,7/20/2013,http://www.imdb.com/title/tt2013293/
+225,tt1816518,Wed Nov  5 00:00:00 2014,Ernest & Celestine,Feature Film,"Stéphane Aubier, Vincent Patar",8,7.9,80,2012,"animation, comedy, crime, drama, family",11391,5/23/2012,http://www.imdb.com/title/tt1816518/
+226,tt2234003,Mon Nov  3 00:00:00 2014,Calvary,Feature Film,John Michael McDonagh,8,7.4,102,2014,"crime, drama",39753,1/19/2014,http://www.imdb.com/title/tt2234003/
+227,tt0283509,Wed Oct 29 00:00:00 2014,No Man's Land,Feature Film,Danis Tanovic,8,8,98,2001,"drama, war",37270,5/12/2001,http://www.imdb.com/title/tt0283509/
+228,tt1935156,Wed Oct 29 00:00:00 2014,Jodorowsky's Dune,Documentary,Frank Pavich,8,8.1,88,2013,"documentary, biography, history",13342,5/18/2013,http://www.imdb.com/title/tt1935156/
+229,tt2567712,Sat Oct 25 00:00:00 2014,Starred Up,Feature Film,David Mackenzie,8,7.4,106,2013,drama,29329,8/30/2013,http://www.imdb.com/title/tt2567712/
+230,tt2350496,Fri Oct 24 00:00:00 2014,The Lunchbox,Feature Film,Ritesh Batra,8,7.8,104,2013,"drama, romance",28469,5/19/2013,http://www.imdb.com/title/tt2350496/
+231,tt2625030,Wed Oct 22 00:00:00 2014,New World,Feature Film,Hoon-jung Park,8,7.6,134,2013,"crime, drama, thriller",12185,2/21/2013,http://www.imdb.com/title/tt2625030/
+232,tt0077711,Fri Oct 17 00:00:00 2014,Autumn Sonata,Feature Film,Ingmar Bergman,8,8.3,99,1978,"drama, music",15006,10/8/1978,http://www.imdb.com/title/tt0077711/
+233,tt0044706,Fri Oct 17 00:00:00 2014,High Noon,Feature Film,Fred Zinnemann,8,8.1,85,1952,western,78112,7/7/1952,http://www.imdb.com/title/tt0044706/
+234,tt0107552,Wed Oct 15 00:00:00 2014,Frontline: Memory of the Camps,TV Episode,Sidney Bernstein,8,8.5,56,1983,documentary,202,5/7/1985,http://www.imdb.com/title/tt0107552/
+235,tt0387808,Tue Oct 14 00:00:00 2014,Idiocracy,Feature Film,Mike Judge,8,6.6,84,2006,"adventure, comedy, sci_fi, thriller",105186,9/1/2006,http://www.imdb.com/title/tt0387808/
+236,tt2741806,Sat Sep 27 00:00:00 2014,In Bloom,Feature Film,"Nana Ekvtimishvili, Simon Gross",8,7.8,102,2013,drama,5266,2/10/2013,http://www.imdb.com/title/tt2741806/
+237,tt0114057,Fri Sep 26 00:00:00 2014,Othello,Feature Film,Oliver Parker,8,7,123,1995,"drama, romance",7303,12/15/1995,http://www.imdb.com/title/tt0114057/
+238,tt1981107,Mon Sep 22 00:00:00 2014,The Young and Prodigious T.S. Spivet,Feature Film,Jean-Pierre Jeunet,8,7.1,105,2013,"action, adventure, drama, family",10686,9/28/2013,http://www.imdb.com/title/tt1981107/
+239,tt1276104,Sun Aug 31 00:00:00 2014,Looper,Feature Film,Rian Johnson,8,7.4,119,2012,"action, crime, drama, sci_fi, thriller",418761,9/6/2012,http://www.imdb.com/title/tt1276104/
+240,tt1170358,Fri Jul 25 00:00:00 2014,The Hobbit: The Desolation of Smaug,Feature Film,Peter Jackson,8,7.9,161,2013,"adventure, fantasy",469064,12/2/2013,http://www.imdb.com/title/tt1170358/
+241,tt0052572,Sun Jun 22 00:00:00 2014,The World of Apu,Feature Film,Satyajit Ray,8,8.2,105,1959,drama,6760,5/1/1959,http://www.imdb.com/title/tt0052572/
+242,tt1396226,Thu Jun 19 00:00:00 2014,Twice Born,Feature Film,Sergio Castellitto,7,7.4,127,2012,"drama, romance, war",11019,9/13/2012,http://www.imdb.com/title/tt1396226/
+243,tt0053472,Wed Jun 11 00:00:00 2014,Breathless,Feature Film,Jean-Luc Godard,7,8,90,1960,"crime, drama",50554,3/16/1960,http://www.imdb.com/title/tt0053472/
+244,tt2278388,Sun Jun  8 00:00:00 2014,The Grand Budapest Hotel,Feature Film,Wes Anderson,7,8.1,99,2014,"adventure, comedy, drama, romance",451813,2/6/2014,http://www.imdb.com/title/tt2278388/
+245,tt0054331,Tue Jun  3 00:00:00 2014,Spartacus,Feature Film,Stanley Kubrick,6,7.9,197,1960,"adventure, biography, drama, history, war",96073,10/6/1960,http://www.imdb.com/title/tt0054331/
+246,tt0103186,Sun Jun  1 00:00:00 2014,Vacas,Feature Film,Julio Medem,9,7.2,96,1992,"drama, mystery, romance, war",2755,2/26/1992,http://www.imdb.com/title/tt0103186/
+247,tt0048956,Fri May 30 00:00:00 2014,Aparajito,Feature Film,Satyajit Ray,8,8.1,110,1956,drama,6572,10/11/1956,http://www.imdb.com/title/tt0048956/
+248,tt1490017,Fri May 30 00:00:00 2014,The Lego Movie,Feature Film,"Phil Lord, Christopher Miller",8,7.8,100,2014,"animation, action, adventure, comedy, family, fantasy",239484,2/1/2014,http://www.imdb.com/title/tt1490017/
+249,tt0050986,Wed May 28 00:00:00 2014,Wild Strawberries,Feature Film,Ingmar Bergman,7,8.2,91,1957,"drama, romance",61254,12/26/1957,http://www.imdb.com/title/tt0050986/
+250,tt0083922,Tue May 27 00:00:00 2014,Fanny and Alexander,Feature Film,Ingmar Bergman,10,8.1,188,1982,drama,41981,12/17/1982,http://www.imdb.com/title/tt0083922/
+251,tt0050976,Tue May 27 00:00:00 2014,The Seventh Seal,Feature Film,Ingmar Bergman,10,8.2,96,1957,"drama, fantasy",108545,2/16/1957,http://www.imdb.com/title/tt0050976/
+252,tt1034331,Fri May 16 00:00:00 2014,Righteous Kill,Feature Film,Jon Avnet,5,6,101,2008,"action, crime, drama, mystery, thriller",72470,9/10/2008,http://www.imdb.com/title/tt1034331/
+253,tt0278504,Wed May 14 00:00:00 2014,Insomnia,Feature Film,Christopher Nolan,7,7.2,118,2002,"drama, mystery, thriller",214116,5/3/2002,http://www.imdb.com/title/tt0278504/
+254,tt1458175,Sun May 11 00:00:00 2014,The Next Three Days,Feature Film,Paul Haggis,8,7.4,133,2010,"crime, drama, romance, thriller",143556,11/9/2010,http://www.imdb.com/title/tt1458175/
+255,tt0075784,Fri May  9 00:00:00 2014,A Bridge Too Far,Feature Film,Richard Attenborough,8,7.4,175,1977,"drama, history, war",39381,6/15/1977,http://www.imdb.com/title/tt0075784/
+256,tt0065214,Wed May  7 00:00:00 2014,The Wild Bunch,Feature Film,Sam Peckinpah,8,8,145,1969,"action, adventure, western",62060,6/18/1969,http://www.imdb.com/title/tt0065214/
+257,tt0079095,Sun May  4 00:00:00 2014,The Marriage of Maria Braun,Feature Film,Rainer Werner Fassbinder,8,8,120,1979,drama,8469,2/20/1979,http://www.imdb.com/title/tt0079095/
+258,tt0061811,Sun May  4 00:00:00 2014,In the Heat of the Night,Feature Film,Norman Jewison,8,8,109,1967,"crime, drama, mystery, thriller",47957,8/2/1967,http://www.imdb.com/title/tt0061811/
+259,tt0066206,Sun May  4 00:00:00 2014,Patton,Feature Film,Franklin J. Schaffner,9,8,172,1970,"biography, drama, war",74976,2/4/1970,http://www.imdb.com/title/tt0066206/
+260,tt1417075,Fri May  2 00:00:00 2014,In Darkness,Feature Film,Agnieszka Holland,9,7.3,145,2011,"drama, war",7832,9/2/2011,http://www.imdb.com/title/tt1417075/
+261,tt0067116,Fri May  2 00:00:00 2014,The French Connection,Feature Film,William Friedkin,9,7.8,104,1971,"action, crime, drama, thriller",80017,10/7/1971,http://www.imdb.com/title/tt0067116/
+262,tt0050783,Sun Apr 27 00:00:00 2014,Nights of Cabiria,Feature Film,Federico Fellini,6,8.3,110,1957,drama,24780,5/10/1957,http://www.imdb.com/title/tt0050783/
+263,tt0083987,Mon Apr 21 00:00:00 2014,Gandhi,Feature Film,Richard Attenborough,6,8.1,191,1982,"biography, drama, history",166821,11/30/1982,http://www.imdb.com/title/tt0083987/
+264,tt0301199,Sun Apr 20 00:00:00 2014,Dirty Pretty Things,Feature Film,Stephen Frears,10,7.4,97,2002,"crime, drama, thriller",34142,9/5/2002,http://www.imdb.com/title/tt0301199/
+265,tt0344510,Sun Apr 20 00:00:00 2014,A Very Long Engagement,Feature Film,Jean-Pierre Jeunet,5,7.7,133,2004,"drama, mystery, romance, war",61863,10/27/2004,http://www.imdb.com/title/tt0344510/
+266,tt0069467,Tue Apr 15 00:00:00 2014,Cries & Whispers,Feature Film,Ingmar Bergman,6,8.2,91,1972,drama,19460,12/21/1972,http://www.imdb.com/title/tt0069467/
+267,tt0105695,Tue Apr 15 00:00:00 2014,Unforgiven,Feature Film,Clint Eastwood,7,8.3,131,1992,western,270101,8/3/1992,http://www.imdb.com/title/tt0105695/
+268,tt0086250,Sun Apr  6 00:00:00 2014,Scarface,Feature Film,Brian De Palma,8,8.3,170,1983,"crime, drama",522445,12/1/1983,http://www.imdb.com/title/tt0086250/
+269,tt0393109,Fri Apr  4 00:00:00 2014,Brick,Feature Film,Rian Johnson,9,7.4,110,2005,"comedy, crime, drama, mystery, thriller",83581,4/14/2006,http://www.imdb.com/title/tt0393109/
+270,tt0086425,Thu Apr  3 00:00:00 2014,Terms of Endearment,Feature Film,James L. Brooks,6,7.4,132,1983,"comedy, drama",39391,11/20/1983,http://www.imdb.com/title/tt0086425/
+271,tt1253863,Tue Apr  1 00:00:00 2014,300: Rise of an Empire,Feature Film,Noam Murro,8,6.3,102,2014,"action, drama, fantasy, war",218683,3/4/2014,http://www.imdb.com/title/tt1253863/
+272,tt1951264,Sun Mar 30 00:00:00 2014,The Hunger Games: Catching Fire,Feature Film,Francis Lawrence,7,7.6,146,2013,"adventure, sci_fi, thriller",485786,11/11/2013,http://www.imdb.com/title/tt1951264/
+273,tt0425210,Sun Mar 30 00:00:00 2014,Lucky Number Slevin,Feature Film,Paul McGuigan,7,7.8,110,2006,"crime, drama, mystery, thriller",258048,2/24/2006,http://www.imdb.com/title/tt0425210/
+274,tt0071487,Wed Mar 26 00:00:00 2014,The Phantom of Liberty,Feature Film,Luis Buñuel,7,8,104,1974,comedy,10091,9/11/1974,http://www.imdb.com/title/tt0071487/
+275,tt0064356,Wed Mar 26 00:00:00 2014,The Cow,Feature Film,Dariush Mehrjui,7,8.2,105,1969,drama,4088,12/9/1974,http://www.imdb.com/title/tt0064356/
+276,tt2334873,Tue Mar 25 00:00:00 2014,Blue Jasmine,Feature Film,Woody Allen,7,7.3,98,2013,drama,145660,7/26/2013,http://www.imdb.com/title/tt2334873/
+277,tt0070379,Mon Mar 24 00:00:00 2014,Mean Streets,Feature Film,Martin Scorsese,7,7.4,112,1973,"crime, drama, romance, thriller",66266,10/2/1973,http://www.imdb.com/title/tt0070379/
+278,tt0114814,Mon Mar 24 00:00:00 2014,The Usual Suspects,Feature Film,Bryan Singer,7,8.6,106,1995,"crime, drama, mystery, thriller",719834,1/25/1995,http://www.imdb.com/title/tt0114814/
+279,tt0073802,Sun Mar 23 00:00:00 2014,Three Days of the Condor,Feature Film,Sydney Pollack,7,7.5,117,1975,"mystery, thriller",34411,9/24/1975,http://www.imdb.com/title/tt0073802/
+280,tt0069947,Wed Mar 19 00:00:00 2014,The Day of the Jackal,Feature Film,Fred Zinnemann,7,7.8,143,1973,"crime, drama, thriller",28692,5/16/1973,http://www.imdb.com/title/tt0069947/
+281,tt0338751,Wed Mar 19 00:00:00 2014,The Aviator,Feature Film,Martin Scorsese,8,7.5,170,2004,"biography, drama",258172,12/14/2004,http://www.imdb.com/title/tt0338751/
+282,tt0058946,Tue Mar 18 00:00:00 2014,The Battle of Algiers,Feature Film,Gillo Pontecorvo,8,8.1,121,1966,"drama, war",35873,9/3/1966,http://www.imdb.com/title/tt0058946/
+283,tt0062622,Mon Mar 17 00:00:00 2014,2001: A Space Odyssey,Feature Film,Stanley Kubrick,9,8.3,149,1968,"mystery, sci_fi",413815,4/2/1968,http://www.imdb.com/title/tt0062622/
+284,tt0043972,Sat Mar 15 00:00:00 2014,The River,Feature Film,Jean Renoir,9,7.6,99,1951,"drama, romance",4008,9/10/1951,http://www.imdb.com/title/tt0043972/
+285,tt0042804,Sat Mar 15 00:00:00 2014,Los Olvidados,Feature Film,Luis Buñuel,9,8.3,85,1950,"crime, drama",13083,11/9/1950,http://www.imdb.com/title/tt0042804/
+286,tt0053198,Thu Mar 13 00:00:00 2014,The 400 Blows,Feature Film,François Truffaut,9,8.2,99,1959,"crime, drama",67960,5/4/1959,http://www.imdb.com/title/tt0053198/
+287,tt0046911,Tue Mar 11 00:00:00 2014,Diabolique,Feature Film,H.G. Clouzot,9,8.1,116,1955,"drama, horror, mystery, thriller",40716,1/29/1955,http://www.imdb.com/title/tt0046911/
+288,tt0050083,Tue Mar 11 00:00:00 2014,12 Angry Men,Feature Film,Sidney Lumet,9,8.9,96,1957,"crime, drama",431779,4/10/1957,http://www.imdb.com/title/tt0050083/
+289,tt0052357,Tue Mar 11 00:00:00 2014,Vertigo,Feature Film,Alfred Hitchcock,9,8.4,128,1958,"mystery, romance, thriller",240615,5/9/1958,http://www.imdb.com/title/tt0052357/
+290,tt0047396,Tue Mar 11 00:00:00 2014,Rear Window,Feature Film,Alfred Hitchcock,9,8.5,112,1954,"mystery, thriller",306925,8/1/1954,http://www.imdb.com/title/tt0047396/
+291,tt0044081,Tue Mar 11 00:00:00 2014,A Streetcar Named Desire,Feature Film,Elia Kazan,9,8.1,122,1951,drama,76935,9/18/1951,http://www.imdb.com/title/tt0044081/
+292,tt0050825,Mon Mar 10 00:00:00 2014,Paths of Glory,Feature Film,Stanley Kubrick,9,8.5,88,1957,"drama, war",117064,9/18/1957,http://www.imdb.com/title/tt0050825/
+293,tt0049406,Sun Mar  9 00:00:00 2014,The Killing,Feature Film,Stanley Kubrick,9,8.1,85,1956,"crime, drama, film_noir, thriller",61112,5/20/1956,http://www.imdb.com/title/tt0049406/
+294,tt0076734,Sat Mar  8 00:00:00 2014,Soldier of Orange,Feature Film,Paul Verhoeven,9,7.8,152,1977,"drama, thriller, war",8894,9/22/1977,http://www.imdb.com/title/tt0076734/
+295,tt0096163,Sat Mar  8 00:00:00 2014,The Vanishing,Feature Film,George Sluizer,9,7.8,107,1988,"crime, mystery, thriller",24431,8/29/1988,http://www.imdb.com/title/tt0096163/
+296,tt0035753,Sat Mar  8 00:00:00 2014,Le Corbeau: The Raven,Feature Film,Henri Georges Clouzot,9,7.7,92,1943,"crime, drama, mystery, thriller",6193,9/28/1943,http://www.imdb.com/title/tt0035753/
+297,tt0118694,Sat Mar  8 00:00:00 2014,In the Mood for Love,Feature Film,Kar Wai Wong,9,8.1,98,2000,"drama, romance",73005,5/20/2000,http://www.imdb.com/title/tt0118694/
+298,tt0111495,Sat Mar  8 00:00:00 2014,Three Colors: Red,Feature Film,Krzysztof Kieslowski,9,8.1,99,1994,"drama, mystery, romance",62784,5/12/1994,http://www.imdb.com/title/tt0111495/
+299,tt0112883,Sat Mar  8 00:00:00 2014,Don Juan DeMarco,Feature Film,Jeremy Leven,9,6.8,97,1994,"comedy, drama, romance",40747,4/7/1995,http://www.imdb.com/title/tt0112883/
+300,tt0110912,Sat Mar  8 00:00:00 2014,Pulp Fiction,Feature Film,Quentin Tarantino,9,8.9,154,1994,"crime, drama",1286514,5/12/1994,http://www.imdb.com/title/tt0110912/
+301,tt0482571,Sat Mar  8 00:00:00 2014,The Prestige,Feature Film,Christopher Nolan,7,8.5,130,2006,"drama, mystery, sci_fi, thriller",816054,10/17/2006,http://www.imdb.com/title/tt0482571/
+302,tt0133093,Sat Mar  8 00:00:00 2014,The Matrix,Feature Film,"The Wachowski Brothers, The Wachowski Brothers",7,8.7,136,1999,"action, sci_fi",1182391,3/24/1999,http://www.imdb.com/title/tt0133093/
+303,tt0401792,Sat Mar  8 00:00:00 2014,Sin City,Feature Film,"Frank Miller, Robert Rodriguez",7,8.1,124,2005,"crime, thriller",643030,3/28/2005,http://www.imdb.com/title/tt0401792/
+304,tt0245429,Sat Mar  8 00:00:00 2014,Spirited Away,Feature Film,Hayao Miyazaki,7,8.6,125,2001,"animation, adventure, family, fantasy",402240,7/20/2001,http://www.imdb.com/title/tt0245429/
+305,tt0110413,Sat Mar  8 00:00:00 2014,Léon: The Professional,Feature Film,Luc Besson,6,8.6,110,1994,"crime, drama, thriller",703544,9/14/1994,http://www.imdb.com/title/tt0110413/
+306,tt0105236,Sat Mar  8 00:00:00 2014,Reservoir Dogs,Feature Film,Quentin Tarantino,6,8.4,99,1992,"crime, drama, thriller",644391,1/21/1992,http://www.imdb.com/title/tt0105236/
+307,tt0434409,Sat Mar  8 00:00:00 2014,V for Vendetta,Feature Film,James McTeigue,6,8.2,132,2005,"action, drama, thriller",769509,12/11/2005,http://www.imdb.com/title/tt0434409/
+308,tt0075314,Sat Mar  8 00:00:00 2014,Taxi Driver,Feature Film,Martin Scorsese,6,8.3,113,1976,"crime, drama",490903,2/8/1976,http://www.imdb.com/title/tt0075314/
+309,tt0082971,Sat Mar  8 00:00:00 2014,Raiders of the Lost Ark,Feature Film,Steven Spielberg,6,8.5,115,1981,"action, adventure",642907,6/12/1981,http://www.imdb.com/title/tt0082971/
+310,tt0078788,Sat Mar  8 00:00:00 2014,Apocalypse Now,Feature Film,Francis Coppola,6,8.5,153,1979,"drama, war",439327,5/10/1979,http://www.imdb.com/title/tt0078788/
+311,tt0120586,Sat Mar  8 00:00:00 2014,American History X,Feature Film,Tony Kaye,6,8.6,119,1998,"crime, drama",761781,10/30/1998,http://www.imdb.com/title/tt0120586/
+312,tt0266697,Sat Mar  8 00:00:00 2014,Kill Bill: Vol. 1,Feature Film,Quentin Tarantino,6,8.1,111,2003,action,714719,10/10/2003,http://www.imdb.com/title/tt0266697/
+313,tt0211915,Sat Mar  8 00:00:00 2014,Amélie,Feature Film,Jean-Pierre Jeunet,6,8.4,122,2001,"comedy, romance",519673,4/25/2001,http://www.imdb.com/title/tt0211915/
+314,tt0405094,Sat Mar  8 00:00:00 2014,The Lives of Others,Feature Film,Florian Henckel von Donnersmarck,8,8.5,137,2006,"drama, thriller",252172,3/15/2006,http://www.imdb.com/title/tt0405094/
+315,tt0034583,Sat Mar  8 00:00:00 2014,Casablanca,Feature Film,Michael Curtiz,7,8.6,102,1942,"drama, romance, war",378041,11/26/1942,http://www.imdb.com/title/tt0034583/
+316,tt0120669,Sat Mar  8 00:00:00 2014,Fear and Loathing in Las Vegas,Feature Film,Terry Gilliam,9,7.7,118,1998,comedy,209084,5/15/1998,http://www.imdb.com/title/tt0120669/
+317,tt0071853,Sat Mar  8 00:00:00 2014,Monty Python and the Holy Grail,Feature Film,"Terry Gilliam, Terry Jones",10,8.3,91,1975,"adventure, comedy, fantasy",372542,3/14/1975,http://www.imdb.com/title/tt0071853/
+318,tt0395169,Sat Mar  8 00:00:00 2014,Hotel Rwanda,Feature Film,Terry George,5,8.1,121,2004,"drama, history, war",258030,9/11/2004,http://www.imdb.com/title/tt0395169/
+319,tt0082096,Sat Mar  8 00:00:00 2014,Das Boot,Feature Film,Wolfgang Petersen,5,8.4,149,1981,"adventure, drama, thriller, war",164016,9/17/1981,http://www.imdb.com/title/tt0082096/
+320,tt0022100,Sat Mar  8 00:00:00 2014,M,Feature Film,Fritz Lang,6,8.4,117,1931,"crime, drama, mystery, thriller",96381,5/11/1931,http://www.imdb.com/title/tt0022100/
+321,tt0119008,Sat Mar  8 00:00:00 2014,Donnie Brasco,Feature Film,Mike Newell,7,7.8,127,1997,"biography, crime, drama",221178,2/28/1997,http://www.imdb.com/title/tt0119008/
+322,tt0389557,Sat Mar  8 00:00:00 2014,Black Book,Feature Film,Paul Verhoeven,8,7.8,145,2006,"drama, thriller, war",58517,9/1/2006,http://www.imdb.com/title/tt0389557/
+323,tt0050212,Sat Mar  8 00:00:00 2014,The Bridge on the River Kwai,Feature Film,David Lean,7,8.2,161,1957,"adventure, drama, war",144905,10/2/1957,http://www.imdb.com/title/tt0050212/
+324,tt1229381,Fri Mar  7 00:00:00 2014,Outside the Law,Feature Film,Rachid Bouchareb,8,6.7,138,2010,"crime, drama, war",2914,5/21/2010,http://www.imdb.com/title/tt1229381/
+325,tt0071141,Fri Mar  7 00:00:00 2014,Ali: Fear Eats the Soul,Feature Film,Rainer Werner Fassbinder,7,8.1,94,1974,"drama, romance",11989,3/5/1974,http://www.imdb.com/title/tt0071141/
+326,tt0104466,Fri Mar  7 00:00:00 2014,Husbands and Wives,Feature Film,Woody Allen,7,7.6,103,1992,"comedy, drama, romance",21044,9/14/1992,http://www.imdb.com/title/tt0104466/
+327,tt0407265,Fri Mar  7 00:00:00 2014,Transamerica,Feature Film,Duncan Tucker,7,7.5,103,2005,"adventure, comedy, drama",35845,2/14/2005,http://www.imdb.com/title/tt0407265/
+328,tt0101410,Fri Mar  7 00:00:00 2014,Barton Fink,Feature Film,Joel Coen,7,7.7,116,1991,"comedy, drama",86516,8/22/1991,http://www.imdb.com/title/tt0101410/
+329,tt0091167,Fri Mar  7 00:00:00 2014,Hannah and Her Sisters,Feature Film,Woody Allen,8,8,103,1986,"comedy, drama, romance",51346,2/7/1986,http://www.imdb.com/title/tt0091167/
+330,tt1555149,Fri Mar  7 00:00:00 2014,Elite Squad: The Enemy Within,Feature Film,José Padilha,9,8.1,115,2010,"action, crime, drama, thriller",65120,10/8/2010,http://www.imdb.com/title/tt1555149/
+331,tt0111161,Fri Mar  7 00:00:00 2014,The Shawshank Redemption,Feature Film,Frank Darabont,5,9.3,142,1994,"crime, drama",1641843,9/10/1994,http://www.imdb.com/title/tt0111161/
+332,tt0120737,Fri Mar  7 00:00:00 2014,The Lord of the Rings: The Fellowship of the Ring,Feature Film,Peter Jackson,6,8.8,178,2001,"adventure, drama, fantasy",1204972,12/10/2001,http://www.imdb.com/title/tt0120737/
+333,tt0209144,Fri Mar  7 00:00:00 2014,Memento,Feature Film,Christopher Nolan,8,8.5,113,2000,"mystery, thriller",822609,9/5/2000,http://www.imdb.com/title/tt0209144/
+334,tt0167261,Fri Mar  7 00:00:00 2014,The Lord of the Rings: The Two Towers,Feature Film,Peter Jackson,7,8.7,179,2002,"action, adventure, drama, fantasy",1068157,12/5/2002,http://www.imdb.com/title/tt0167261/
+335,tt0118799,Fri Mar  7 00:00:00 2014,Life Is Beautiful,Feature Film,Roberto Benigni,9,8.6,116,1997,"comedy, drama, romance, war",405260,12/20/1997,http://www.imdb.com/title/tt0118799/
+336,tt0449059,Fri Mar  7 00:00:00 2014,Little Miss Sunshine,Feature Film,"Jonathan Dayton, Valerie Faris",7,7.9,101,2006,"comedy, drama",348024,1/20/2006,http://www.imdb.com/title/tt0449059/
+337,tt0363163,Fri Mar  7 00:00:00 2014,Downfall,Feature Film,Oliver Hirschbiegel,6,8.3,156,2004,"biography, drama, history, war",242216,9/8/2004,http://www.imdb.com/title/tt0363163/
+338,tt1205489,Fri Mar  7 00:00:00 2014,Gran Torino,Feature Film,Clint Eastwood,6,8.2,116,2008,drama,548194,12/9/2008,http://www.imdb.com/title/tt1205489/
+339,tt1132620,Fri Mar  7 00:00:00 2014,The Girl with the Dragon Tattoo,Feature Film,Niels Arden Oplev,6,7.8,152,2009,"crime, drama, mystery, thriller",171784,2/27/2009,http://www.imdb.com/title/tt1132620/
+340,tt0399146,Fri Mar  7 00:00:00 2014,A History of Violence,Feature Film,David Cronenberg,5,7.5,96,2005,"crime, drama, thriller",183200,5/16/2005,http://www.imdb.com/title/tt0399146/
+341,tt0245712,Fri Mar  7 00:00:00 2014,Amores Perros,Feature Film,Alejandro González Iñárritu,6,8.1,154,2000,"drama, thriller",169436,5/14/2000,http://www.imdb.com/title/tt0245712/
+342,tt0107207,Fri Mar  7 00:00:00 2014,In the Name of the Father,Feature Film,Jim Sheridan,10,8.1,133,1993,"biography, drama, history",105935,12/12/1993,http://www.imdb.com/title/tt0107207/
+343,tt0113247,Fri Mar  7 00:00:00 2014,La Haine,Feature Film,Mathieu Kassovitz,10,8.1,98,1995,"crime, drama",100161,5/31/1995,http://www.imdb.com/title/tt0113247/
+344,tt1120985,Thu Mar  6 00:00:00 2014,Blue Valentine,Feature Film,Derek Cianfrance,7,7.4,112,2010,"drama, romance",137915,1/24/2010,http://www.imdb.com/title/tt1120985/
+345,tt0040522,Wed Mar  5 00:00:00 2014,Bicycle Thieves,Feature Film,Vittorio De Sica,8,8.4,89,1948,drama,91231,11/24/1948,http://www.imdb.com/title/tt0040522/
+346,tt0038890,Tue Mar  4 00:00:00 2014,"Rome, Open City",Feature Film,Roberto Rossellini,6,8.1,103,1945,"drama, thriller, war",15940,9/27/1945,http://www.imdb.com/title/tt0038890/
+347,tt0414993,Sun Mar  2 00:00:00 2014,The Fountain,Feature Film,Darren Aronofsky,7,7.3,96,2006,"drama, sci_fi",187592,9/4/2006,http://www.imdb.com/title/tt0414993/
+348,tt2059255,Thu Feb 27 00:00:00 2014,No,Feature Film,Pablo Larraín,9,7.4,118,2012,drama,17014,5/18/2012,http://www.imdb.com/title/tt2059255/
+349,tt1866249,Tue Feb 25 00:00:00 2014,The Sessions,Feature Film,Ben Lewin,8,7.2,95,2012,"biography, comedy, drama, romance",35899,1/23/2012,http://www.imdb.com/title/tt1866249/
+350,tt2370248,Mon Feb 24 00:00:00 2014,Short Term 12,Feature Film,Destin Daniel Cretton,7,8,96,2013,drama,51597,3/10/2013,http://www.imdb.com/title/tt2370248/
+351,tt1727388,Sat Feb 22 00:00:00 2014,The Way Way Back,Feature Film,"Nat Faxon, Jim Rash",5,7.4,103,2013,"comedy, drama",112531,1/21/2013,http://www.imdb.com/title/tt1727388/
+352,tt0970179,Thu Feb 20 00:00:00 2014,Hugo,Feature Film,Martin Scorsese,6,7.6,126,2011,"adventure, drama, family, mystery, war",240477,10/10/2011,http://www.imdb.com/title/tt0970179/
+353,tt1007029,Tue Feb 18 00:00:00 2014,The Iron Lady,Feature Film,Phyllida Lloyd,7,6.4,105,2011,"biography, drama, history",80324,12/26/2011,http://www.imdb.com/title/tt1007029/
+354,tt0242888,Mon Feb 17 00:00:00 2014,The Sleeping Dictionary,Feature Film,Guy Jenkin,9,6.6,109,2003,"drama, romance",6879,1/31/2003,http://www.imdb.com/title/tt0242888/
+355,tt1649419,Mon Feb 17 00:00:00 2014,The Impossible,Feature Film,J.A. Bayona,8,7.6,114,2012,"drama, thriller",141949,9/9/2012,http://www.imdb.com/title/tt1649419/
+356,tt1911607,Sat Feb 15 00:00:00 2014,Nova Zembla,Feature Film,Reinout Oerlemans,8,5.7,108,2011,"drama, history",3337,11/23/2011,http://www.imdb.com/title/tt1911607/
+357,tt1924429,Thu Feb 13 00:00:00 2014,Trance,Feature Film,Danny Boyle,8,7,101,2013,"crime, drama, mystery, thriller",90502,3/27/2013,http://www.imdb.com/title/tt1924429/
+358,tt2431286,Wed Feb 12 00:00:00 2014,Philomena,Feature Film,Stephen Frears,8,7.6,98,2013,"biography, drama",74020,8/31/2013,http://www.imdb.com/title/tt2431286/
+359,tt1821549,Sun Feb  9 00:00:00 2014,Nebraska,Feature Film,Alexander Payne,9,7.8,115,2013,"adventure, comedy, drama",88854,5/23/2013,http://www.imdb.com/title/tt1821549/
+360,tt0838221,Fri Feb  7 00:00:00 2014,The Darjeeling Limited,Feature Film,Wes Anderson,6,7.2,91,2007,"adventure, comedy, drama",134796,10/26/2007,http://www.imdb.com/title/tt0838221/
+361,tt0362270,Wed Feb  5 00:00:00 2014,The Life Aquatic with Steve Zissou,Feature Film,Wes Anderson,7,7.3,119,2004,"adventure, comedy, drama",136326,11/20/2004,http://www.imdb.com/title/tt0362270/
+362,tt0119174,Tue Feb  4 00:00:00 2014,The Game,Feature Film,David Fincher,7,7.8,129,1997,"drama, mystery, thriller",254007,9/12/1997,http://www.imdb.com/title/tt0119174/
+363,tt0116922,Mon Feb  3 00:00:00 2014,Lost Highway,Feature Film,David Lynch,9,7.6,134,1997,"mystery, thriller",95714,1/15/1997,http://www.imdb.com/title/tt0116922/
+364,tt0079522,Mon Feb  3 00:00:00 2014,Manhattan,Feature Film,Woody Allen,5,8,96,1979,"comedy, drama, romance",101867,4/25/1979,http://www.imdb.com/title/tt0079522/
+365,tt0436697,Mon Feb  3 00:00:00 2014,The Queen,Feature Film,Stephen Frears,10,7.4,103,2006,"biography, drama",83640,9/2/2006,http://www.imdb.com/title/tt0436697/
+366,tt0335345,Mon Feb  3 00:00:00 2014,The Passion of the Christ,Feature Film,Mel Gibson,6,7.1,127,2004,drama,176812,2/25/2004,http://www.imdb.com/title/tt0335345/
+367,tt0099685,Mon Feb  3 00:00:00 2014,Goodfellas,Feature Film,Martin Scorsese,7,8.7,146,1990,"biography, crime, drama",707507,9/11/1990,http://www.imdb.com/title/tt0099685/
+368,tt0117951,Mon Feb  3 00:00:00 2014,Trainspotting,Feature Film,Danny Boyle,8,8.2,94,1996,drama,457032,2/23/1996,http://www.imdb.com/title/tt0117951/
+369,tt0317248,Mon Feb  3 00:00:00 2014,City of God,Feature Film,"Fernando Meirelles, Kátia Lund",8,8.7,130,2002,"crime, drama",519324,5/18/2002,http://www.imdb.com/title/tt0317248/
+370,tt0364569,Mon Feb  3 00:00:00 2014,Oldboy,Feature Film,Chan-wook Park,9,8.4,120,2003,"drama, mystery, thriller",344545,11/21/2003,http://www.imdb.com/title/tt0364569/
+371,tt0162222,Mon Feb  3 00:00:00 2014,Cast Away,Feature Film,Robert Zemeckis,7,7.7,143,2000,"adventure, drama, romance",383771,12/7/2000,http://www.imdb.com/title/tt0162222/
+372,tt0335266,Mon Feb  3 00:00:00 2014,Lost in Translation,Feature Film,Sofia Coppola,7,7.8,101,2003,"drama, romance",314731,8/29/2003,http://www.imdb.com/title/tt0335266/
+373,tt0073650,Mon Feb  3 00:00:00 2014,"Salò, or the 120 Days of Sodom",Feature Film,Pier Paolo Pasolini,7,6,116,1975,"drama, war",37460,11/22/1975,http://www.imdb.com/title/tt0073650/
+374,tt0112431,Mon Feb  3 00:00:00 2014,Babe,Feature Film,Chris Noonan,7,6.8,91,1995,"comedy, drama, family",92790,8/4/1995,http://www.imdb.com/title/tt0112431/
+375,tt0305224,Mon Feb  3 00:00:00 2014,Anger Management,Feature Film,Peter Segal,6,6.2,106,2003,comedy,168327,3/5/2003,http://www.imdb.com/title/tt0305224/
+376,tt2390361,Fri Jan 31 00:00:00 2014,Enough Said,Feature Film,Nicole Holofcener,6,7.1,93,2013,"comedy, drama, romance",47955,9/7/2013,http://www.imdb.com/title/tt2390361/
+377,tt2106476,Thu Jan 30 00:00:00 2014,The Hunt,Feature Film,Thomas Vinterberg,6,8.3,115,2012,drama,161652,5/20/2012,http://www.imdb.com/title/tt2106476/
+378,tt1924396,Thu Jan 30 00:00:00 2014,The Best Offer,Feature Film,Giuseppe Tornatore,6,7.8,131,2013,"crime, drama, mystery, romance",66567,1/1/2013,http://www.imdb.com/title/tt1924396/
+379,tt0283900,Wed Jan 29 00:00:00 2014,L'auberge espagnole,Feature Film,Cédric Klapisch,6,7.3,122,2002,"comedy, drama",33897,5/17/2002,http://www.imdb.com/title/tt0283900/
+380,tt2051879,Wed Jan 29 00:00:00 2014,Europa Report,Feature Film,Sebastián Cordero,6,6.5,90,2013,"sci_fi, thriller",50348,6/15/2013,http://www.imdb.com/title/tt2051879/
+381,tt0301357,Wed Jan 29 00:00:00 2014,Good Bye Lenin!,Feature Film,Wolfgang Becker,9,7.7,121,2003,"drama, romance",112374,2/9/2003,http://www.imdb.com/title/tt0301357/
+382,tt0061722,Wed Jan 29 00:00:00 2014,The Graduate,Feature Film,Mike Nichols,5,8,106,1967,"comedy, drama, romance",207779,12/21/1967,http://www.imdb.com/title/tt0061722/
+383,tt0375063,Wed Jan 29 00:00:00 2014,Sideways,Feature Film,Alexander Payne,5,7.6,126,2004,"adventure, comedy, drama, romance",147290,9/13/2004,http://www.imdb.com/title/tt0375063/
+384,tt0213847,Wed Jan 29 00:00:00 2014,Malèna,Feature Film,Giuseppe Tornatore,10,7.5,109,2000,"drama, romance, war",64174,10/27/2000,http://www.imdb.com/title/tt0213847/
+385,tt0362227,Wed Jan 29 00:00:00 2014,The Terminal,Feature Film,Steven Spielberg,10,7.3,128,2004,"comedy, drama",296216,6/9/2004,http://www.imdb.com/title/tt0362227/
+386,tt0119822,Wed Jan 29 00:00:00 2014,As Good as It Gets,Feature Film,James L. Brooks,6,7.7,139,1997,"comedy, drama, romance",221474,12/19/1997,http://www.imdb.com/title/tt0119822/
+387,tt2042568,Tue Jan 28 00:00:00 2014,Inside Llewyn Davis,Feature Film,"Ethan Coen, Joel Coen",8,7.4,104,2013,"drama, music",92474,5/19/2013,http://www.imdb.com/title/tt2042568/
+388,tt0993846,Sun Jan 26 00:00:00 2014,The Wolf of Wall Street,Feature Film,Martin Scorsese,8,8.2,180,2013,"biography, comedy, crime, drama",744512,12/17/2013,http://www.imdb.com/title/tt0993846/
+389,tt0790636,Sun Jan 26 00:00:00 2014,Dallas Buyers Club,Feature Film,Jean-Marc Vallée,9,8,117,2013,"biography, drama",316062,9/7/2013,http://www.imdb.com/title/tt0790636/
+390,tt1291580,Sat Jan 25 00:00:00 2014,Behind the Candelabra,TV Movie,Steven Soderbergh,7,7,118,2013,"biography, drama, romance",31861,5/21/2013,http://www.imdb.com/title/tt1291580/
+391,tt2024544,Thu Jan 23 00:00:00 2014,12 Years a Slave,Feature Film,Steve McQueen,5,8.1,134,2013,"biography, drama, history",420648,8/30/2013,http://www.imdb.com/title/tt2024544/
+392,tt1602613,Thu Jan 23 00:00:00 2014,Only God Forgives,Feature Film,Nicolas Winding Refn,6,5.7,90,2013,"crime, drama",79851,5/22/2013,http://www.imdb.com/title/tt1602613/
+393,tt1798709,Wed Jan 22 00:00:00 2014,Her,Feature Film,Spike Jonze,5,8,126,2013,"drama, romance, sci_fi",340752,10/12/2013,http://www.imdb.com/title/tt1798709/
+394,tt2358891,Mon Jan 20 00:00:00 2014,The Great Beauty,Feature Film,Paolo Sorrentino,6,7.7,141,2013,drama,53242,5/21/2013,http://www.imdb.com/title/tt2358891/
+395,tt2347569,Wed Jan 15 00:00:00 2014,Frances Ha,Feature Film,Noah Baumbach,8,7.4,86,2012,"comedy, drama, romance",42109,9/1/2012,http://www.imdb.com/title/tt2347569/
+396,tt2258858,Sun Jan 12 00:00:00 2014,Wadjda,Feature Film,Haifaa Al Mansour,9,7.6,98,2012,"comedy, drama",12724,8/31/2012,http://www.imdb.com/title/tt2258858/
+397,tt1800241,Wed Jan  1 00:00:00 2014,American Hustle,Feature Film,David O. Russell,10,7.3,138,2013,"crime, drama",350596,12/12/2013,http://www.imdb.com/title/tt1800241/
+398,tt1682180,Mon Dec 30 00:00:00 2013,Stoker,Feature Film,Chan-wook Park,8,6.8,99,2013,"drama, thriller",82741,1/20/2013,http://www.imdb.com/title/tt1682180/
+399,tt0397535,Mon Dec 30 00:00:00 2013,Memoirs of a Geisha,Feature Film,Rob Marshall,7,7.3,145,2005,"drama, romance",117578,11/29/2005,http://www.imdb.com/title/tt0397535/
+400,tt0259072,Sun Dec 29 00:00:00 2013,A Time for Drunken Horses,Feature Film,Bahman Ghobadi,9,7.7,80,2000,"drama, war",5159,9/13/2000,http://www.imdb.com/title/tt0259072/
