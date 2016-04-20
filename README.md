@@ -6,7 +6,7 @@ users predictions would be based on different predictors like IMDb ratings, year
 
 # DATA
 We got the dataset from [IMDB Website] (http://www.imdb.com/user/ur49179813/ratings) but we plan to use subset of the dataset. we got 400 movies downloaded in an Excel sheet in CSV format. The dataset has these attributes (columns): position, const, date and time created,
-title, title type, directors, our rating, IMBD rating, runtime (mins), year, genre, number votes, released date(month\day\year) and URL.the data is laid out to be human readable not 
+title, title type, directors, our rating, IMBb rating, runtime (mins), year, genre, number votes, released date(month\day\year) and URL.the data is laid out to be human readable not 
 machine-readable the data is generally consistent.
 As part of working with the Dataset, a member in the group did a random rating of all the 400 movies as if he saw all the movies,the ratings were recorded and added to the dataset as "our rating". 
 IMDb let one score movies from one to ten, half points and fractions are not allowed. our rating is in integer value  
@@ -15,7 +15,6 @@ IMDb let one score movies from one to ten, half points and fractions are not all
 # RESEARCH QUESTIONS
 - How many predictors would the models need to correctly predict my rating?
 - Are 400 movies enough to work with so as to correctly predict my rating? do i need more movies?
-- 
 - Can there be other ways to predict the ratings of a movie?
 
 
