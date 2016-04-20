@@ -1,14 +1,16 @@
 # A SYSTEM TO PREDICT MOVIE RATINGS WITH IMDB DATA AND R PROGRAMMING LANGUAGE.
 
 # OVERVIEW
-This project would provide a model to predict personal user movie ratings. The personal user ratings would compare with IMDB ratings for a set of 400 movies.
+This project would provide a model to predict personal user movie ratings. The personal user ratings would compare with IMDB ratings for a set of 400 movies on different data mining models using the attributes in the dataset as predictors.
 users predictions would be based on different predictors like IMDB ratings, year of release, Genre and directors.the application helps to predict a new movie and a customer 
 can decide whether to book ticket ahead.
 
 # DATA
 We got the dataset from [IMDB Website] (http://www.imdb.com/user/ur49179813/ratings) but we plan to use subset of the dataset. we got 400 movies downloaded in an Excel sheet in CSV format. The dataset has these attributes (columns): position, const, date and time created,
-title, title type, directors, demetriodor-880-20065 rated, IMBD rating, runtime (mins), year, genre, number votes, released date(month\day\year) and URL.the data is laid out to be human readable not 
+title, title type, directors, our average rating, IMBD rating, runtime (mins), year, genre, number votes, released date(month\day\year) and URL.the data is laid out to be human readable not 
 machine-readable the data is generally consistent.
+As part of working with the Dataset, each of us did a random prediction of all the movies individually and we computed the average score for each movie from the four predictions the group members did.
+but since
 
 # RESEARCH QUESTIONS
 - Can this application correctly predict the success or failure of the movies based on actor,actress or director previous historical data
