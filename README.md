@@ -1,4 +1,4 @@
-# A SYSTEM TO PREDICT MOVIE RATINGS WITH IMDb DATA AND R PROGRAMMING LANGUAGE.
+# A SYSTEM TO PREDICT MOVIE RATINGS WITH IMDb DATA AND R PROGRAMMING LANGUAGE.xxxx
 
 # OVERVIEW
 This project would provide a model to predict personal user movie ratings. The personal user ratings would compare with IMDb ratings for a set of 400 movies on different data mining models using the attributes in the dataset as predictors.
