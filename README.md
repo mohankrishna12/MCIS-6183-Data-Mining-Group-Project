@@ -1,4 +1,4 @@
-# A SYSTEM TO PREDICT MOVIE RATINGS WITH IMDb DATA AND R PROGRAMMING LANGUAGE.xxxx
+# A SYSTEM TO PREDICT PERSONAL USER MOVIE RATINGS WITH IMDb DATA AND R PROGRAMMING LANGUAGE.
 
 # OVERVIEW
 This project would provide a model to predict personal user movie ratings. The personal user ratings would compare with IMDb ratings for a set of 400 movies on different data mining models using the attributes in the dataset as predictors.
@@ -23,8 +23,9 @@ The models in this application would be built and tested using R programming lan
 and graphics which provides a wide variety of statistical and graphical techniques like linear or non-linear modelling, statistical tests, time series analysis, 
 classification, clustering etc. The integrated development environment on which the models would be built is RStudio, which is a set of integrated tools designed to be more productive with R. it includes a console, 
 syntax-highlighting editor that supports direct code execution. 
-- Data Analysis:
-   Taking linear regression model using our rating and IMDb rating, output result is:
+## Data Analysis:
+###### MODEL 1
+   Taking linear regression model using our rating on IMDb rating, output result is:
     
    ```
    Call:
@@ -46,6 +47,133 @@ Multiple R-squared:  0.0005135,	Adjusted R-squared:  -0.002131
 F-statistic: 0.1942 on 1 and 378 DF,  p-value: 0.6597
 
   ```
+ Assumptions made when fitting linear regression model:
+1. The Y-values are dependent
+2. The Y-values can be expressed as a linear function of the X variables
+3. variation of observations around the regression line(residual SE) is constant
+4. for given value of X, Y values(the errors) are normally distributed.
+
+while the assumptions of a linear model are never perfectly met, we want to still check if there are reasonable assumptions to work with.
+ our rating(data$our) is the outcome or dependent Y-variable and IMDb rating(data$imdb) is the independent X-variable. on the diagnostic plot
+(screenshots attached to the Project PDF ), the residual plot shows that on the X-axis there are fitted values(lm(data$our ~ data$imdb))
+ and  on the Y-axis are the residuals(erros). from the residual plot we can see the linearity assumption is met because red line is fairly flat.
+on the Normal Q-Q plot, the Y-axis is the ordered standardized residuals and on the X-axis is the ordered theoretical residuals(lm(data$our ~ data$imdb)).
+the errors/residuals are normally distributed, the data looks fairly normal and points are on a diagonal line.
+scale-location plot and Residual vs leverage help us more to identify the linearity between the two numeric variables.
+From the summary we can see the residuals/errors
+- Min = -5.1926 1Q = -1.1671 Median = -0.1448 3Q = 0.8727 Max= 2.8775
+- Estimate of the intercept = 7.66447
+- Standard Error = 1.11697
+- test statistics value = 6.862
+- p-value = 2.79e-11
+- slope for data$imdb = -0.06376
+- Standard Error = 0.14469
+- test statistics value = -0.441
+- p-value = 0.66
+- Residual standard Error = 1.671, which is the measure of the variation of observations around the regression line.
+- Multiple R-squared = 0.0005135
+- Adjusted R-squared = -0.002131
+- The root mean squared error = 1.667013
+
+In summary: on the diagnostic plot, the residual plot and Normal Q-Q plot let us know that the linearity assumption is met but the residual standard error(1.671)
+is large. to an extent knowing the IMDb rating can help us predict our rating. further we want to test our rating on other 
+models
+
+
+###### MODEL 2
+ Multiple Linear regression of our rating on IMDb rating, some Genres, Directors(those with more than 4 movies), year of release.
+
+   ```
+   Call:
+lm(formula = data$our ~ data$imdb + data$drama + data$crime + 
+    data$sci_fi + data$"Ingmar Bergman" + data$"Martin Scorsese" + 
+    data$"Alfred Hitchcock" + data$year.c, data = data)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-5.274 -1.178 -0.068  1.019  3.058 
+
+Coefficients:
+                         Estimate Std. Error t value Pr(>|t|)    
+(Intercept)              7.854304   1.207553   6.504 2.53e-10 ***
+data$imdb               -0.116118   0.160246  -0.725   0.4691    
+data$drama               0.155187   0.247692   0.627   0.5313    
+data$crime               0.124066   0.201858   0.615   0.5392    
+data$sci_fi              0.055064   0.362202   0.152   0.8792    
+data$"Ingmar Bergman"    0.093249   0.511226   0.182   0.8554    
+data$"Martin Scorsese"  -1.110335   0.603337  -1.840   0.0665 .  
+data$"Alfred Hitchcock"  0.236044   0.794990   0.297   0.7667    
+data$year.c              0.003250   0.004564   0.712   0.4768    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.677 on 371 degrees of freedom
+Multiple R-squared:  0.01287,	Adjusted R-squared:  -0.008419 
+F-statistic: 0.6045 on 8 and 371 DF,  p-value: 0.7742
+
+ ```
+
+
+###### MODEL 3
+  Generalized Additive Model(GAM) of our rating on IMDb rating
+ 
+  ```
+  Family: gaussian 
+Link function: identity 
+
+Formula:
+data$our ~ s(data$imdb)
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  7.17368    0.08574   83.67   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+             edf Ref.df     F p-value
+s(data$imdb)   1      1 0.194    0.66
+
+R-sq.(adj) =  -0.00213   Deviance explained = 0.0514%
+GCV = 2.8084  Scale est. = 2.7936    n = 380
+
+ ```
+
+###### MODEL 4 
+  Generalized Additive Model(GAM) of our rating on IMDb rating, some Genres, Directors(those with more than 4 movies), year of release
+
+  ```
+Family: gaussian 
+Link function: identity 
+
+Formula:
+data$our ~ te(data$imdb, data$year.c) + data$"drama " + data$"crime " + 
+    data$"sci_fi " + data$"Ingmar Bergman" + data$"Martin Scorsese" + 
+    data$"Alfred Hitchcock"
+
+Parametric coefficients:
+                        Estimate Std. Error t value Pr(>|t|)    
+(Intercept)              7.02199    0.24179  29.042   <2e-16 ***
+data$"drama "            0.15910    0.24802   0.641   0.5216    
+data$"crime "            0.12954    0.20228   0.640   0.5223    
+data$"sci_fi "           0.05134    0.36260   0.142   0.8875    
+data$"Ingmar Bergman"    0.10511    0.51215   0.205   0.8375    
+data$"Martin Scorsese"  -1.13591    0.60564  -1.876   0.0615 .  
+data$"Alfred Hitchcock"  0.30644    0.80572   0.380   0.7039    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+                          edf Ref.df    F p-value
+te(data$imdb,data$year.c)   3      3 0.35   0.789
+
+R-sq.(adj) =  -0.0103   Deviance explained = 1.37%
+GCV = 2.8925  Scale est. = 2.8164    n = 380
+
+  ```
+
+
+
 
 
 
