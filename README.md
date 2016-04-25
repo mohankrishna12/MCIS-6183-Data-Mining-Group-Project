@@ -48,10 +48,10 @@ F-statistic: 0.1942 on 1 and 378 DF,  p-value: 0.6597
 
   ```
  Assumptions made when fitting linear regression model:
-1. The Y-values are dependent
-2. The Y-values can be expressed as a linear function of the X variables
-3. variation of observations around the regression line(residual SE) is constant
-4. for given value of X, Y values(the errors) are normally distributed.
+1.  The Y-values are dependent
+2.  The Y-values can be expressed as a linear function of the X variables
+3.  variation of observations around the regression line(residual SE) is constant
+4.  for given value of X, Y values(the errors) are normally distributed.
 
 while the assumptions of a linear model are never perfectly met, we want to still check if there are reasonable assumptions to work with.
  our rating(data$our) is the outcome or dependent Y-variable and IMDb rating(data$imdb) is the independent X-variable. on the diagnostic plot
