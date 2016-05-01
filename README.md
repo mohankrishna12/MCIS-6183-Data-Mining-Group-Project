@@ -214,10 +214,10 @@ Team Members:
 | 05-01-2016 | Output/Result and final submission | Uchendu Korieocha | Result, conclusion and final submission of our project
 
 #OUTCOME
-- The outcome of our project wasn't successful. from the results we got from all the models, knowing IMDb rating can't help us predict our rating because the result on the plot shows no relationship and errors from the models are large. the same no relationship result when our rating was compared with IMDb rating, year of release, Genres and Directors(with more than four movies).
-   this could be as a result of randomly predicting our rating for the 400 movies, selection bias on the type of movies to compare with our rating because we used movies under crime, drama and sci_fi category. though we find the result interesting, what if we took our time to see all 400 movies and we assigned the same rating with have on our data based on true judgement? would there be no relationship when we compare our rating with other predictors in the dataset?
+- The outcome of our project wasn't successful. the results we got from all the models, knowing IMDb rating can't help us predict our rating because the result on the plot shows no relationship and errors from the models are large. the same no relationship result when our rating was compared with IMDb rating, year of release, Genres and Directors(with more than four movies).
+   this could be as a result of randomly predicting our rating for the 400 movies, selection bias on the type of movies to compare with our rating because we used movies under crime, drama and sci_fi category. though we find the result interesting, we asked ourselves this question: what if we took our time to see all 400 movies and we assigned the same rating we have in our data based on true judgement? would there be no relationship when we compare our rating with other predictors in the dataset?
 - From our models, using different combinations of predictors with our rating shows no relationship. so we cannot state how many predictors our models need to correctly predict our rating.
-- We think 400 movies are adequate to correctly predict movie rating but the dependent variable (i.e our rating) must be correct and the selection of predictors should be biased.
+- We think 400 movies are adequate to correctly predict movie rating but the dependent variable (i.e our rating) must be correct and the selection of predictors shouldn't be biased.
 - Yes there are other ways to predict movie rating but its unfortunate that IMDb seems to have policy against web-scrapping from its database, one would have to ask for permission.   
 
 #REFERENCES
