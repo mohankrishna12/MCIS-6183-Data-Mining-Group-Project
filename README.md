@@ -13,8 +13,8 @@ IMDb let one score movies from one to ten, half points and fractions are not all
 
 
 # RESEARCH QUESTIONS
-- How many predictors would the models need to correctly predict my rating?
-- Are 400 movies enough to work with so as to correctly predict my rating? do i need more movies?
+- How many predictors would the models need to correctly predict our rating?
+- Are 400 movies enough to work with so as to correctly predict our rating? do i need more movies?
 - Can there be other ways to predict the ratings of a movie?
 
 
@@ -115,7 +115,7 @@ F-statistic: 0.6045 on 8 and 371 DF,  p-value: 0.7742
 In the model 2 we used multiple linear regression to model the relationship between our rating(which  is the dependent variable Y)
 on IMDb rating, some Genres(drama,crime and sci_fi), Directors(those that have more than four movies in the data) and year of release.
 these serve as the multiple independent variable X.
-selection of Genres was done randomly since we decided to check our rating on other predictors in the data, again our selection is biased. for the year of relase,
+selection of Genres was done randomly since we decided to check our rating on other predictors in the data, again our selection is biased. for the year of release,
 we decided to take the difference from 2014, the positive coefficient implies that older movies get higher ratings, this has no direct predictive interpretation.
 we selected directors that have more than four movies in the data and also created dummies for Genre and Directors so we could use part of the category in each variable.
 There is no much improvement in the fit as compared to model1. the root mean squared error of this model is 1.656679, which is almost
@@ -213,7 +213,9 @@ Team Members:
 | 03-13-2016 | Compiled dataset | Tribikya Thapa | We got a Dataset on MovieLens that lacked some variables like names of directors,actors and actresses. we created random names of directors,actors and actresses, which made the dataset rigid, incorrect and difficult to give the required outcome. with this, we did more research to get a better dataset|
 | 04-14-2016 | Compiled dataset from IMDb website | Chigozie Mozie | After our previous failed attempts to compile a good dataset, my team members and i stumbled on a rich dataset on IMDb website, my role was to download it on an Excel sheet, cleaned it up to get a subset of the overall dataset. we've 400 movies to work with now.|
 | 04-21-2016 | Codes analysis | Uchendu Korieocha | i got codes and sample models from the web blog to work with the 400 movies, at this point i'm analyzing the codes to get the best way it can work with our dataset. in a couple of days, the codes would use the data to predict personal users ratings.|  
-| 04-25-2016 | Data analysis,creation of models and testing of models with data | All team members |
+| 04-25-2016 | Data analysis,creation of models and testing of models with data | All team members | We created four models: Linear regression model of our rating on IMDb rating. Multiple Linear regression of our rating on IMDb rating, Genres, Directors and year. Generalized Additive Model(GAM) of our rating on IMDb rating. Generalized Additive Model(GAM) of our rating on IMDb rating,Genres,Directors and year. |
+| 04-29-2016 | Project Presentation with screenshots | Dimosh Pradhan | i created powerpoint slides with the screenshots of the output from our models |
+| 05-01-2016 | Output/Result and final submission | Uchendu Korieocha | Result, conclusion and final submission of our project
 #REFERENCES
 - Dataset: Retrieved from [IMDB Website] (http://www.imdb.com/user/ur49179813/ratings)
 - Dimiter Toshkov (2014, March 2). Predicting movie ratings with IMDb data and R. (Web blog post). Retrieved from [Web blog post] (http://www.r-boggers.com/predicting-movie-ratings-with-imdb-data-and-r) 
