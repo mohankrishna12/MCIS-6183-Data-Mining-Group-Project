@@ -2,7 +2,7 @@
 
 # OVERVIEW
 This project would provide a model to predict personal user movie ratings. The personal user ratings would compare with IMDb ratings for a set of 400 movies on different data mining models using the attributes in the dataset as predictors.
-users predictions would be based on different predictors like IMDb ratings, year of release, Genre and directors.the application compares personal user rating with IMDb rating. since IMDb rating is one of the predictors of our rating, it's interesting to see the relationship between our rating,IMDb rating and other predictors in the proposed models. for instance, knowing the IMDb rating a user can predict if the movie he is about to see is good or bad.  
+users predictions would be based on different predictors like IMDb ratings, year of release, Genre and directors.the application compares personal user rating with IMDb rating. since IMDb rating is one of the predictors of our rating, it's interesting to see the relationship between our rating,IMDb rating and other predictors in the proposed models. for instance, the models would check if knowing the IMDb rating, can a user predict if the movie he is about to see would be good or bad.  
 
 # DATA
 We got the dataset from [IMDb Website] (http://www.imdb.com/user/ur49179813/ratings) but we plan to use subset of the dataset. we got 400 movies downloaded in an Excel sheet in CSV format. The dataset has these attributes (columns): position, const, date and time created,
@@ -53,13 +53,10 @@ F-statistic: 0.1942 on 1 and 378 DF,  p-value: 0.6597
 3.  variation of observations around the regression line(residual SE) is constant
 4.  for given value of X, Y values(the errors) are normally distributed.
 
-while the assumptions of a linear model are never perfectly met, we want to still check if there are reasonable assumptions to work with.
- our rating(data$our) is the outcome or dependent Y-variable and IMDb rating(data$imdb) is the independent X-variable. on the diagnostic plot
-(screenshots attached to the Project PDF ), the residual plot shows that on the X-axis there are fitted values(lm(data$our ~ data$imdb))
- and  on the Y-axis are the residuals(erros). from the residual plot we can see the linearity assumption is met because red line is fairly flat.
+while the assumptions of a linear model are never perfectly met, we want to check if there are reasonable assumptions to work with.
+ our rating(data$our) is the outcome or dependent Y-variable and IMDb rating(data$imdb) is the independent X-variable. Looking at the scatterplot with the regression line shows no relationship at all between our rating and IMDb rating. the residual plot shows that on the X-axis there are fitted values(lm(data$our ~ data$imdb))
+ and  on the Y-axis are the residuals(erros). from the residual plot as well we can see the linearity assumption is not met because red line is not fairly flat.
 on the Normal Q-Q plot, the Y-axis is the ordered standardized residuals and on the X-axis is the ordered theoretical residuals(lm(data$our ~ data$imdb)).
-the errors/residuals are normally distributed, the data looks fairly normal and points are on a diagonal line.
-scale-location plot and Residual vs leverage help us more to identify the linearity between the two numeric variables.
 From the summary we can see the residuals/errors
 - Min = -5.1926 1Q = -1.1671 Median = -0.1448 3Q = 0.8727 Max= 2.8775
 - Estimate of the intercept = 7.66447
@@ -75,9 +72,8 @@ From the summary we can see the residuals/errors
 - Adjusted R-squared = -0.002131
 - The root mean squared error = 1.667013
 
-In summary: on the diagnostic plot, the residual plot and Normal Q-Q plot let us know that the linearity assumption is met but the residual standard error(1.671)
-is large. to an extent knowing the IMDb rating can help us predict our rating. further we want to test our rating on other 
-models
+In summary: The scatterplot and diagnostic plot let us know that the linearity assumption is not met and there is no relationship between our rating and IMDb rating. The residual standard error(1.671)
+is large. knowing the IMDb rating alone can't help us predict our rating. further we want to test our rating and other predictors in other models
 
 
 ###### MODEL 2
@@ -120,8 +116,8 @@ we decided to take the difference from 2014, the positive coefficient implies th
 we selected directors that have more than four movies in the data and also created dummies for Genre and Directors so we could use part of the category in each variable.
 There is no much improvement in the fit as compared to model1. the root mean squared error of this model is 1.656679, which is almost
 the same as the root mean squared error in model 1.
-from the two models we have seen(screenshots of diagnostic plots would be attached to the PDF) that both regressions assumed the relationship between the predictors
-and outcome is linear.
+from the two models we have seen(screenshots of diagnostic plots would be attached to the PDF) that both regressions assumed no relationship between our rating on other predictors.
+
 
 ###### MODEL 3
   Generalized Additive Model(GAM) of our rating on IMDb rating
