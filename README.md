@@ -2,7 +2,7 @@
 
 # OVERVIEW
 This project would provide a model to predict personal user movie ratings. The personal user ratings would compare with IMDb ratings for a set of 400 movies on different data mining models using the attributes in the dataset as predictors.
-users predictions would be based on different predictors like IMDb ratings, year of release, Genre and directors.the application compares personal user rating with IMDb rating.
+users predictions would be based on different predictors like IMDb ratings, year of release, Genre and directors.the application compares personal user rating with IMDb rating. since IMDb rating is one of the predictors of our rating, it's interesting to see the relationship between our rating,IMDb rating and other predictors in the proposed models. for instance, knowing the IMDb rating a user can predict if the movie he is about to see is good or bad.  
 
 # DATA
 We got the dataset from [IMDb Website] (http://www.imdb.com/user/ur49179813/ratings) but we plan to use subset of the dataset. we got 400 movies downloaded in an Excel sheet in CSV format. The dataset has these attributes (columns): position, const, date and time created,
