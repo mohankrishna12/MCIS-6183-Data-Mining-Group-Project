@@ -99,4 +99,3 @@ t<-unique(c(as.character(unique(data["Genre.1"])$Genre.1), as.character(unique(d
 >plot(model4, select = 1,theta = -18,phi = 15,pers = TRUE)
 
 
-###More codes to create other models would be done here
